@@ -160,6 +160,25 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
 <script src="js/Nagbar.js" defer></script>
+<script>
+    function updateOpenGraphTags() {
+        const gameNameElement = document.getElementById("gameName");
+        const gameInfoElement = document.getElementById("gameInfo");
+        const gameImageElement = document.getElementById("gameimg");
+
+        const gameName = gameNameElement.innerText;
+        const gameInfo = gameInfoElement.innerText;
+        const gameImage = gameImageElement.querySelector("img").src;
+
+        document.querySelector('meta[property="og:title"]').setAttribute("content", gameName);
+        document.querySelector('meta[property="og:description"]').setAttribute("content", gameInfo);
+        document.querySelector('meta[property="og:image"]').setAttribute("content", gameImage);
+    }
+
+    window.onload = function () {
+        updateOpenGraphTags();
+    };
+</script>
 
 
 </html>
