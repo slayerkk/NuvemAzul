@@ -18389,7 +18389,7 @@ let games = [
         },
             {
             id: "402", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "https://cdn.discordapp.com/attachments/1180235989080350740/1231201826175451166/supermarketsimulator.png?ex=6636190d&is=6623a40d&hm=7d2014a07f2b8760a72810198666df4674a53fa70b35ff525cc40231f2a2d929&",  //deixa vazio por agora
+            Imag: "supermarketsimulator.png",  //deixa vazio por agora
             Nome: "Supermarket Simulator", //nome do jogo
             brevedesc: "O 'Supermarket Simulator' é uma simulação em primeira pessoa onde todos os detalhes da administração de um supermercado ganham vida.", //um pequeno texto (+/- este tamanho)
             desc: "Projete sua loja, otimizando a eficiência e a estética. Determine onde os produtos serão exibidos, gerencie os corredores e garanta uma experiência de compra tranquila para seus clientes.",  // Descrição do jogo
