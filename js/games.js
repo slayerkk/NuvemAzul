@@ -18387,7 +18387,49 @@ let games = [
             magnet:"magnet:?xt=urn:btih:KD4MBHZXFMAKRHSW4SIGPBGYFJJSXO3M&dn=It%20Takes%20Two&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
             drive:"",  //Link Drive (podes deixar estes 3 eu faço)
         },
+            {
+            id: "402", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "https://cdn.discordapp.com/attachments/1180235989080350740/1231201826175451166/supermarketsimulator.png?ex=6636190d&is=6623a40d&hm=7d2014a07f2b8760a72810198666df4674a53fa70b35ff525cc40231f2a2d929&",  //deixa vazio por agora
+            Nome: "Supermarket Simulator", //nome do jogo
+            brevedesc: "O 'Supermarket Simulator' é uma simulação em primeira pessoa onde todos os detalhes da administração de um supermercado ganham vida.", //um pequeno texto (+/- este tamanho)
+            desc: "Projete sua loja, otimizando a eficiência e a estética. Determine onde os produtos serão exibidos, gerencie os corredores e garanta uma experiência de compra tranquila para seus clientes.",  // Descrição do jogo
+            Dataupload: "12/20/2023", // nao mexes
 
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "OS: Windows (64-bit) 10"+  //Sistema Operacional
+            "<br>"+
+            "Processor: i5 3550 / RYZEN 5 2500X"+ //Processador
+            "<br>"+
+            "Memory: 4 GB RAM"+ //Memória ram
+            "<br>"+
+            "Graphics: NVIDIA GTX 1050 / AMD R9 270XDirect"+ //Placa de Vídeo
+            "<br>"+
+            "Storage: 5 GB available space"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "OS: Windows (64-bit) 10"+ //Sistema Operacional
+            "<br>"+
+            "Processor: i5 7600K / Ryzen 5 2600x"+ //Processador
+            "<br>"+
+            "Memory: 8 GB RAM"+ //Memória ram
+            "<br>"+
+            "Graphics: NVIDIA GTX 1060 / AMD RX 480Direct"+ //Placa de Vídeo
+            "<br>"+
+            "Storage: 5 GB available space"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+
+            // LinksDownload
+            mega: "", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/43lhwp4q8bwvcc9/Supermarket_Simulator_%5BBy_Nuvem_Azul%5D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:c5a8149c7c2ac6f4a98253909bf08e27f2a88c03",
+            drive:"",  //Link Drive (podes deixar estes 3 eu faço)
+        },
 ];
 
 
