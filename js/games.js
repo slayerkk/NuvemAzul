@@ -574,10 +574,10 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "https://mega.nz/file/BmUi3ApB#GLhp5RNfpenQrOkwYEMxuVXPaD7hKx2pp3UtoqpPE5E", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/gybfpt1qcn91qww/Grounded.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:7TONXVP2WZ4GKINM4ALSPTL5ZITRJOGA&dn=Grounded%20v.1.2.5.4184%20(2022)&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
-            drive:"https://drive.google.com/file/d/1ffXFpigFjA-L6iXYlVUi6YCp84bJq4bC/view?usp=drive_link",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/57MxCbJa#AjLo0VgYoSaOvnoY0sXtSbyuQ741WeemdMH6R5GVmFw", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/9hdqwevsxpzy7qu/Grounded.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:RPWVKEIDF7XU5MW77LWSTR5FPGKKHF2Z&dn=Grounded&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+            drive:"https://drive.google.com/file/d/12UdUHjaW6UAn51wEsvxRhBqU9YMf9fq-/view?usp=drive_link",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
         {
@@ -12627,29 +12627,29 @@ let games = [
             // Minimos
             RequisitosMinimos:
             "<br>"+
-            "Sistema operacional: Windows 10 64 Bit  "+  //Sistema Operacional
+            "Sistema operacional: Microsoft Windows XP ou Windows Vista "+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i3-6100 / Core i5-2500K ou AMD Ryzen 3 1200 "+ //Processador
+            "Processador: Intel Pentium 4 3.2 GHz or AMD Athlon 64 3200+"+ //Processador
             "<br>"+
-            "Memória RAM: 4 GB "+ //Memória ram
+            "Memória RAM: 1 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Nvidia GeForce GTX 960 ou AMD Radeon RX 470 "+ //Placa de Vídeo
+            "Placa de vídeo: 256 MB NVIDIA GeForce 6600GT or better or ATI Radeon 1600XT or better"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 2 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 12 GB de espaço livre"+ //Armazenamento 
             "<br>",
 
             // Recomendados
             RequisitosRecomendados: 
             "<br>"+
-            "Sistema operacional: Windows 10 (64 bits) "+  //Sistema Operacional
+            "Não possui requisitos recomendados"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5-6600K / Core i7-4770 ou AMD Ryzen 5 1400 "+ //Processador
+            ""+ //Processador
             "<br>"+
-            "Memória RAM: 12 GB "+ //Memória ram
+            ""+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Nvidia GeForce GTX 1060 ou AMD Radeon RX 580 "+ //Placa de Vídeo
+            ""+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 2 GB de espaço livre"+ //Armazenamento 
+            ""+ //Armazenamento 
             "<br>",
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
@@ -14445,33 +14445,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 10 64bit"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: AMD Ryzen 3 1200 ou Intel Core i3-6300"+ //Processador
+            "Processador: AMD Ryzen 3 1200 / Intel Core i3-6300"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: AMD Radeon RX 560 4GB / NVIDIA GeForce GTX 960 4GB com DirectX12"+ //Placa de video
+            "Placa de vídeo: AMD Radeon RX 560 4GB / NVIDIA GeForce GTX 960 4GB"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 50 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10 64bit"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: AMD Ryzen 5 3600 ou Intel Core i5-8400"+ //Processador
+            "Processador: AMD Ryzen 3 1200 / Intel Core i3-6300"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: AMD Radeon RX 6600 XT 8GB ou NVIDIA GeForce RTX 3060 12GB com DirectX 12"+ //Placa de video
+            "Placa de vídeo: AMD Radeon RX 6500 XT 4GB / NVIDIA GeForce GTX 1660 6GB"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 50 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/lj8SmCZI#ZRR4BK6lThglhLnmpn3hZfiPXhqMdQz3up3K5XvbIOI", //Link do Mega
@@ -14491,33 +14491,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: 64-bit Windows 10"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: INTEL CORE I5-8400 or AMD RYZEN 3 3300X"+ //Processador
+            "Processador: Intel Core I5-8400 / AMD Ryzen 3 3300X"+ //Processador
             "<br>"+
-            "Memória: 12 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB com DirectX 11"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 570 4GB"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 20 GB de espaço livre de SSD"+ //Armazenamento 
+            "Armazenamento: 20 GB de espaço disponível SSD"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: 64-bit Windows 10"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: INTEL CORE I7-8700K or AMD RYZEN 5 3600X"+ //Processador
+            "Processador: Intel Core I7-8700K / AMD Ryzen 5 3600X"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce 1080Ti or AMD Radeon RX 5700 XT com DirectX 11"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce 1080Ti / AMD Radeon RX 5700 XT"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 20 GB de espaço livre de SSD"+ //Armazenamento 
+            "Armazenamento: 20 GB de espaço disponível SSD"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/pzNGQJwC#JbXff1rON0u101hZv0xQXqAli9cPPgqJqS-aRplZy44", //Link do Mega
@@ -14537,33 +14537,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 10"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5 8600"+ //Processador
+            "Processador:  Intel Core i5 8600"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Nvidia GTX 1060 6GB com DirectX 12"+ //Placa de video
+            "Placa de vídeo: Nvidia GTX 1060 6GB DirectX 12"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 18 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 18 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i5-10600k"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Nvidia RTX 2080 ou Nvidia RTX 3070 com DirectX 12"+ //Placa de video
+            "Placa de vídeo: Nvidia RTX 2080/3070 DirectX 12"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 18 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 18 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/YzsyEK4A#7jteMyHJY_3CxwsUqbcl4WnDo5hSyJ5YT5KE9hW4Rnw", //Link do Mega
@@ -14583,33 +14583,34 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema operacional: Windows 7/8/10 (64 bits)"+  //Sistema Operacional
+            "SO: Windows 7/8/10 (64 bits)"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i3-2100 / AMD FX-6300"+ //Processador
             "<br>"+
-            "Memória: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Intel HD 4000 / AMD Radeon HD 7450 com DirectX 11"+ //Placa de video
+            "Placa de vídeo: Intel HD 4000 / AMD Radeon HD 7450 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema operacional: Windows 10 (64 bits)"+  //Sistema Operacional
+            "SO: Windows 10 (64 bits)"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i5-4440S / AMD FX-8370"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: NVIDIA GeForce GTX 650 / AMD Radeon HD 7850 com DirectX 11"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 650 / AMD Radeon HD 7850 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+            
     
             // LinksDownload
             mega: "https://mega.nz/file/U21X2AbK#11jFLjOYgERsANJzvIotG4qp3L_xzyLmtBMJMaWp3UQ", //Link do Mega
@@ -14629,33 +14630,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "OS *:Windows Vista®/XP, Windows 7, Windows 8"+  //Sistema Operacional
+            "SO: Windows Vista®/XP, Windows 7, Windows 8"+  //Sistema Operacional
             "<br>"+
-            "Processor:Intel® CoreTM2 Duo 2.4 Ghz or better, AMD Athlon™ X2 2.8 Ghz ou superior"+ //Processador
+            "Processador: Intel® CoreTM2 Duo 2.4 Ghz / AMD Athlon™ X2 2.8 Ghz"+ //Processador
             "<br>"+
-            "Memoria:2 GB RAM"+ //Memoria RAM
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de Vídeo: NVIDIA® GeForce® 8800GTS or better, ATI Radeon™ HD 3850 ou superior"+ //Placa de video
+            "Placa de vídeo: NVIDIA® GeForce® 8800GTS / ATI Radeon™ HD 3850 "+ //Placa de Vídeo
             "<br>"+
-            "Espaço em disco: 9 GB"+ //Armazenamento 
+            "Armazenamento: 9 GB"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "OS *:Windows Vista®, Windows 7, Windows 8"+  //Sistema Operacional
+            "SO: Windows Vista®, Windows 7, Windows 8"+  //Sistema Operacional
             "<br>"+
-            "Processador:Intel® Core™ 2 Quad 2.7 Ghz or better, AMD Phenom™ II X4 3 Ghz ou superior"+ //Processador
+            "Processador: Intel® Core™ Quad 2.7 Ghz / AMD Phenom™ II X4 3 Ghz"+ //Processador
             "<br>"+
-            "Memoria:4 GB RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo:NVIDIA® GeForce® GTX 560 ou superior"+ //Placa de video
+            "Placa de vídeo: NVIDIA® GeForce® GTX 560"+ //Placa de Vídeo
             "<br>"+
-            "Espaço em disco: 9 GB"+ //Armazenamento 
+            "Armazenamento: 9 GB"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/8vcXmZrY#vosY-Reiu5FonxjQO7erod8v-Loda8i2zLxUOa6N5z4", //Link do Mega
@@ -14669,39 +14670,39 @@ let games = [
         {
             id: "321", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
             Imag: "hot-wheels-unleashed-2.png",  //imagem 500x500
-            Nome: "HOT WHEELS UNLEASHED 2", //nome do jogo
+            Nome: "HOT WHEELS UNLEASHED 2 Turbocharged", //nome do jogo
             brevedesc: "Diriga carros em uma pista de corrida insana!.", //um pequeno texto (+/- este tamanho)
             desc: "Em primeiro lugar, arrume espaço na sua estante virtual, porque agora são mais de 130 veículos e ainda mais variedades! Isso mesmo, além dos Hot Wheels™ Originals, temos também os Hot Wheels™ Monster Trucks e veículos do mundo do entretenimento. ",  // Descrição do jogo
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 8.1 de 64 bits ou superior"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5-2500K / AMD FX-6350"+ //Processador
+            "Processador: Intel Core i5-4590 / AMD FX-4350 "+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: GeForce GTX 960 / Radeon RX 460 com DirectX 11"+ //Placa de video
+            "Placa de vídeo:  GeForce GTX 1050 / Radeon RX 460"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 30 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10 de 64 bits"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i7-5820K / AMD Ryzen 5 2600"+ //Processador
+            "Processador: Intel Core i9-9900k  / AMD Ryzen 7 2700X "+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 1060 / AMD Radeon RX 580"+ //Placa de video
+            "Placa de vídeo: GeForce RTX 2070 Super / Radeon RX 6800 XT"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 30 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/BzsHSSCY#IWxcGAXpUb3z5znk5VfnaX8MMZngcCtjqZMwvUcf1Tk", //Link do Mega
@@ -14721,33 +14722,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 10 x64"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5-4590 (4* 3300) ou AMD FX-8350 (4* 4000) ou equivalente"+ //Processador
+            "Processador: Intel Core i5-4590 / AMD FX-8350"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: GeForce GTX 960 (4096 MB) ou Radeon RX 480 (8192 MB) com DirectX 11"+ //Placa de video
+            "Placa de vídeo: GeForce GTX 960 (4096 MB) / Radeon RX 480 (8192 MB) / Intel Arc A380 (8192 MB)"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 65 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 65 GB de espaço disponível SSD"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10 x64"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i9-9900k (8* 3600) ou AMD Ryzen 5 5600X (6* 3700 ) ou equivalente"+ //Processador
+            "Processador:  Intel Core i9-9900k / AMD Ryzen 5 5600X "+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: GeForce RTX 2070 Super (8192 MB) ou Radeon RX 6800 XT (16384 MB) com DirectX 12"+ //Placa de video
+            "Placa de vídeo: GeForce RTX 2070 Super (8192 MB) / Radeon RX 6800 XT (16384 MB) / Intel Arc A770 (16384 MB)"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 65 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 65 GB de espaço disponível SSD"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/si0nzJQL#2XMKQUOUZKrqHGfaYoAXU-pngRuRV7pNEZKZNO59RyA", //Link do Mega
@@ -14762,38 +14763,38 @@ let games = [
             id: "323", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
             Imag: "bioshock-inifinite.png",  //imagem 500x500
             Nome: "BioShock Infinite", //nome do jogo
-            brevedesc: "O cenário muda totalmente – sai da água para ir para o céu, na cidade voadora de Columbia, em 1912.", //um pequeno texto (+/- este tamanho)
+            brevedesc: "O cenário muda totalmente — sai da água para ir para o céu, na cidade voadora de Columbia, em 1912.", //um pequeno texto (+/- este tamanho)
             desc: "Assim como Rapture anos depois, Columbia foi construída para ser um paraíso utópico, onde somente as classes mais altas poderiam viver em paz e em harmonia.",  // Descrição do jogo
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Windows Vista Service Pack 2 32-bit"+  //Sistema Operacional
+            "SO: Windows Vista Service Pack 2 32-bit"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core 2 DUO 2.4 GHz / AMD Athlon X2 2.7 GHz"+ //Processador
             "<br>"+
-            "Memoria RAM: 2 GB"+ //Memoria RAM
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: ATI Radeon HD 3870 / NVIDIA 8800 GT / Intel HD 3000 Integrated Graphics com DirectX 10"+ //Placa de video
+            "Placa de vídeo: ATI Radeon HD 3870 / NVIDIA 8800 GT / Intel HD 3000 Integrated Graphics"+ //Placa de Vídeo
             "<br>"+
-            "Espaço livre: 20 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 20 GB"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: Windows 7 Service Pack 1 64-bit"+  //Sistema Operacional
+            "SO: Windows 7 Service Pack 1 64-bit"+  //Sistema Operacional
             "<br>"+
-            "Processador: Quad Core Processor"+ //Processador
+            "Processador: Qualquer processador Quad Core"+ //Processador
             "<br>"+
-            "Memoria RAM: 4 GB"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de video: AMD Radeon HD 6950 / NVIDIA GeForce GTX 560 com DirectX 10"+ //Placa de video
+            "Placa de vídeo: AMD Radeon HD 6950 / NVIDIA GeForce GTX 560"+ //Placa de Vídeo
             "<br>"+
-            "Espaço Livre: 30 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 30 GB"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/huNxWA7B#1lfxs3wdb3SUstJCusO1bFW1pvNrM_57Gyn-x-GijLg", //Link do Mega
@@ -14813,33 +14814,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema operacional: Windows 10 de 64 bits"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i3-2125 / AMD Phenom II X4 965"+ //Processador
             "<br>"+
-            "Memoria RAM: 4 GB"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de video: Nvidia GeForce GTX 660 Ti / AMD Radeon RX 560 / Intel Arc A380 com DirectX 11"+ //Placa de video
+            "Placa de vídeo: Nvidia GeForce GTX 660 Ti / AMD Radeon RX 560 / Intel Arc A380 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 10 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 11 de 64 bits"+  //Sistema Operacional
+            "SO: Windows 11"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5-2300 / AMD A8-6600K"+ //Processador
+            "Processador:  Intel Core i5-2300 / AMD A8-6600K"+ //Processador
             "<br>"+
-            "Memória RAM: 8 GB"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Nvidia GeForce GTX 1660 Super / AMD Radeon RX 480 / Intel Arc A750 com DirectX 11"+ //Placa de video
+            "Placa de vídeo: Nvidia GeForce GTX 1660 Super / AMD Radeon RX 480 / Intel Arc A750 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 10 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/g2EX0D5Z#umFZHboXhoFMO1D6VDALCgYh6dN46lPNzqnDOxwLgBE", //Link do Mega
@@ -14859,33 +14860,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 7/8/10 (64 bits)"+  //Sistema Operacional
+            "SO: Windows 7/8/10 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel i3-4130 3.4 GHz / AMD Ryzen 3 2200U 3.4 GHz"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: 2 GB, GeForce GTX 660 / Radeon R9 270"+ //Placa de video
+            "Placa de vídeo:  2 GB, GeForce GTX 660 / Radeon R9 270"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 50 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 7/8/10 (64 bits)"+  //Sistema Operacional
+            "SO: Windows 7/8/10 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel i7-8700 3.2 GHz / AMD Ryzen 7 2700 3.2 GHz"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: 4 GB, GeForce GTX 970 / Radeon RX 580"+ //Placa de video
+            "Placa de vídeo: 4 GB, GeForce GTX 970 / Radeon RX 580"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 50 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/smF1DSRQ#gUUXIXPgSFQnLOrE1HKBDj8TfkCrkBCZ3sHX_OuX_88", //Link do Mega
@@ -14905,33 +14906,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema operacional: Windows 10 64 bits"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i3"+ //Processador
             "<br>"+
-            "Memória: 2 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Relatively modern dedicated graphics card (Vulkan support required)"+ //Placa de video
+            "Placa de vídeo: Qualquer placa relativamente moderna compatível com Vulkan"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 500 MB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 500 MB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10 64 bits"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i5"+ //Processador
             "<br>"+
-            "Memória: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Relatively modern dedicated graphics card (Vulkan support required)"+ //Placa de video
+            "Placa de vídeo: Qualquer placa relativamente moderna compatível com Vulkan"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 500 MB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 500 MB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/sv9UwCDC#v0BeBbl1dPSPKSoQoH8O7VTWlfiC_p6sRWDxACNnh6w", //Link do Mega
@@ -14951,33 +14952,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 10 64-Bit"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5-6600K/AMD Ryzen 5 1600"+ //Processador
+            "Processador:  Intel Core i5-6600K/AMD Ryzen 5 1600"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Nvidia GeForce GTX 1050Ti/AMD Radeon R9 380X"+ //Placa de video
+            "Placa de vídeo: Nvidia GeForce GTX 1050Ti/AMD Radeon R9 380X com DirectX 12"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 100 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 100 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10 64-Bit"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i7-7700K/AMD Ryzen 5 2600"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Nvidia GeForce RTX 2070/AMD Radeon RX 5700 XT"+ //Placa de video
+            "Placa de vídeo:  Nvidia GeForce RTX 2070/AMD Radeon RX 5700 XT com Diretx 12"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 100 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 100 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/l2kinYqL#GtQB9ujIdhnLqVcNo6xZYcSzvpbFl8HBC3X1EmzXHoU", //Link do Mega
@@ -14997,33 +14998,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo Suportado: Windows® 7 32/64-bit / Vista 32/64 / XP"+  //Sistema Operacional
+            "SO: Windows® 7 32/64-bit / Vista 32/64 / XP"+  //Sistema Operacional
             "<br>"+
-            "Processador: Pentium 4 a 3,0 GHz"+ //Processador
+            "Processador: Pentium 4 3,0GHz"+ //Processador
             "<br>"+
-            "Memória: 1 GB"+ //Memoria RAM
+            "Memória RAM: 1 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa Gráfica: 128 MB, Shader model 2.0, ATI 9600, NVidia 6600 ou superior"+ //Placa de video
+            "Placa de vídeo: ATI 9600, NVidia 6600 ou superior com 128 MB e Shader model 2.0"+ //Placa de Vídeo
             "<br>"+
-            "Disco Rígido: Pelo menos 7,5 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: Pelo menos 7,5 GB de espaço livre"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema operativo suportado: Windows® 7 32/64-bit / Vista 32/64 / XP"+  //Sistema Operacional
+            "SO: Microsoft Windows XP / Vista / Vista64"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core 2 Duo a 2,4 GHz"+ //Processador
+            "Processador: Intel core 2 duo 2.4GHz"+ //Processador
             "<br>"+
-            "Memória: 1 GB"+ //Memoria RAM
+            "Memória RAM: 1 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Shader Model 3.0, NVidia 7600, ATI X1600 ou superior"+ //Placa de video
+            "Placa de vídeo: Shader model 3.0, NVidia 7600, ATI X1600 ou melhor"+ //Placa de Vídeo
             "<br>"+
-            "Disco Rígido: Pelo menos 7,5 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: Pelo menos 7,5 GB de espaço livre"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/g61FnIbS#0BCk0XnF_LpqNERTRvG9uIVeM2-r19RUGeY2yVSoigc", //Link do Mega
@@ -15043,33 +15044,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo *: Windows® 7 32/64-bit / Vista 32/64 / XP"+  //Sistema Operacional
+            "SO: Windows® 7 32/64-bit / Vista 32/64 / XP"+  //Sistema Operacional
             "<br>"+
             "Processador: Pentium 4 3.0GHz"+ //Processador
             "<br>"+
-            "Memória: 2 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better"+ //Placa de video
+            "Placa de vídeo: Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 13 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento:  13 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo *: Windows® 7 32/64-bit / Vista 32/64 / XP"+  //Sistema Operacional
+            "SO: Windows® 7 32/64-bit / Vista 32/64 / XP"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel core 2 duo 2.4GHz"+ //Processador
             "<br>"+
-            "Memória: 2 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Video Card Shader model 3.0. NVidia 7600, ATI X1600 or better"+ //Placa de video
+            "Placa de vídeo: Video Card Shader model 3.0. NVidia 7600, ATI X1600 or better"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 13 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 13 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/B78yxD4S#YpS5uV_C9WVG0wtXKCW5jcvSRxBW6-m3zsB8P89iVDY", //Link do Mega
@@ -15089,34 +15090,34 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo *: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit / Windows® 10 64-bit"+  //Sistema Operacional
+            "SO: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit / Windows® 10 64-bit"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel® Core™ i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHz"+ //Processador
             "<br>"+
-            "Memória: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA® GeForce® GTX 560 Ti / AMD Radeon™ HD 6870 (1GB VRAM)"+ //Placa de video
+            "Placa de vídeo: NVIDIA® GeForce® GTX 560 Ti / AMD Radeon™ HD 6870 (1GB VRAM) com DiretX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 10 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo *: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit / Windows® 10 64-bit"+  //Sistema Operacional
+            "SO: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit / Windows® 10 64-bit"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel® Core™ i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHz"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA® GeForce® GTX 780 / AMD Radeon™ R9 290 (2GB VRAM)"+ //Placa de video
+            "Placa de vídeo: NVIDIA® GeForce® GTX 780 / AMD Radeon™ R9 290 (2GB VRAM)"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 10 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
-    
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+            
             // LinksDownload
             mega: "https://mega.nz/file/VuVFBKJB#OKCLSXbBmUnoBS7H73uE3Nnanm1eXYbupPQP2udFzQU", //Link do Mega
             mediafire: "https://www.mediafire.com/file/mfyncpeb9idh7px/Dead_Island_and_Riptide_Definitive_Collection.torrent/file", //Link MediaFire
@@ -15135,33 +15136,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo *: Windows 7"+  //Sistema Operacional
+            "SO: Windows 7"+  //Sistema Operacional
             "<br>"+
             "Processador: 2 GHz Dual Core CPU"+ //Processador
             "<br>"+
-            "Memória: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Intel HD Graphics 4000 or better"+ //Placa de video
+            "Placa de vídeo: Intel HD Graphics 4000"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 8 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
             "Processador: 2.5 GHz Dual Core CPU"+ //Processador
             "<br>"+
-            "Memória: 6 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Geforce GTX 970/Radeon RX470 or better"+ //Placa de video
+            "Placa de vídeo:  Geforce GTX 970/Radeon RX470 or better"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 8 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento:  8 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/Uil0lBrb#mkJMlY1WV6EYHtY4rNE6oLwTSMtts0e_qwFm0ag5R4M", //Link do Mega
@@ -15181,34 +15182,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo *: Windows 7 - 64 bit"+  //Sistema Operacional
+            "SO: Windows 7 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5-4460, 2.70GHz or AMD FX-6300"+ //Processador
+            "Processador: Intel Core i5-4460, 2.70GHz / AMD FX-6300"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 760 or AMD Radeon R7 260x"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 760 / AMD Radeon R7 260x com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 68 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 68 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10 - 64 bit"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5 4690, 3.9GHz or AMD equivalent"+ //Processador
+            "Processador:  Intel Core i5 4690, 3.9GHz ou um processador AMD equivalente"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 970 or AMD Radeon R9 390"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 970 or AMD Radeon R9 390 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 68 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 68 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
-    
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
             // LinksDownload
             mega: "https://mega.nz/file/AvM12SIT#A64ZTlgO9GiKAUrEVVki7t5yqYjQ8lOp8i5-QW1ihI8", //Link do Mega
             mediafire: "https://www.mediafire.com/file/zr0gjhmag89mrii/Quantum_Break_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
@@ -15227,33 +15227,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo *: Windows 7 SP1 with Platform Update"+  //Sistema Operacional
+            "SO: Windows 7 SP1 with Platform Update"+  //Sistema Operacional
             "<br>"+
             "Processador: AMD FX-4350, 4.2 GHz / Intel Core i5-2300, 2.80 GHz"+ //Processador
             "<br>"+
-            "Memória: 6 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: AMD HD 7870, 2 GB / NVIDIA GTX 660, 2 GB"+ //Placa de video
+            "Placa de vídeo: AMD HD 7870, 2 GB / NVIDIA GTX 660, 2 GB com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 70 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 70 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10 Creators Update"+  //Sistema Operacional
+            "SO: Windows 10 Creators Update"+  //Sistema Operacional
             "<br>"+
             "Processador: AMD FX-8350, 4.0 GHz / Intel Core i7-3770, 3.4 GHz"+ //Processador
             "<br>"+
-            "Memória: 12 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: AMD RX 480, 4 GB or RX580, 4GB / NVIDIA GTX 970, 4GB or GTX1060, 6GB"+ //Placa de video
+            "Placa de vídeo: AMD RX 480, 4 GB or RX580, 4GB / NVIDIA GTX 970, 4GB or GTX1060, 6GB com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 70 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 70 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/BrVDVK5T#S42wwLDO8mSrx3TK6w_1VLE3O6m25rP58vQYR6J3124", //Link do Mega
@@ -15273,33 +15273,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo *: 64-bit: Vista SP2, Win 7 SP1, Win 8.1"+  //Sistema Operacional
+            "SO: 64-bit: Vista SP2, Win 7 SP1, Win 8.1"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"+ //Processador
             "<br>"+
-            "Memória: 3 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 3 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 460 | AMD Radeon HD 5850"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 460 | AMD Radeon HD 5850 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 44 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 44 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo *: 64-bit: Win 7 SP1, Win 8.1"+  //Sistema Operacional
+            "SO: 64-bit: Win 7 SP1, Win 8.1"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i7-3770, 3.4 GHz | AMD FX-8350, 4.0 GHz"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 660 | AMD Radeon HD 7950"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 660 | AMD Radeon HD 7950 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 57 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 57 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/1qdBmKKT#KDluyRRb7cp5ayLso67E6Of8AKwUOoR_rDNM3rANXmM", //Link do Mega
@@ -15319,33 +15319,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo *: Windows 7, Windows 10"+  //Sistema Operacional
+            "SO: Windows 7/10"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core 2 Duo E8600 or AMD Phenom II X4 945"+ //Processador
+            "Processador: Intel Core 2 Duo E8600 / AMD Phenom II X4 945"+ //Processador
             "<br>"+
-            "Memória: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: AMD Radeon R5 230 or Nvidia GeForce GT 520"+ //Placa de video
+            "Placa de vídeo:  AMD Radeon R5 230 or Nvidia GeForce GT 520"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 5 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo *: Windows 7, Windows 10"+  //Sistema Operacional
+            "SO: Windows 7/10"+  //Sistema Operacional
             "<br>"+
             "Processador: AMD FX 4300 or Intel Core i3 2120"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: AMD Radeon R5 340X or Nvidia GeForce GTS 450"+ //Placa de video
+            "Placa de vídeo: AMD Radeon R5 340X or Nvidia GeForce GTS 450"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 5 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/0n9EACLC#vwnb5ZYUiV0WMEAigPGZ3sXkiDbtDAhvSUcIrb_k8eM", //Link do Mega
@@ -15365,33 +15365,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 10 64-bit"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i3 3.0 GHz or Ryzen 3"+ //Processador
+            "Processador: Intel Core i3 3.0 GHz or Ryzen 3xxx"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Nvidia GeForce GTX 960 4GB VRAM"+ //Placa de video
+            "Placa de vídeo: Nvidia GeForce GTX 960 4GB VRAM com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 10 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 11 64-bit"+  //Sistema Operacional
+            "SO: Windows 11 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5 (geração recente)"+ //Processador
+            "Processador: Intel Core i5 de geração recente"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVidia GeForce GTX 1070 ou equivalente"+ //Placa de video
+            "Placa de vídeo: NVidia GeForce GTX 1070 com DirectX 12"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 15 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/p6kEHCCJ#fQhjRCBLCxAhLOzwyrGoZpnnBSqowaGzytQL7zjS-i8", //Link do Mega
@@ -15411,33 +15411,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 10"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i5-7400 CPU @ 3.00GHz ; Shader Model 5"+ //Processador
             "<br>"+
-            "Memoria RAM: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: Não possui requisitos para memória RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA Geforce GTX 1050"+ //Placa de video
+            "Placa de vídeo: NVIDIA GForce GTX 1050 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 1 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
             "Não possui requisitos recomendados"+  //Sistema Operacional
             "<br>"+
             ""+ //Processador
             "<br>"+
-            ""+ //Memoria RAM
+            ""+ //Memória ram
             "<br>"+
-            ""+ //Placa de video
+            ""+ //Placa de Vídeo
             "<br>"+
             ""+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/YiEAkLJI#3VD6YYzVeUR6P7Fwb52iu_RgG4Iamqr-qWi8SSgyTEw", //Link do Mega
@@ -15457,33 +15457,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo *: Windows 7, 8 or 10 (64-bit)"+  //Sistema Operacional
+            "SO: Windows 7/8/10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel i5-2300 or AMD FX-6300"+ //Processador
+            "Processador: Intel i5-2300 / AMD FX-6300"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 560 or AMD Radeon HD 7850, 2 GB VRAM"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 560 / AMD Radeon HD 7850, 2 GB VRAM"+ //Placa de Vídeo
             "<br>"+
-            "Espaço livre: 50 GB"+ //Armazenamento 
+            "Armazenamento: 7 GB de espaço livre"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo *: Windows 7, 8 or 10 (64-bit)"+  //Sistema Operacional
+            "SO: Windows 7/8/10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel i7-4770k or AMD Ryzen 5 1600"+ //Processador
+            "Processador: Intel i7-4770k / AMD Ryzen 5 1600"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580, 4 GB VRAM"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 1060 / AMD Radeon RX 580, 4 GB VRAM"+ //Placa de Vídeo
             "<br>"+
-            "Espaço livre: 50 GB"+ //Armazenamento 
+            "Armazenamento: 7 GB de espaço livre"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/Ii1HxCpb#K6Ss-Bdj0kTw20fEIIBkYYy1uPO7MyUXlM0dM1Qm1sg", //Link do Mega
@@ -15503,33 +15503,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo *: Windows 7/10 (latest service pack)"+  //Sistema Operacional
+            "SO: Windows 7/10"+  //Sistema Operacional
             "<br>"+
-            "Processador: AMD FX-8350 or Intel i5-3570"+ //Processador
+            "Processador: AMD FX-8350 / Intel i5-3570"+ //Processador
             "<br>"+
-            "Memória: 6 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: AMD Radeon™ HD 7970 or NVIDIA GeForce GTX 680 2 GB"+ //Placa de video
+            "Placa de vídeo: AMD Radeon™ HD 7970 / NVIDIA GeForce GTX 680 2 GB com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 75 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 75 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo *: Windows 7/10 (latest service pack)"+  //Sistema Operacional
+            "SO: Windows 7/10"+  //Sistema Operacional
             "<br>"+
-            "Processador: AMD Ryzen™ 5 2600 (Intel i7-4770)"+ //Processador
+            "Processador: AMD Ryzen™ 5 2600 / Intel i7-4770"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: AMD Radeon™ RX 590 or NVIDIA GeForce GTX 1060 6GB"+ //Placa de video
+            "Placa de vídeo: AMD Radeon™ RX 590 / NVIDIA GeForce GTX 1060 6GB com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 75 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 75 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/Fv8jhZgS#KMC1Qz5uvqnRQsfZ6Hm5NqHwGWcnMiKwCNLck8W0B6M", //Link do Mega
@@ -15549,33 +15549,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema: Windows 7 64-Bit"+  //Sistema Operacional
+            "SO: Windows 7 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i3 530 @2.93GHz / AMD Phenom 9950 @2.6GHz"+ //Processador
             "<br>"+
-            "Memória RAM: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de Vídeo: Geforce GTX 660, Radeon HD 6970"+ //Placa de video
+            "Placa de vídeo: Geforce GTX 660 / Radeon HD 6970 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço livre: 25 GB livres em disco"+ //Armazenamento 
+            "Armazenamento: 25 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema: Windows 7 64-Bit"+  //Sistema Operacional
+            "SO: Windows 7 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i3 2105 @3.1GHz/AMD FX 4100 @3.6GHz"+ //Processador
+            "Processador: Intel Core i3 2105 @3.1GHz / AMD FX 4100 @3.6GHz"+ //Processador
             "<br>"+
-            "Memória RAM: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Geforce GTX 760, Radeon HD 7850"+ //Placa de video
+            "Placa de vídeo: Geforce GTX 760 / Radeon HD 7850"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 25 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 25 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/dmsw2ZSB#J7-YB_3ix7sRJ2H_5th4Q4M2b8HezCq3nCwhRphf1gs", //Link do Mega
@@ -15595,33 +15595,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "OS *: Windows XP SP3"+  //Sistema Operacional
+            "SO: Windows XP SP3"+  //Sistema Operacional
             "<br>"+
-            "Processor: 2.4 GHz Dual Core Processor"+ //Processador
+            "Processador:  2.4 GHz Dual Core Processor"+ //Processador
             "<br>"+
-            "Memory: 2 GB(XP)/ 2 GB(Vista)"+ //Memoria RAM
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
             "<br>"+
-            "Video Card: NVIDIA GeForce 8500 /ATI Radeon HD 2600"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce 8500 / ATI Radeon HD 2600"+ //Placa de Vídeo
             "<br>"+
-            "Hard Disk Space: 13 GB livre "+ //Armazenamento 
+            "Armazenamento: 13 GB de espaço livre"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "OS *: Windows XP SP3/Vista/Win 7"+  //Sistema Operacional
+            "SO: Windows XP SP3/Vista/Win 7"+  //Sistema Operacional
             "<br>"+
-            "Processor: 2.3 GHz Quad Core processor"+ //Processador
+            "Processador: 2.3 GHz Quad Core processor"+ //Processador
             "<br>"+
-            "Memory: 2 GB RAM"+ //Memoria RAM
+            "Memória RAM: 2 G de RAM"+ //Memória ram
             "<br>"+
-            "Placa de video: NVIDIA GeForce GTX 560 / ATI Radeon HD 5850"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 560 / ATI Radeon HD 5850"+ //Placa de Vídeo
             "<br>"+
-            "HD: 20 GB free"+ //Armazenamento 
+            "Armazenamento: 20 GB de espaço livre"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/hytSERgT#NrBThcOpkvvRvy8iMarXymETombrHnpQbmvUwheQ58k", //Link do Mega
@@ -15635,39 +15635,39 @@ let games = [
         {
             id: "342", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
             Imag: "borderlands-new-tales-from.png",  //imagem 500x500
-            Nome: "Borderlands New Tales from", //nome do jogo
+            Nome: "New Tales from the Borderlands", //nome do jogo
             brevedesc: "Tome uma posição contra os cruéis líderes corporativos em nesta aventura narrativa.", //um pequeno texto (+/- este tamanho)
             desc: "Enfrente uma invasão ao planeta, um monstro das arcas terrível e um capitalista frio e calculista, em sua jornada cinematográfica em que tudo que acontece depende de você e suas escolhas! Encontre um elenco cheio de desajustados, robôs assassinos e armas falantes nesta corrida até o topo!",  // Descrição do jogo
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
             "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5-4690K or AMD Ryzen 3 1300X"+ //Processador
+            "Processador:  Intel Core i5-4690K / AMD Ryzen 3 1300X"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Nvidia GeForce GTX 960 4GB or AMD Radeon RX 470 4GB"+ //Placa de video
+            "Placa de vídeo: Nvidia GeForce GTX 960 4GB / AMD Radeon RX 470 4GB com DirectX 12"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
             "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i7-4770 or AMD Ryzen 5 2600"+ //Processador
+            "Processador: Intel Core i7-4770 / AMD Ryzen 5 2600"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Nvidia GTX 1060 6GB or AMD Radeon RX 590 8GB"+ //Placa de video
+            "Placa de vídeo: Nvidia GTX 1060 6GB or AMD Radeon RX 590 8GB com DirectX 12"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/ti90kYbK#QSd3kblmGz0me_5Fvh245zkdtUJadwQ21dlDT6b9OmM", //Link do Mega
@@ -15687,33 +15687,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 10 64 bit"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel(R) Core(TM) i5-3470"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 1060"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 1060"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 54 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 54 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10 64-Bit latest update"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel(R) Core(TM) i5-8600 or higher"+ //Processador
+            "Processador: Intel(R) Core(TM) i5-8600"+ //Processador
             "<br>"+
-            "Memória: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 1660 TI"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 1660 TI"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 54 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 54 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/FmsBlZ5J#KBQyOhNdbY6TZwP43_R2FcGBY230lsRYMHRRK4gbWII", //Link do Mega
@@ -15733,33 +15733,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 10 64 bit"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel(R) Core(TM) i5-3450 / AMD Ryzen 3"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 1050 TI /AMD Radeon 470"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 1050 TI / AMD Radeon 470"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 20 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo: Windows 10 64-Bit latest update"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel(R) Core(TM) i5-7600k / AMD Ryzen 5 "+ //Processador
             "<br>"+
-            "Memória: 12 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 1660 TI / AMD Radeon Vega 56"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 1660 TI / AMD Radeon Vega 56 "+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 20 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: "+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/lqVABKga#FWuxNvbfQahPk7uDRxQONmSPwLoZ5nyPsjP7upVt33A", //Link do Mega
@@ -15779,33 +15779,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema operacional: Windows 7, Windows 8, Windows 10 (64-bit)"+  //Sistema Operacional
+            "SO: Windows 7/8/10 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i3 530 / AMD FX 4100"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Nvidia GTX 460 / AMD HD 5870"+ //Placa de video
+            "Placa de vídeo: Nvidia GTX 460 / AMD HD 5870 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 30 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 30 GB"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema operacional: Windows 7, Windows 8, Windows 10 (64-bit)"+  //Sistema Operacional
+            "SO: Windows 7/8/10 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i5 4690 / AMD FX 8320"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: Nvidia GTX 980 / AMD R9 Fury"+ //Placa de video
+            "Placa de vídeo: Nvidia GTX 980 / AMD R9 Fury com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 30 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 30 GB"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/su0mWb7R#rmtmcUtqSUD1YI2WgL05ZoOV1mCalmOqbySCRAlgmW8", //Link do Mega
@@ -15825,33 +15825,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Windows 7, Windows 8 ou Windows 10 (versão 64 bits)"+  //Sistema Operacional
+            "SO: Windows 7/8/10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i3 2130 ou AMD FX 4300"+ //Processador
+            "Processador: Intel Core i3 2130 / AMD FX 4300"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Nvidia GT 640 ou AMD HD 7750"+ //Placa de video
+            "Placa de vídeo: Nvidia GT 640 / AMD HD 7750 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
+            "Armazenamento: 50 GB"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: Windows 7, Windows 8 ou Windows 10 (versão 64 bits)"+  //Sistema Operacional
+            "SO: Windows 7/8/10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5 8600K ou AMD Ryzen 5 2600X"+ //Processador
+            "Processador: Intel Core i5 8600K / AMD Ryzen 5 2600X"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Nvidia GTX 1060 ou AMD RX 580"+ //Placa de video
+            "Placa de vídeo: Nvidia GTX 1060 / AMD RX 580 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
+            "Armazenamento: 50 GB"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/53VHEDoT#3h3cTEiS2ycGybVkaKetMS3gwFBSt5-mvHq4R_ZYNOM", //Link do Mega
@@ -15870,34 +15870,34 @@ let games = [
             desc: "Não há nada justo, honroso ou justo sobre o combate. Há apenas vencedores e perdedores - os mortos e os vivos. Os Ghosts não se preocupam com chances iguais. Eles fazem tudo ao seu alcance para sobrecarregar e aniquilar o inimigo. A tecnologia do futuro é a chave para vencer uma batalha assimétrica.",  // Descrição do jogo
             Dataupload: "12/20/2023", // Colocar data atual
     
-            // Minimos
-            RequesitosMinimos:
-            "<br>"+
-            "Sistema operaciona: Windows 7/10/11"+  //Sistema Operacional
-            "<br>"+
-            "Processador: Intel Pentium D 3.0 Ghz / AMD Athlon64 X2 4400+ 2.2Ghz"+ //Processador
-            "<br>"+
-            "Memória RAM: 2 GB"+ //Memoria RAM
-            "<br>"+
-            "Placa de Video: nVidia GeForce 8600 GTS / AMD Radeon HD 4650"+ //Placa de video
-            "<br>"+
-            "Espaço Livre: 25 GB"+ //Armazenamento 
-            "<br>",
-    
-            // Recomendados
-            RequesitosRecomendados: 
-            "<br>"+
-            "Sistema operacional: Windows 7/10/11"+  //Sistema Operacional
-            "<br>"+
-            "Processador: Intel Core 2 Quad Q9450 / AMD Phenom II X4 940 "+ //Processador
-            "<br>"+
-            "Memória RAM: 3 GB"+ //Memoria RAM
-            "<br>"+
-            "Placa de Video: GTX 460 / AMD/ATi HD 5850"+ //Placa de video
-            "<br>"+
-            "Espaço Livre: 25 GB"+ //Armazenamento 
-            "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+          // Minimos
+          RequisitosMinimos:
+          "<br>"+
+          "SO: Windows 7"+  //Sistema Operacional
+          "<br>"+
+          "Processador: Intel Pentium D 3.0 Ghz / AMD Athlon64 X2 4400+ 2.2Ghz"+ //Processador
+          "<br>"+
+          "Memória RAM: 2 GB de RAM"+ //Memória ram
+          "<br>"+
+          "Placa de vídeo: Qualquer placa com 512 MB de VRAM compatível com Shader 4.0 e DirectX 11"+ //Placa de Vídeo
+          "<br>"+
+          "Armazenamento: 25 GB de espaço disponível"+ //Armazenamento 
+          "<br>",
+
+          // Recomendados
+          RequisitosRecomendados: 
+          "<br>"+
+          "SO: Windows 7/10/11"+  //Sistema Operacional
+          "<br>"+
+          "Processador: Intel Core2 Quad Q9450 / AMD Phenom II X4 940"+ //Processador
+          "<br>"+
+          "Memória RAM: 3 GB de RAM"+ //Memória ram
+          "<br>"+
+          "Placa de vídeo: Qualquer placa com 1024 MB de VRAM compatível com Shader 4.0 e DirectX 11"+ //Placa de Vídeo
+          "<br>"+
+          "Armazenamento: 25 GB de espaço disponível"+ //Armazenamento 
+          "<br>",
+          plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/Mz9lgJDD#mlj-ftDq3xgElH8sEHJRDKPMndCqFELb0BwcS7wB_HY", //Link do Mega
@@ -15917,33 +15917,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo: Windows 10/11"+  //Sistema Operacional
+            "SO: Windows 10/11"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel i3-8300 ou processador AMD equivalente"+ //Processador
+            "Processador: Intel i3-8300 ou um processador AMD similar"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: NVIDIA GeForce GTX 750 ou placa AMD equivalente"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 750 ou uma placa de vídeo AMD similar"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 12 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 12 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
             "Não possui requisitos recomendados"+  //Sistema Operacional
             "<br>"+
             ""+ //Processador
             "<br>"+
-            ""+ //Memoria RAM
+            " "+ //Memória ram
             "<br>"+
-            ""+ //Placa de video
+            ""+ //Placa de Vídeo
             "<br>"+
             ""+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/Ay9VVTpa#vYDOWL9uJsJBUbo0MNBmyZ_zxTxIQPc0GvQV7zrWAEo", //Link do Mega
@@ -15963,33 +15963,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operativo *: Windows 7/8/10 64-bit"+  //Sistema Operacional
+            "SO: Windows 7/8/10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: 3.2 GHz Dual Core Processor"+ //Processador
+            "Processador: 3.2 GHz Dual Core"+ //Processador
             "<br>"+
-            "Memória: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: GeForce GTX 660, Radeon R7 370 ou qualquer placa com 2 GB de VRAM"+ //Placa de video
+            "Placa de vídeo: GeForce GTX 660 / Radeon R7 370"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 8 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 8 GB"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operativo *: Windows 7/8/10 64-bit"+  //Sistema Operacional
+            "SO: Windows 7/8/10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: 3.2 GHz Quad Core Processor"+ //Processador
+            "Processador: 3.2 GHz Quad Core"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa gráfica: GeForce 970 / Radeon RX 580 ou qualquer placa com 4 GB de VRAM"+ //Placa de video
+            "Placa de vídeo: GeForce 970 / Radeon RX 580"+ //Placa de Vídeo
             "<br>"+
-            "Espaço no disco: Requer 8 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 8 GB"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/N7lBWRYA#T8BCRrDC3mrqe2OUi8p1Xbyd4AaVFLr4Y1JaCNVbgmI", //Link do Mega
@@ -16009,33 +16009,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Windows 7 (SP1+)/8.1/10 64bit"+  //Sistema Operacional
+            "SO: Windows 7 (SP1+)/8.1/10 64bit"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel i5-2300/AMD FX-4300"+ //Processador
+            "Processador: Intel i5-2300 / AMD FX-4300"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: nVidia GTX 560 (2GB) / AMD Radeon 7850 (2GB)"+ //Placa de video
+            "Placa de vídeo: nVidia GTX 560 (2GB) / AMD Radeon 7850 (2GB)"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: Windows 7 (SP1+)/8.1/10 64bit"+  //Sistema Operacional
+            "SO: Windows 7 (SP1+)/8.1/10 64bit"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel i7-4770/AMD FX-8350"+ //Processador
+            "Processador: Intel i7-4770 / AMD FX-8350"+ //Processador
             "<br>"+
-            "Memória: 12 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: nVidia GTX 980 (4GB) / AMD R9 380 (4GB)"+ //Placa de video
+            "Placa de vídeo: nVidia GTX 980 (4GB) / AMD R9 380 (4GB)"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/x3ciCIYa#Wx6xgT-6kKZEisxp-R0MsRmq0Owp0WpbQdMAhvDEEKQ", //Link do Mega
@@ -16055,33 +16055,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Windows 10-64bits"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i7-4790 / Ryzen 5 2600"+ //Processador
             "<br>"+
-            "Memoria RAM: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de video: Intel Arc A380 or NVIDIA GeForce GTX 1650, 4 GB or AMD Radeon RX 480, 4 GB"+ //Placa de video
+            "Placa de vídeo: Intel Arc A380 / NVIDIA GeForce GTX 1650, 4 GB / AMD Radeon RX 480, 4 GB"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 51 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: Windows 10-64bits"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i7-10700K / AMD Ryzen 7 3800XT"+ //Processador
+            "Processador:  Intel Core i7-10700K / AMD Ryzen 7 3800XT"+ //Processador
             "<br>"+
-            "Memoria RAM: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de video: Intel Arc A770 or NVIDIA GeForce RTX 3070, 8 GB or AMD Radeon RX 6800, 16 GB"+ //Placa de video
+            "Placa de vídeo: Intel Arc A770 / NVIDIA GeForce RTX 3070, 8 GB / AMD Radeon RX 6800, 16 GB"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 51 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/lrUCCbgY#pVRa7tPU2NAHXE9oBPGEvjHqZJhBNKXWP1UGqC9tvB4", //Link do Mega
@@ -16101,33 +16101,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Win 7 SP1 / Win 8.1 64 bits"+  //Sistema Operacional
+            "SO: Win 7 SP1, Win 8.1 ambos 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5-750 2.67 GHz / AMD Phenom II X4 965 3.4 GHz"+ //Processador
+            "Processador: Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"+ //Processador
             "<br>"+
-            "Memória: 6 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: NVIDIA GeForce GTX 660 / AMD Radeon HD 7870 "+ //Placa de video
+            "Placa de vídeo: Graphics: NVIDIA GeForce GTX 660 2 GB | AMD Radeon HD 7870 2 GB com DirectX 11"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 45 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: Win 7 SP1, Win 8.1 64 bits"+  //Sistema Operacional
+            "SO: Win 7 SP1, Win 8.1 ambos 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i7-3770, 3.4 GHz | AMD FX-8350, 4.0 GHz"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo GeForce GTX 760  3 GB / AMD Radeon HD 7950 3 GB "+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTX 760 - 3 GB  | AMD Radeon HD 7950 - 3 GB com DirectX 11"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 55 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/538FXaBL#zDmQ7ZWpzGKLnr0WqMhtcR3QcHpC2mn_VAo6G5MqGhc", //Link do Mega
@@ -16147,33 +16147,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Microsoft® Windows® /XP/Vista"+  //Sistema Operacional
+            "SO: Microsoft® Windows® /XP/Vista"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Pentium 4 2.4 GHz / Athlon 64 +2800"+ //Processador
             "<br>"+
-            "Memória: 2 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 1 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de Vídeo: NVIDIA GeForce 6600 / ATI Radeon 9800"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce 6600 / ATI Radeon 9800 com DirectX 9.0c"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 15 GB"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "SO: Microsoft® Windows® /XP/Vista"+  //Sistema Operacional
             "<br>"+
-            ""+ //Processador
+            "Processador: Intel Pentium 4 3.0 GHz / AMD Athlon 64 +3000"+ //Processador
             "<br>"+
-            ""+ //Memoria RAM
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
             "<br>"+
-            ""+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce 7800 GTX / ATI Radeon X1950 XT com DirectX 9.0c"+ //Placa de Vídeo
             "<br>"+
-            ""+ //Armazenamento 
+            "Armazenamento: 15 GB"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/F3MGyRBB#riikmoUfJ3uqTO4Eg0oPIEC4rhxMxeL6FXhdkTTiwio", //Link do Mega
@@ -16193,33 +16193,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Microsoft® Windows® /XP/Vista"+  //Sistema Operacional
+            "SO: Windows XP/Vista/7"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel 2.2 GHz Dual-Core or AMD 2.5 GHz Dual-Core"+ //Processador
+            "Processador: Intel 2.2 GHz Dual-Core / AMD 2.5 GHz Dual-Core"+ //Processador
             "<br>"+
-            "Memória: 1.5 GB (Win XP) / 2GB (Win Vista/Win 7)"+ //Memoria RAM
+            "Memória RAM: 1.5 GB (Win XP), 2 GB (Win Vista/Win 7)"+ //Memória ram
             "<br>"+
-            "Placa de Vídeo: GeForce 8800 (512 MB) or Radeon HD3850 (512 MB)"+ //Placa de video
-            "<br>"+
-            "Armzenamento: 25 GB"+ //Armazenamento 
-            "<br>",
-    
-            // Recomendados
-            RequesitosRecomendados: 
-            "<br>"+
-            "Sistema Operacional: Windows XP/Vista/7"+  //Sistema Operacional
-            "<br>"+
-            "Processador: Intel or AMD Quad-Core"+ //Processador
-            "<br>"+
-            "Memória RAM:  3 GB (Win XP) / 4GB (Win Vista/Win 7)"+ //Memoria RAM
-            "<br>"+
-            "Placa de vídeo:  GeForce 260 (1 GB) / Radeon HD 4850 (1 GB)"+ //Placa de video
+            "Placa de vídeo: GeForce 8800 (512 MB) / Radeon HD3850 (512 MB) com DirectX 9.29"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 25 GB"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows XP/Vista/7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Qualquer processador Quad core"+ //Processador
+            "<br>"+
+            "Memória RAM: 3 GB (Win XP), 4GB (Win Vista/Win 7)"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 260 (1 GB) / Radeon HD 4850 (1 GB) com DirectX 9.29"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 25 GB"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/x7tQmaQQ#HL_3_yVmUcC7GGtkfS83jkdsGaD2VAPPxKuvoi8YWH8", //Link do Mega
@@ -16239,33 +16239,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Windows 7, 64-bit"+  //Sistema Operacional
+            "SO: Windows 7 64 bits"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i3-2100 / AMD FX-4300"+ //Processador
             "<br>"+
-            "Memória RAM: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: GeForce GT 320, 1 GB or AMD Radeon HD 5570"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GT 320, 1 GB / AMD Radeon HD 5570, 1 GB / Intel HD 4600"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "Armazenamento: 1 GB"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: Windows 10, 64-bit"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5-2400 or AMD FX-6300"+ //Processador
+            "Processador:  Intel Core i5-2400 / AMD FX-6300"+ //Processador
             "<br>"+
-            "Memória RAM: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de Vídeo: NVIDIA GeForce GTS 450, 1 GB or AMD Radeon R7 250, 1 GB or Intel HD 630"+ //Placa de video
+            "Placa de vídeo: NVIDIA GeForce GTS 450, 1 GB or AMD Radeon R7 250, 1 GB or Intel HD 630"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "Armazenamento: 2 GB"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/w6FhxKxb#brevjboPpxT1gUeHXnfcoCfd4H9DGC92y4SUVVG7RvA", //Link do Mega
@@ -16285,34 +16285,34 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Windows 98 / ME / 2000 / XP"+  //Sistema Operacional
+            "SO: Windows 98 / ME / 2000 / XP"+  //Sistema Operacional
             "<br>"+
             "Processador: Pentium III a 700 MHz (recomendado 1 GHz)"+ //Processador
             "<br>"+
-            "Memória RAM: 192 MB de RAM"+ //Memoria RAM
+            "Memória RAM: 192 MB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: 100% compatível com DirectX com 32 MB de memória (T&L)"+ //Placa de video
+            "Placa de vídeo: 100% compatível com DirectX com 32 MB de memória (T&L)"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 1.2 GB"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: Windows 98 / ME / 2000 / XP"+  //Sistema Operacional
+            "SO: Windows 98 / ME / 2000 / XP"+  //Sistema Operacional
             "<br>"+
             "Processador: Pentium III 1 GHz ou equivalente"+ //Processador
             "<br>"+
-            "Memória RAM: 256 MB de RAM"+ //Memoria RAM
+            "Memória RAM: 256 MB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: 100% compatível com DirectX com 64 MB de memória (T&L)"+ //Placa de video
+            "Placa de vídeo: 100% compatível com DirectX com 64 MB de memória (T&L)"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 2.2 GB"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
-    
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes   
+
             // LinksDownload
             mega: "https://mega.nz/file/w2dADKgJ#W531aWjTzEOuG-0HA5r8qqC1VwGqTJbsXHo4vHOrtpk", //Link do Mega
             mediafire: "https://www.mediafire.com/file/3t3wq4peji3p21q/The_Simpsons_Hit_%2526_Run_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
@@ -16331,33 +16331,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Windows 7/Vista/XP 32 bits"+  //Sistema Operacional
+            "SO: Windows 7/8.1/10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Qualquer processador Dual Core 2.0 GHz"+ //Processador
+            "Processador: Intel i5-750 / AMD Phenom II X4-945"+ //Processador
             "<br>"+
-            "Memória RAM: 2 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Compatível com Direct X 9.0c com 512 MB de VRAM"+ //Placa de video
+            "Placa de vídeo: NVIDIA GTX 470 1GB / AMD HD 7870 2GB"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "Armazenamento: 12 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: Windows 7/Vista/XP 64 bits"+  //Sistema Operacional
+            "SO: Windows 7/8.1/10"+  //Sistema Operacional
             "<br>"+
-            "Processador: Qualquer processador Quad Core"+ //Processador
+            "Processador: Intel i5-2400 / AMD FX-8320"+ //Processador
             "<br>"+
-            "Memória RAM: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Compatível com DirectX 9.0c cNVIDIA ou AMD ATI video card com 1 GB de VRAM"+ //Placa de video
+            "Placa de vídeo: NVIDIA GTX 780 3GB / AMD R9 290 4GB"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "Armazenamento: 12 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/BqlnTRxI#i43kSzeOZrw--wv9U94SfNCUW3rOc7zvCQm27xyTmx8", //Link do Mega
@@ -16377,33 +16377,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Windows 10"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
-            "Processador: AMD FX 6300 ou Intel Core i3-4340"+ //Processador
+            "Processador: AMD FX 6300 / Intel Core i3-4340"+ //Processador
             "<br>"+
-            "Memória RAM: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: AMD HD 7950 ou Nvidia GTX 660"+ //Placa de video
+            "Placa de vídeo: AMD HD 7950 / Nvidia GTX 660 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: Requer 24 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 24 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: Windows 10"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
             "Processador: AMD Ryzen 5 1600X / Intel Core i5-2500K"+ //Processador
             "<br>"+
-            "Memória RAM: 12 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: AMD Radeon R9 390 / NVIDIA GTX 970"+ //Placa de video
+            "Placa de vídeo:  AMD Radeon R9 390 / NVIDIA GTX 970"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: Requer 24 GB de espaço livre"+ //Armazenamento 
+            "Armazenamento: 24 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/k31xnTbC#avHucXjGGqPmgMckk_bYrHmDo-Ypwyg__GGB2etqZ7Q", //Link do Mega
@@ -16423,33 +16423,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional: Windows 10"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
             "Processador: Intel Core i5 4460 / AMD Ryzen 3 2300U"+ //Processador
             "<br>"+
-            "Memória RAM: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: NVIDIA GTX 1060 or AMD RX 5700"+ //Placa de video
+            "Placa de vídeo: NVIDIA GTX 1060 / AMD RX 5700 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: Windows 10"+  //Sistema Operacional
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5 8600K or AMD Ryzen 5 3600XT"+ //Processador
+            "Processador: Intel Core i5 8600K / AMD Ryzen 5 3600XT"+ //Processador
             "<br>"+
-            "Memória RAM: 16 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: NVIDIA RTX 2060 Super or RX 5700XT"+ //Placa de video
+            "Placa de vídeo: NVIDIA RTX 2060 Super / RX 5700XT com DirectX 11"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/lm9wyA4D#bWgOGpTPPZbo1VwyNyXp8CST9HhmD81bJziTX85Sfmg", //Link do Mega
@@ -16469,33 +16469,33 @@ let games = [
             Dataupload: "12/20/2023", // Colocar data atual
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            "Processador: 64-bit Windows 7 / Windows 10"+  //Sistema Operacional
+            "SO: Windows 7/10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5-750, 2.66 GHz / AMD Phenom II X4 965, 3.4 GHz or AMD Ryzen™ 3 1200, 3.1 GHz"+ //Processador
+            "Processador: Intel Core i5-750, 2.66 GHz / AMD Phenom II X4 965, 3.4 GHz / AMD Ryzen™ 3 1200, 3.1 GHz"+ //Processador
             "<br>"+
-            "Memória RAM: 4 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: NVIDIA® GeForce™ GTX 670 or NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950 or AMD® Radeon™ R9 270"+ //Placa de video
+            "Placa de vídeo: NVIDIA® GeForce™ GTX 670 or NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950 / AMD® Radeon™ R9 270 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
             "Armazenamento: 52 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            "Sistema Operacional: 64-bit Windows 7 / Windows 10"+  //Sistema Operacional
+            "SO: Windows 7/10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i3-2100, 3.10 GHz / AMD FX-6300, 3.5 GHz or AMD Ryzen™ 5 1400, 3.2 GHz"+ //Processador
+            "Processador: Intel Core i3-2100, 3.10 GHz / AMD FX-6300, 3.5 GHz / AMD Ryzen™ 5 1400, 3.2 GHz"+ //Processador
             "<br>"+
-            "Memória RAM: 8 GB de RAM"+ //Memoria RAM
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: NVIDIA® GeForce™ GTX 780 or NVIDIA® GeForce™ GTX 1060-6GB / AMD® Radeon™ R9 290 or RX 570"+ //Placa de video
+            "Placa de vídeo: NVIDIA® GeForce™ GTX 780 or NVIDIA® GeForce™ GTX 1060-6GB / AMD® Radeon™ R9 290 / RX 570 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Aramzenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
             mega: "https://mega.nz/file/UiVHQYLK#ZndIUM2oj6rOmX0mOgbsOIKFxHzsSlwZjcTyAOZbEME", //Link do Mega
@@ -16591,9 +16591,9 @@ let games = [
     
             // LinksDownload
             mega: "", //Link do Mega
-            mediafire: "", //Link MediaFire
+            mediafire: "https://www.mediafire.com/file/atlv5lezf95cm76/Call_of_Duty_Warzone_Mobile_%255BBy_Nuvem_Azul%255D.apkm/file", //Link MediaFire
             magnet:"", //Link Magnet
-            drive:"https://call-of-duty-warzone.br.uptodown.com/android",  //Link Drive
+            drive:"",  //Link Drive
         },
         
 
@@ -18387,49 +18387,738 @@ let games = [
             magnet:"magnet:?xt=urn:btih:KD4MBHZXFMAKRHSW4SIGPBGYFJJSXO3M&dn=It%20Takes%20Two&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
             drive:"",  //Link Drive (podes deixar estes 3 eu faço)
         },
-            {
-            id: "402", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "supermarketsimulator.png",  //deixa vazio por agora
-            Nome: "Supermarket Simulator", //nome do jogo
-            brevedesc: "O 'Supermarket Simulator' é uma simulação em primeira pessoa onde todos os detalhes da administração de um supermercado ganham vida.", //um pequeno texto (+/- este tamanho)
-            desc: "Projete sua loja, otimizando a eficiência e a estética. Determine onde os produtos serão exibidos, gerencie os corredores e garanta uma experiência de compra tranquila para seus clientes.",  // Descrição do jogo
-            Dataupload: "12/20/2023", // nao mexes
 
+        {
+            id: "402", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "supermarket-simulator.png",  //imagem 500x500
+            Nome: "Supermarket Simulator", //nome do jogo
+            brevedesc: "Administre seu próprio supermercado.", //um pequeno texto (+/- este tamanho)
+            desc: "Administre seu próprio supermercado. Abasteça as prateleiras, defina os preços como quiser, receba pagamentos, contrate funcionários, expanda e projete sua loja. Pedidos e entregas on-line, ladrões de lojas, segurança e mercado local estão por vir.",  // Descrição do jogo
+            Dataupload: "04/16/2024", // Colocar data atual
+    
             // Minimos
             RequisitosMinimos:
             "<br>"+
-            "OS: Windows (64-bit) 10"+  //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processor: i5 3550 / RYZEN 5 2500X"+ //Processador
+            "Processador: i5 3550 / RYZEN 5 2500X"+ //Processador
             "<br>"+
-            "Memory: 4 GB RAM"+ //Memória ram
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            "Graphics: NVIDIA GTX 1050 / AMD R9 270XDirect"+ //Placa de Vídeo
+            "Placa de vídeo: NVIDIA GTX 1050 / AMD R9 270X com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Storage: 5 GB available space"+ //Armazenamento 
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
             "<br>",
 
             // Recomendados
             RequisitosRecomendados: 
             "<br>"+
-            "OS: Windows (64-bit) 10"+ //Sistema Operacional
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
             "<br>"+
-            "Processor: i5 7600K / Ryzen 5 2600x"+ //Processador
+            "Processador: i5 7600K / Ryzen 5 2600x"+ //Processador
             "<br>"+
-            "Memory: 8 GB RAM"+ //Memória ram
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Graphics: NVIDIA GTX 1060 / AMD RX 480Direct"+ //Placa de Vídeo
+            "Placa de vídeo: NVIDIA GTX 1060 / AMD RX 480 com DirectX 11"+ //Placa de Vídeo
             "<br>"+
-            "Storage: 5 GB available space"+ //Armazenamento 
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
             "<br>",
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
-
+    
             // LinksDownload
-            mega: "", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/43lhwp4q8bwvcc9/Supermarket_Simulator_%5BBy_Nuvem_Azul%5D.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:c5a8149c7c2ac6f4a98253909bf08e27f2a88c03",
-            drive:"",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/x3tHlYKD#qYbqA6A_VEPSM-SPfBHmj6GQ0ZZofH16cB0w1H2zaZw", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/43lhwp4q8bwvcc9/Supermarket_Simulator_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:6U3E4MIHIF6KZVRTZN3DLFJJRFQNMB4H&dn=Supermarket.Simulator.v0.1.2.4a.rar&xl=1604312291", //Link Magnet
+            drive: "https://drive.google.com/file/d/1OGS0ski14yuVWtJbbqPxuuLxcd2qLOJk/view",  //Link Drive
         },
+        
+        
+
+
+        {
+            id: "403", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dayz.png",  //imagem 500x500
+            Nome: "DayZ", //nome do jogo
+            brevedesc: "Quanto você aguenta em um mundo pós-apocalíptico?", //um pequeno texto (+/- este tamanho)
+            desc: "Quanto você aguenta em um mundo pós-apocalíptico? Uma terra arrasada por 'zumbis' infectados, onde você compete com outros sobreviventes por recursos limitados. Você vai ajudar estranhos em sua luta? Ou evitará traições como um lobo solitário? Esse é o DayZ. Essa é a sua história. AVISO: A SENHA DE EXTRAÇÃO É 'online-fix.me'",  // Descrição do jogo
+            Dataupload: "04/16/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-4430"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 760 / AMD R9 270X com DirectX 11"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 25 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-6600K / AMD R5 1600X"+ //Processador
+            "<br>"+
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1060 / AMD RX 580 com DirectX 11"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/N3UD3CQD#BuDdtH7zVrb7bg9ImxFJoZWOIDPHLp7oAIYbVStkgm4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/4ycbolom05ejc3j/DayZ_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:5DRZWJCYYBEDFY4BFBTOW3XFDNCCDXYB&dn=DayZavr_Torrent&tr=http%3A%2F%2F31.184.218.149%3A9000%2Fannounce", //Link Magnet
+            drive: "https://drive.google.com/file/d/1pnA_XvX1t6yMiIK5KHFugjGjlfiSMZ2L/view",  //Link Drive
+        },
+
+        
+
+
+        {
+            id: "404", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "arma3.png",  //imagem 500x500
+            Nome: "Arma 3", //nome do jogo
+            brevedesc: "Viva um jogo de combate realista num mundo aberto militar descomunal.", //um pequeno texto (+/- este tamanho)
+            desc: "Viva um jogo de combate realista num mundo aberto militar descomunal. Arma 3 apresenta uma grande variedade militar para um ou mais jogadores, mais de 20 veículos e 40 armas, e oportunidades ilimitadas para criação de conteúdo. Autêntico, diverso, aberto: Arma 3 envia você para a guerra.",  // Descrição do jogo
+            Dataupload: "04/17/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 SP1 (64bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Dual-Core 2.4 GHz / AMD Dual-Core Athlon 2.5 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce 9800GT / AMD Radeon HD 5670 / Intel HD Graphics 4000 com 512 MB VRAM com DirectX 10"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 45 GB de espaço livre"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 / 8 / 10 (64 bits)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-4460 / AMD FX 4300 ou superior"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 660 / AMD Radeon HD 7800 Series com 2 GB VRAM com DirectX 11"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 70 GB de espaço livre (armazenagem SSD/Hybrid HDD/SSHD)"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/4rlhmDLI#yM7S0qrsBf0DFnw0OoE5eAKsBzODEu-iWqnZZ93liAI", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/4ycbolom05ejc3j/DayZ_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:RYRBFYQH3JJYH6O53TJD3JGKLKTUW4L4&dn=Arma%203%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive: "https://drive.google.com/file/d/1pn5tX8cq2tx7pJs9Pej-lFu34fI--FcE/view",  //Link Drive
+        },
+
+        
+
+
+        {
+            id: "405", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "spelunky.png",  //imagem 500x500
+            Nome: "Spelunky", //nome do jogo
+            brevedesc: "Viaje pelas profundezas do subsolo e explore lugares fantásticos cheios de todos os tipos de monstros, armadilhas e tesouros.", //um pequeno texto (+/- este tamanho)
+            desc: "Spelunky é um jogo de plataforma único com níveis aleatórios que oferecem uma experiência nova e desafiadora cada vez que você joga. Viaje pelas profundezas do subsolo e explore lugares fantásticos cheios de todos os tipos de monstros, armadilhas e tesouros.",  // Descrição do jogo
+            Dataupload: "04/26/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Microsoft® Windows® XP / Vista / 7 / 8"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo 2.8GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 3D graphics card"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 200 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/JiFAVRCY#RxyUlAKcDYh_U-dpPOW0okvNfQpRH2FYAjK_L_Rsw0c", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/ccxrogv6ah2r1zt/Spelunky_%255BBy_Nuvem_Azul%255D.zip/file", //Link MediaFire
+            magnet: "", //Link Magnet
+            drive: "https://drive.google.com/file/d/10lLVec5V0hdHg2RpMhcAQQJUB0Q8uGbH/view?usp=drive_link",  //Link Drive
+        },
+
+        
+
+
+        {
+            id: "406", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "ultrakill.png",  //imagem 500x500
+            Nome: "ULTRAKILL", //nome do jogo
+            brevedesc: "O inferno está lotado.", //um pequeno texto (+/- este tamanho)
+            desc: "ULTRAKILL é um FPS retrô ultraviolento de ritmo acelerado que combina o estilo baseado em habilidade de jogos de ação com carnificina pura inspirada nos melhores jogos de tiro dos anos 90. Destrua seus inimigos com diversas armas destrutivas e regue seu sangue para recuperar sua saúde.",  // Descrição do jogo
+            Dataupload: "04/26/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.4GHZ Dual Core Processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 9800GT com DirectX 9.0"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.4 GHZ Quad Core Processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Geforce GTX 460 com DirectX 11"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/RjsVyDTL#l4uIBUMU7v2ARiWVrZqxjgJTIDCXuwaJ3UYMHSJNKVA", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/j5az5ptmbztydyx/ULTRAKILL_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:BLSSEHLSAIUHYIHUDZMIKYNL35K2PFF6&dn=ULTRAKILL%20(Early%20Access)", //Link Magnet
+            drive: "https://drive.google.com/file/d/1k6T1z0Q9gZJf9qCQaXUALkSDh7xyVqlC/view?usp=drive_link",  //Link Drive
+        },
+        
+
+
+        {
+            id: "407", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "assetto-corsa.png",  //imagem 500x500
+            Nome: "Assetto Corsa", //nome do jogo
+            brevedesc: "Assetto Corsa: Simulador de corrida realista com foco em precisão e imersão, licenciado por fabricantes renomados.", //um pequeno texto (+/- este tamanho)
+            desc: "Assetto Corsa possui um motor gráfico DirectX 11 avançado, que reproduz um ambiente imersivo, iluminação dinâmica e materiais e superfícies realistas. O sistema de física avançado é projetado para gerar uma experiência de direção bastante realista, incluindo funções e aspectos de carros reais, nunca antes vistos em outros simuladores de corridas. Isso inclui bandas de rodagem, ciclos de resfriamento, degradação e vesiculação, simulação aerodinâmica altamente avançada, com partes móveis acionáveis em tempo real por canais de telemetria, sistemas híbridos de recuperação cinética e simulação de recuperação de energia. Extremamente detalhado, com opções para um ou diversos jogadores, carros licenciados exclusivos reproduzidos com a maior exatidão possível, graças à cooperação oficial com produtoras de veículos reais.ASSETTO CORSA foi desenvolvido no KUNOS Simulazioni R&D Office, localizado dentro do circuito internacional de corrida de Vallelunga, o que possibilitou que o jogo fosse desenvolvido conjuntamente com pilotos e equipes de pilotagem reais.",  // Descrição do jogo
+            Dataupload: "12/20/2023", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 Sp1 - 8 - 8.1 - 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Athlon X2 2.8 GHZ, Intel Core 2 Duo 2.4 GHZ"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 10.1 (e.g. AMD Radeon HD 6450, Nvidia GeForce GT 460)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 Sp1 - 8 - 8.1 - 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Six-Core CPU, Intel Quad-Core CPU"+ //Processador
+            "<br>"+
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 11 (e.g. AMD Radeon 290x, Nvidia GeForce GTX 970)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/dndmSJgb#jIXDWYNoW227PCHhL26bc3mHSgsxfGv19YueY_7hgao", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/2f92mtj7qqi6nrb/Assetto_Corsa.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:6TNRJNUNM32IGB5Z7TJBU44SU3SCZXYG&dn=Assetto%20Corsa%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce", //Link Magnet
+            drive: "https://drive.google.com/file/d/1k6T1z0Q9gZJf9qCQaXUALkSDh7xyVqlC/view?usp=drive_link",  //Link Drive
+        },
+
+        
+
+
+        {
+            id: "408", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "sniper-elite5.png",  //imagem 500x500
+            Nome: "Sniper Elite 5", //nome do jogo
+            brevedesc: "A premiada série retorna com a luta de Karl Fairburne para expor o Projeto Kraken na França, em 1944.", //um pequeno texto (+/- este tamanho)
+            desc: "França, 1944. Durante a operação secreta dos Rangers dos EUA para enfraquecer as fortificações da Atlantikwall na costa da Bretanha, o atirador de elite Karl Fairburne encontra a Resistência francesa. Logo eles descobrem um projeto nazista secreto que ameaça acabar com a guerra antes que os Aliados consigam invadir a Europa: a Operação Kraken.",  // Descrição do jogo
+            Dataupload: "04/26/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel CPU Core i3-8100"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX12 capable GPU with 4GB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 85 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel CPU Core i5-8400"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX12 capable GPU with 6GB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 85 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Bu1kDLBB#pCp7VCh1HkyqwsHIRFgoGKRUxJsq_q8XqAmc2cwalPU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/wj9xy076ldeyrmb/Sniper_Elite_5_%255B1.28%255D_%252B_Backport_%255B5.05_6.72_7.%25D1%2585%25D1%2585_8.%25D1%2585%25D1%2585%255D_%252B_14_DLC.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:HD3ESDKDYOQZX5V6ZN5R726LIZZNMFG5&dn=Sniper%20Elite%205&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
+            drive: "https://drive.google.com/file/d/1CkSe2cCv_qgf-y-_08VqpnQhEoIQfY-r/view?usp=drive_link",  //Link Drive
+        },
+        
+
+
+        {
+            id: "409", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dave-the-diver.png",  //imagem 500x500
+            Nome: "DAVE THE DIVER", //nome do jogo
+            brevedesc: "Junte-se ao Dave e seus amigos peculiares na busca pelos segredos do misterioso Poço Azul.", //um pequeno texto (+/- este tamanho)
+            desc: "DAVE THE DIVER é um jogo solo de RPG e aventura casual de exploração das profundezas marinhas onde o jogador pode pescar durante o dia e administrar um restaurante de sushi à noite. Junte-se ao Dave e seus amigos peculiares na busca pelos segredos do misterioso Poço Azul.",  // Descrição do jogo
+            Dataupload: "04/26/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 64 bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3 Dual Core"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA Geforce GTS 450 / AMD Radeon HD 5570 com DirectX 11"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64 bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5 - i7 Quad Core"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA Geforce GTX 750Ti / AMD Radeon R9 270x com DirectX 11"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Ry9myT7Y#1LqnyS-1EovJF9AyuJGA8tIMz8K3LzhJwxcwatRaFds", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/8yf0t6vzr497iup/DAVE_THE_DIVER.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:33LZJULYV2SUNXK7IJTF36D7OJAUNA4X&dn=Dave%20The%20Diver%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive: "https://drive.google.com/file/d/1JgaT8Kqpsw0cJpLYd6HvYZErVpl6JvO-/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "410", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-long-drive.png",  //imagem 500x500
+            Nome: "The Long Drive", //nome do jogo
+            brevedesc: "Dirija por um deserto infinito, personalizando seu carro e aproveitando a liberdade da estrada.", //um pequeno texto (+/- este tamanho)
+            desc: "The Long Drive: Uma jornada sem fim pelas estradas abertas, com foco na liberdade, exploração e imersão. Personalize seu carro, gerencie recursos e viva aventuras emocionantes neste mundo aberto e procedural.",  // Descrição do jogo
+            Dataupload: "04/27/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: +3 GHZ dual core"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTX 650 TI"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 700 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: +3 GHZ quad core"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTX 1050 TI"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 700 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/dytQELZD#P_zGhAnC_sd_Lt5KIj5C-73ova00HJrGknoaGet7hag", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/tujdl7pdv8fwm3b/The_Long_Drive.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:C2UH2FJA42ODGDZN4KKC4VWSQK3YTCLT&dn=The.Long.Drive.v02.05.2023.rar&xl=406402157", //Link Magnet
+            drive: "https://drive.google.com/file/d/1be-f0eVORRypAEfBxJRSwjheCegBvqh3/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "411", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "door-kickers2.png",  //imagem 500x500
+            Nome: "Door Kickers 2: Task Force North", //nome do jogo
+            brevedesc: "Door Kickers 2: Táticas SWAT em ação real contra terroristas. Planeje, execute e supere desafios em missões perigosas.", //um pequeno texto (+/- este tamanho)
+            desc: "Door Kickers 2: Lidere esquadrões de elite em missões táticas contra o terrorismo. Planeje meticulosamente, execute com precisão e supere desafios em ambientes perigosos e reativos. Lute contra terroristas, resgate civis e defenda a justiça neste simulador de combate realista e envolvente. ",  // Descrição do jogo
+            Dataupload: "04/27/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: dual-core potato"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Integrated Intel HD 630 or better (OpenGL 3.1 / DirectX 10 compatible video card)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: i5"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Any dedicated video card newer than 2016"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/R7sGAbiD#KB04vrTDa5jA6gas_jvcRPt1YhfGytHwso6bTDgGFuc", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/psq4j2ar3c41hk1/Door_Kickers_2_Task_Force_North.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:Q5ZOC5TZAOMAWSQH2LHWX3HM2AZ56VPT&dn=Door.Kickers.2.Task.Force.North.rar&xl=438085462&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce", //Link Magnet
+            drive: "https://drive.google.com/file/d/1PCEE4CQBssKH6_NsuuaQ86qkO8Gvxfwv/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "412", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "minecraft.png",  //deixa vazio por agora
+            Nome: "Minecraft Bedrock Edition 1.21", //nome do jogo
+            brevedesc: "", //um pequeno texto (+/- este tamanho)
+            desc: "",  // Descrição do jogo
+            Dataupload: "04/27/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/hqEnnCYL#SAvC8adoTtVkcQUNq81hycIBdUyN0Zc5iWa2c92FdDg", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/fmk5wyeez6p6nip/Minecraft_1.21_BETA.apk/file", //Link MediaFire
+            magnet: "",
+            drive: "https://drive.google.com/file/d/1_fOG2tiK2HqlNb40RcoAtjZouNiFXtGI/view?usp=drive_link",  //Link Drive (podes deixar estes 3 eu faço)
+        },
+
+
+        {
+            id: "413", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "farming-simulator-15.png",  //imagem 500x500
+            Nome: "Farming Simulator 15", //nome do jogo
+            brevedesc: "Com novos gráficos e mecanismos de física, Farming Simulator 15 oferece um imenso mundo aberto repleto de detalhes e efeitos visuais!", //um pequeno texto (+/- este tamanho)
+            desc: "Com novos gráficos e mecanismos de física, Farming Simulator 15 oferece um imenso mundo aberto repleto de detalhes e efeitos visuais! Desenvolva sua própria fazenda, online com amigos ou no modo solo. Cuide de colheitas e de animais, venda produtos fresquinhos e invista em veículos e ferramentas mais poderosas... Descubra também a nova atividade de Farming Simulator 15: corte de lenha, com uma nova coleção especial de veículos e ferramentas!Use e dirija mais de 140 veículos e ferramentas agrícolas autênticas por centenas de acres de terras, no novo cenário Nórdico, e em um cenário Norte-Americano renovado, com veículos exclusivos de mais de 40 fabricantes famosos: New Holland, Ponsse, Case IH, Deutz-Fahr… No modo multijogador, convide seus amigos para ajudar a desenvolver sua fazenda e aumente sua produtividade!",  // Descrição do jogo
+            Dataupload: "04/27/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Microsoft Windows Vista, Windows 7 or Windows 8"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.0 GHz Intel or equal AMD-Processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 512 MB OF VIDEO MEMORY ATI RADEON HD 2600/NVIDIA GEFORCE 8600 OR HIGHER"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/l6N0gCoQ#bSRw1ezJpdZ8W-CZ1VW6mHzghwViy7HGqvuy6K21CTQ", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/dtm31sr4luc0ss6/Farming_Simulator_15.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:I5YEITEMLCFH7INJJPXDTHK42PRU4Y2W&dn=Farming%20Simulator%2015&tr=http%3A%2F%2Ftracker.nwps.ws%3A6969%2Fannounce", //Link Magnet
+            drive: "https://drive.google.com/file/d/1Q6RYVgM2iAr6f6ARa1edXsymlqBjQn_I/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "414", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "farming-simulator-17.png",  //imagem 500x500
+            Nome: "Farming Simulator 17", //nome do jogo
+            brevedesc: "Cultive, crie animais e gerencie sua fazenda em um mundo aberto realista e desafiador. Explore novas possibilidades agrícolas em Farming Simulator 17!", //um pequeno texto (+/- este tamanho)
+            desc: "Torne-se um fazendeiro moderno em Farming Simulator 17! Cultive, crie animais e gerencie sua fazenda em um mundo aberto realista e cheio de desafios. Explore novas possibilidades agrícolas, dirija máquinas autênticas e expanda seu império agrícola. Viva a vida no campo e desfrute de uma experiência relaxante e recompensadora.",  // Descrição do jogo
+            Dataupload: "04/27/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7, Windows 8, Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.0 GHz Intel or equivalent AMD dual-core processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia Geforce GTS 450 Series, AMD Radeon HD 6770 graphics card or better (min 1GB VRAM)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "415", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Final-Fantasy-VII-Remake-Intergrade.png",  //imagem 500x500
+            Nome: "Final Fantasy VII: Remake Intergrade", //nome do jogo
+            brevedesc: "Remake de FFVII com Midgar remasterizada, gráficos incríveis e nova aventura com Yuffie!", //um pequeno texto (+/- este tamanho)
+            desc: "Reviva Midgar em Final Fantasy VII: Remake Intergrade! Explore uma cidade vibrante remasterizada, vivencie a história de Cloud com gráficos de última geração e embarque em novas aventuras com Yuffie neste épico RPG. ",  // Descrição do jogo
+            Dataupload: "04/27/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows® 10 64-bit (ver. 2004 or later)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD FX-8350 / Intel® Core™ i5-3330"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD Radeon™ RX 480 / NVIDIA® GeForce® GTX 780 / 3GB VRAM required (DirectX 12)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 100 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows® 10 64-bit (ver. 2004 or later)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Ryzen™ 3 3100 / Intel® Core™ i7-3770"+ //Processador
+            "<br>"+
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD Radeon™ RX 5700 / NVIDIA® GeForce® GTX 1080 / 8GB VRAM required (DirectX 12)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 100 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/gqsghIDb#ythpKI7uWZB1xSPpibVOBTiMWkaNXRMfeMbN0MuOeys", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/rg4eay51hiz58ot/Final_Fantasy_VII_Remake_Intergrade_%252B_All_Dlcs_%252B_Essential_Mods.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:R5SYRQEJIE5Z2LTMKHKPTYMVJNPPYJSS&dn=Final%20Fantasy%20VII%20-%20Remake%20Intergrade%20%5BFitGirl%20Repack%5D&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce", //Link Magnet
+            drive: "https://drive.google.com/file/d/1jyNdzfuQaq48Cs5aqxW-5_l2ZMTEPX-R/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "416", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "abzu.png",  //imagem 500x500
+            Nome: "ABZÛ", //nome do jogo
+            brevedesc: "Explore as profundezas, desvende mistérios e conecte-se com o oceano.", //um pequeno texto (+/- este tamanho)
+            desc: "Desvende os segredos do oceano em uma jornada relaxante e emocionante. Nade por recifes de coral vibrantes, encontre criaturas majestosas e resolva enigmas ancestrais para restaurar o equilíbrio da vida marinha.",  // Descrição do jogo
+            Dataupload: "04/28/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7, 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 3.0GHz CPU Dual Core"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Geforce GTX 750 / Radeon R7 260X (DirectX 11)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7, 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.4GHz CPU Quad Core"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Geforce GTX 780 / Radeon R9 290X (DirectX 11)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/ZuMhxQAY#v5FpCFGEpC0p5Qla5QmsfsJ5UssnJk4Hhzhw8q4UvSU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/5w7h8i3xr67etn0/ABZU.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:UBGZPQ4WOSHR5KOLHUCZ5BSSUCAXIVRB&dn=stp-abzu", //Link Magnet
+            drive: "https://drive.google.com/file/d/1AOXasdSeE91Fi78deZQMA_Uy5P-P6iLO/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "417", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "trailmakers.png",  //imagem 500x500
+            Nome: "Trailmakers", //nome do jogo
+            brevedesc: "Crie e libere no mundo aberto de Trailmakers.", //um pequeno texto (+/- este tamanho)
+            desc: "Construa um carro, avião ou barco… Ou misture tudo e crie um barcarrovião! Divirta-se e explore a campanha Abandono no Espaço, aprenda os fundamentos da construção (e pilotagem) de veículos diversos no Rally ou acesse um dos mapas restritos e construa o hovercraft que você sempre quis ter na vida real!",  // Descrição do jogo
+            Dataupload: "12/20/2023", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64 Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: i5-4440 (3.1 GHz quad-core)"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 660 (DirectX 11)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64 Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: i7-7700K"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 1080"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/9iEgCaLR#LQH26qD9qLw_XaZyubxdsGDvpx8ftOlZbTWpqqEv0C4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/g6zh8lwkedymuv5/Trailmakers.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:Z24NX43NDFZ5ONRT2QSMQ46WAPQ362K4&dn=Trailmakers%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive: "https://drive.google.com/file/d/1qvp_HT6zGBQdkwxYT0_RQx2xzOFFE84h/view?usp=drive_link",  //Link Drive
+        },
+
 ];
 
 
@@ -18542,27 +19231,27 @@ function index() {
                 "</div>";
             }
 
-            if (vari != 20) {
+            if (vari != 4) {
                 $('#loadAllGames').append(info);
                 vari = vari + 1;
 
             }
 
-            if (vari2 != 20) {
+            if (vari2 != 4) {
                 if (game.plataforma == "PC") {
                     $('#LoadPcGame').append(info);
                     vari2 = vari2 + 1;
                 }
             }
 
-            if (vari3 != 20) {
+            if (vari3 != 4) {
                 if (game.plataforma == "MOBILE") {
                     $('#LoadAndroidGame').append(info);
                     vari3 = vari3 + 1;
                 }
             }
 
-            if (vari == 20 && vari2 == 20 && vari3 == 20 ) {
+            if (vari == 4 && vari2 == 4 && vari3 == 4 ) {
                 return false;
             }
         }
@@ -18577,7 +19266,7 @@ function loadgames(data, data2) {
     if(gameplat == "search"){
         sear = sear.filter(element => element.Nome.toUpperCase().includes(search.toUpperCase()));
         sear.forEach((game) => {
-            if (numero == 8) {
+            if (numero == 4) {
                 return false;
             }
             if (game.Nome != "" && game.Dataupload != "") {
@@ -18675,7 +19364,7 @@ function loadgames(data, data2) {
     else{
         if(gameplat == "PC" || "MOBILE" )
         games.forEach((game) => {
-            if (numero == 8) {
+            if (numero == 4) {
                 return false;
             }
             if (game.Nome != "" && game.Dataupload != "") {
@@ -18799,12 +19488,12 @@ function loadInfo(data) {
 
 
     if(found.RequisitosMinimos != confirm){
-        document.getElementById('reqmi').innerHTML = "Requisitos mínimos:";
+        document.getElementById('reqmi').innerHTML = "Requisitos Mínimos:";
         document.getElementById('reqmin').innerHTML = found.RequisitosMinimos;
         
     }   
     if(found.RequisitosRecomendados != confirm) {
-        document.getElementById('reqtru').innerHTML = "Requesitos Recomendados:";
+        document.getElementById('reqtru').innerHTML = "Requisitos Recomendados:";
         document.getElementById('reqrecu').innerHTML = found.RequisitosRecomendados;
     } 
         
@@ -18830,7 +19519,7 @@ function loadInfo(data) {
     } 
     var numero = 0;
     games.forEach((game) => {
-        if (numero == 8) {
+        if (numero == 4) {
             return false; 
         } 
         if (game.Nome != "" && game.Dataupload != "" && game.Nome != found.Nome) {
