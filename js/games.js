@@ -19231,27 +19231,27 @@ function index() {
                 "</div>";
             }
 
-            if (vari != 4) {
+            if (vari != 20) {
                 $('#loadAllGames').append(info);
                 vari = vari + 1;
 
             }
 
-            if (vari2 != 4) {
+            if (vari2 != 20) {
                 if (game.plataforma == "PC") {
                     $('#LoadPcGame').append(info);
                     vari2 = vari2 + 1;
                 }
             }
 
-            if (vari3 != 4) {
+            if (vari3 != 20) {
                 if (game.plataforma == "MOBILE") {
                     $('#LoadAndroidGame').append(info);
                     vari3 = vari3 + 1;
                 }
             }
 
-            if (vari == 4 && vari2 == 4 && vari3 == 4 ) {
+            if (vari == 20 && vari2 == 20 && vari3 == 20 ) {
                 return false;
             }
         }
@@ -19266,7 +19266,7 @@ function loadgames(data, data2) {
     if(gameplat == "search"){
         sear = sear.filter(element => element.Nome.toUpperCase().includes(search.toUpperCase()));
         sear.forEach((game) => {
-            if (numero == 4) {
+            if (numero == 20) {
                 return false;
             }
             if (game.Nome != "" && game.Dataupload != "") {
@@ -19364,7 +19364,7 @@ function loadgames(data, data2) {
     else{
         if(gameplat == "PC" || "MOBILE" )
         games.forEach((game) => {
-            if (numero == 4) {
+            if (numero == 20) {
                 return false;
             }
             if (game.Nome != "" && game.Dataupload != "") {
@@ -19519,7 +19519,7 @@ function loadInfo(data) {
     } 
     var numero = 0;
     games.forEach((game) => {
-        if (numero == 4) {
+        if (numero == 20) {
             return false; 
         } 
         if (game.Nome != "" && game.Dataupload != "" && game.Nome != found.Nome) {
