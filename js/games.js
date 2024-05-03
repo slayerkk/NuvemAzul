@@ -19248,10 +19248,10 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
-            mega: "https://mega.nz/file/ZiFRmRTQ#utwVUvbF8voJ1w8xxS9y68D8RGz60I0c_JPAdocfkCc", //Link do Mega
-            mediafire: "https://www.mediafire.com/file/lfcn99q9bnjh9qc/LEGO_The_Hobbit_PS4_PKG_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
-            magnet: "magnet:?xt=urn:btih:SQZ7LZKO3WZXNP4ACWMH2VMTI6ZOTUZM&dn=EP1018-CUSA00355_00-LEGOHOBBIT000000-A0100-V0101.pkg&xl=8255373312&tr=udp%3A%2F%2Ftracker.acg.gg%3A2710%2Fannounce", //Link Magnet
-            drive: "https://drive.google.com/file/d/1U0qQ4YC4iN0VU8HMDKz2PPxAhUQfU7m-/view?usp=drive_link",  //Link Drive
+            mega: "https://mega.nz/file/Fi13WLwT#_o29jaoIluebsZHEPyzH_n8_tpzGc4n0xeI8DPLrSXU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/pfkqar6yphjihkm/LEGO_The_Hobbit_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet: "magnet:?xt=urn:btih:OU4SEY4MZ7MQ2CPZKJJ6NWD62RFUHEE3&dn=LEGO.The.Hobbit.RELOADED&tr=http%3A%2F%2Fbigfoot1942.sektori.org%3A6969%2Fannounce", //Link Magnet
+            drive: "https://drive.google.com/file/d/1hoxnb32ZUNtmfBIrWuvCIj6TYtwTXDfp/view?usp=drive_link",  //Link Drive
         },
 
 
