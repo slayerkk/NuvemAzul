@@ -20064,6 +20064,50 @@ let games = [
             drive:"https://drive.google.com/file/d/1CJK0jK8sLoWw2D4ISR29KVu13z-19cNL/view?usp=drive_link",  //Link Drive
         },
 
+        {
+            id: "440", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Alien: Isolation.png",  //imagem 500x500
+            Nome: "Alien: Isolation", //nome do jogo
+            brevedesc: "Alien: Isolation é um jogo eletrônico de ação-aventura e sobrevivência desenvolvido pela Creative Assembly e publicado pela Sega.", //um pequeno texto (+/- este tamanho)
+            desc: "Descubra o verdadeiro significado do medo em Alien: Isolation, um terror de sobrevivência ambientado em uma atmosfera de pavor constante e perigo mortal. Quinze anos após os acontecimentos de Alien™, a filha de Ellen Ripley, Amanda, entra numa batalha desesperada pela sobrevivência, numa missão para desvendar a verdade por detrás do desaparecimento da sua mãe.",  // Descrição do jogo
+            Dataupload: "08/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 (32bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 3.16Ghz Intel Core 2 Duo E8500"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 1GB (AMD Radeon HD 5550 or Nvidia GeForce GT 430)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 35 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 (64bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD: Phenom II X4 955 - 4 Core, 3.2 GHz or Intel: Core 2 Quad Q9650 - 4 Core, 3.0 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 2GB (AMD GPU: AMD Radeon R9 200 Series or Nvidia GPU: Nvidia GeForce GTX660)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 35 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:33BFF0200A59AE665CBC9F0BD904D8BCCBA43B7F", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
 ];
 
 
