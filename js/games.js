@@ -20070,7 +20070,7 @@ let games = [
             Nome: "Alien Isolation", //nome do jogo
             brevedesc: "Alien: Isolation é um jogo eletrônico de ação-aventura e sobrevivência desenvolvido pela Creative Assembly e publicado pela Sega.", //um pequeno texto (+/- este tamanho)
             desc: "Descubra o verdadeiro significado do medo em Alien: Isolation, um terror de sobrevivência ambientado em uma atmosfera de pavor constante e perigo mortal. Quinze anos após os acontecimentos de Alien™, a filha de Ellen Ripley, Amanda, entra numa batalha desesperada pela sobrevivência, numa missão para desvendar a verdade por detrás do desaparecimento da sua mãe.",  // Descrição do jogo
-            Dataupload: "08/05/2024", // Colocar data atual
+            Dataupload: "05/08/2024", // Colocar data atual
     
             // Minimos
             RequisitosMinimos:
