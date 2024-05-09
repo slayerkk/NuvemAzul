@@ -20064,6 +20064,411 @@ let games = [
             drive:"https://drive.google.com/file/d/1CJK0jK8sLoWw2D4ISR29KVu13z-19cNL/view?usp=drive_link",  //Link Drive
         },
 
+
+        {
+            id: "440", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "cafe-owner-simulator.png",  //imagem 500x500
+            Nome: "Cafe Owner Simulator", //nome do jogo
+            brevedesc: "Torne-se um barista, personalize seu café, gerencie clientes e lucre!", //um pequeno texto (+/- este tamanho)
+            desc: "Viva o sonho de ter seu próprio café neste simulador imersivo. Decore, contrate, sirva e expanda seu negócio para se tornar o magnata dos cafés!",  // Descrição do jogo
+            Dataupload: "05/06/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 1060 6 GB or Radeon equivalent (DirectX 12)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 12 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/sykxwRBB#tNMd_VN-54UdkN8mR-XoAYMlNND8PV3pbW0TnZhtAN8", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/g7m6y60zebilkmk/Cafe_Owner_Simulator_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:5MXUJSZ3HN7N5JIPTU4WNJTXMRJKBQFC&dn=Cafe%20Owner%20Simulator%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/10VVXPZwbL_rMfSaOyOC_XePcb79PFoIq/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "441", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "ranch-simulator.png",  //imagem 500x500
+            Nome: "Ranch Simulator - Build, Farm, Hunt", //nome do jogo
+            brevedesc: "Acha que tem as habilidades necessárias para transformar a fazenda da sua família num verdadeiro rancho no vale?", //um pequeno texto (+/- este tamanho)
+            desc: "Outrora motivo de orgulho e alegria do seu avô, o rancho da sua família passou por momentos difíceis e cabe a você virar esse jogo. Localizado num vale arborizado distante da civilização, a fazenda sucateada testará suas habilidades enquanto você trabalha para transformá-la no rancho mais próspero da região, só ou acompanhado de até quatro amigos no modo multijogador.",  // Descrição do jogo
+            Dataupload: "05/06/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 (64-bit versions only)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-3570K or AMD FX-8310"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 760 or AMD Radeon RX 470 (DirectX 12)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 (64-bit versions only)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-4790 or AMD Ryzen 3 3200G"+ //Processador
+            "<br>"+
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1060 6GB / GTX 1660 Super or Radeon RX 590 (DirectX 12)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>", 
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/folder/Fq8UgTIR#9Z6OvU_KvolEBBfuopgVFg", //Link do Mega
+            mediafire: "https://www.mediafire.com/folder/aofqldj3vargu/Ranch+Simulator+-+Build,+Farm,+Hunt+[By+Nuvem+Azul]", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"https://drive.google.com/drive/folders/1ElV9vCoXEfGnHRivEtI6-JHTpcCC-afY?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "442", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "needy-girl-overdose.png",  //imagem 500x500
+            Nome: "NEEDY GIRL OVERDOSE", //nome do jogo
+            brevedesc: "Ajude uma streamer problemática a alcançar o sucesso", //um pequeno texto (+/- este tamanho)
+            desc: "Gerencie a vida e a carreira de uma streamer peculiar em NEEDY GIRL OVERDOSE. Escolha suas ações, gerencie suas emoções e ajude-a a conquistar a fama online... ou a queda livre!",  // Descrição do jogo
+            Dataupload: "05/09/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 8 or later"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core i5-10600K or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: OpenGL 4.5 or better (DirectX 11)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/U6EAnZIA#zk0V2eDnyP66869C-QXas0-kw_w8I7LfU1fmJxj2Oj4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/y4ncc97rnv7oipf/NEEDY_GIRL_OVERDOSE_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:NT66722EDWS7BBZQFJJQIWDDANORL733&dn=Needy%20Streamer%20Overload%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1YCUE9diUKTgWBqesqsIebGKLrnqb02uy/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "443", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "hades2.png",  //imagem 500x500
+            Nome: "Hades II", //nome do jogo
+            brevedesc: "Transcenda o Submundo com feitiços das trevas para enfrentar o titã do tempo nesta sequência mágica do premiado roguelike de exploração de masmorras.", //um pequeno texto (+/- este tamanho)
+            desc: "A primeira sequência já desenvolvida pela Supergiant Games aprimora os aspectos mais divinos do roguelike de exploração de masmorras original em uma experiência frenética, totalmente nova e infinitamente rejogável que se baseia no Submundo da mitologia grega, no surgimento da bruxaria e na profunda relação entre eles. No papel da princesa do Submundo, você explorará um mundo mitológico mais amplo e instigante enquanto subjuga as forças do titã do tempo com todo o poder do Olimpo ao seu lado em uma história arrebatadora que se desenrola a cada conquista e percalço. Encante as lendárias armas da Noite com a magia dos tempos antigos para derrubar qualquer obstáculo em seu caminho. Fortaleça-se ainda mais com as poderosas bênçãos concedidas por Apolo, Zeus e outros muitos deuses do Olimpo. Você tem maneiras praticamente ilimitadas de combinar suas habilidades.",  // Descrição do jogo
+            Dataupload: "05/09/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Dual Core 2.4 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM:  8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 950, Radeon R7 360, or Intel HD Graphics 630"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Quad Core 2.4ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce RTX 2060, Radeon RX 5600 XT, or Intel Arc A580"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Y2kzXQoC#NRFMS4H41vP_BzEP0x16S7S_LlWZI9FgUjW0i8ZcPow", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/axe3t55fhozjyem/Hades_II_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:QYTU6H7QUGYEEDXUTHUISFI3MKYJLOZX&dn=Hades.II.rar&xl=3771778046&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1QuxgOD2S0uVllCF5dABKuTaO74JfxIb3/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "444", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "forza-horizon.png",  //imagem 500x500
+            Nome: "Forza Horizon", //nome do jogo
+            brevedesc: "Corra, explore e conquiste no Colorado! Forza Horizon 1 te espera com adrenalina, carros incríveis e um mundo aberto para você dominar.", //um pequeno texto (+/- este tamanho)
+            desc: "Explore o vibrante estado do Colorado em um festival de carros alucinante. Domine pistas desafiadoras, personalize seus carros e viva a emoção da velocidade em um mundo aberto deslumbrante.",  // Descrição do jogo
+            Dataupload: "05/09/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista SP2 ou superior"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Quad Q6600 2.40 GHz ou AMD Phenom 9850 Quad-Core 2.5 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce 9600 GT 1GB ou AMD Radeon HD 4870 1GB (DirectX 10)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-2500K 3.30 GHz ou AMD FX-8150 3.60 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 560 Ti 2GB ou AMD Radeon HD 7870 2GB (DirectX 11)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/1ulhQKTT#MMumVfY568M9POMeTSoOVwdgAQo3IY8PT2F9M9hBSpo", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/i5gxsoo6u430j2i/Forza_Horizon_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:WO455N6TXUBF5LVWXVWQ62M7PRZF3APJ&dn=Forza.Horizon.2012.Console.(Xbox.360)&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/13d_U3YEi7PtIsmvqf9eJxdcnNNcCAFq-/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "445", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "intruder.png",  //imagem 500x500
+            Nome: "Intruder", //nome do jogo
+            brevedesc: "Intrusão furtiva em ação! Elimine alvos em um FPS multiplayer único com foco em tática e stealth. ", //um pequeno texto (+/- este tamanho)
+            desc: "Invada as sombras e torne-se um mestre em operações secretas em Intruder, uma experiência multijogador de FPS única. Aqui, estratégia, tática e trabalho em equipe são essenciais para alcançar a vitória. Como um agente de elite, você utilizará suas habilidades aprimoradas de furtividade e agilidade para navegar por ambientes hostis sem ser detectado. Um vasto arsenal de armas e equipamentos especializados estão à sua disposição para eliminar alvos de alto valor com precisão e letalidade. Mas você não estará sozinho. A colaboração é fundamental. Comunique-se efetivamente com seus companheiros de equipe, crie estratégias astutas e execute infiltrações complexas juntos para superar qualquer obstáculo. Intruder oferece uma ampla personalização. Escolha entre classes distintas, cada uma com seus próprios conjuntos de habilidades e equipamentos exclusivos, para se adequar perfeitamente ao seu estilo de jogo. Teste sua coragem contra oponentes habilidosos de todo o mundo em partidas dinâmicas e em constante evolução. Intruder é uma experiência gratificante para jogadores que valorizam o pensamento estratégico, a habilidade tática e o domínio da arte da infiltração.",  // Descrição do jogo
+            Dataupload: "05/09/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 or Newer"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 64-bit, 2 GHz or Faster"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD 3000 (DirectX 11)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 or Newer"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 64-bit, 3 GHz or Faster"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Geforce GTX 750"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/NrMmXbqR#KwFmSCNahfJUjCIlNT3tohE-3oCT4ETDxKDojmLhF2s", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/l1py6pj2eqreezn/Intruder_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:YEX336QVZOTX6RDPSTS6X3YKGN2T6CUV&dn=Intruder.rar&xl=730012452&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/19f74wNnFFegKMvrgR3N1Wm-dA-ooiZdl/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "446", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "jump-king.png",  //imagem 500x500
+            Nome: "Jump King", //nome do jogo
+            brevedesc: "Vá até o topo na procura da Gata da lenda, mas explore com cuidado: um único pulo errado pode levar a uma longa queda até o início", //um pequeno texto (+/- este tamanho)
+            desc: "“Aventura tática de pulos - Jump King: Há uma Gata no Topo!” é um desafio de plataforma sobre subir à procura de lendária Gata! Essa aventura solitária para chegar ao Topo exigirá seu domínio total da técnica de pulo. Somente tente lembrar de que com cada queda, há uma lição a ser aprendida...",  // Descrição do jogo
+            Dataupload: "05/09/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Dual Core 2.4 GhZ"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1700 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/8mkxlRCS#EryZ1Anid9lDp-auzQB8zhEgqvsBs_zVP9EYHlUNZ7k", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/1hmcatiqo6ybki4/Jump_King_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:YX24SRTFYBXT7YR44UTWX2GGRRP2SGNI&dn=Jump.King.v1.06.rar&xl=1313998599&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1Fjof0Xf2mLkVluoXqvcFgSafZUzdH-_U/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "447", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "hotline-miami.png",  //imagem 500x500
+            Nome: "Hotline Miami", //nome do jogo
+            brevedesc: "Hotline Miami 1: Violência retrô em um thriller de ação sangrento.", //um pequeno texto (+/- este tamanho)
+            desc: "Hotline Miami te convida a mergulhar em um thriller de ação retrô frenético. Encarne Jacket, um anti-herói atormentado por visões e mensagens enigmáticas, e lute pelas ruas neon de Miami em 1989.",  // Descrição do jogo
+            Dataupload: "05/09/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Microsoft® Windows® XP / Vista / 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.2GHz processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 512 MB RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 8-compatible graphics card with at least 32MB of video memory"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 250 MB HD space"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Microsoft® Windows® XP / Vista / 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.4GHz processor or faster"+ //Processador
+            "<br>"+
+            "Memória RAM: 1 GB RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 8-compatible graphics card with at least 32MB of video memory"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 250 MB HD space"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/pn8xTAAA#VclWtoHvnNG2amdHjXtt9eEfgLO8hH9vgYKXoJGgMZQ", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/cpxdt3wnpbf19a9/Hotline_Miami_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:JEB4QSCCXOSLTLOXX32T3XDTN5WDH3RX&dn=Hotline_Miami.exe&xl=181168499&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/109Bi1WoKfXUh9FGn-n5_IfYxkdqQbGiv/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "448", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "shadow-colossus.png",  //imagem 500x500
+            Nome: "Shadow Of The Colossus", //nome do jogo
+            brevedesc: "Colossos épicos te desafiam em Shadow of the Colossus: exploração e combate em um mundo aberto. ", //um pequeno texto (+/- este tamanho)
+            desc: "Explore paisagens vastas e desvende os segredos de uma terra antiga em Shadow of the Colossus, um épico aclamado pela crítica. !AVISO: VOCÊ IRÁ PRECISAR DE UM EMULADOR INSTALADO NO PC PARA PODER JOGAR O JOGO!",  // Descrição do jogo
+            Dataupload: "05/09/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Para poder jogar o jogo, você precisará de um emulador de PS2 ou PS4"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/folder/pnUiBDxA#45GLSU1AgeEFFvWCbtz3XA", //Link do Mega
+            mediafire: "https://www.mediafire.com/folder/bu27hojijhgcd/Shadow_Of_The_Colossus_%5BBy_Nuvem_Azul%5D", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"https://drive.google.com/drive/folders/1McmbU7CEgBvpf1S7FEUt8SGUnLaSC388?usp=sharing",  //Link Drive
+        },
+
         {
             id: "440", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
             Imag: "Alien: Isolation.png",  //imagem 500x500
@@ -20102,12 +20507,11 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
-            mega: "", //Link do Mega
-            mediafire: "", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:33BFF0200A59AE665CBC9F0BD904D8BCCBA43B7F", //Link Magnet
-            drive:"",  //Link Drive
+            mega: "https://mega.nz/file/5iEzwLIJ#aURD0KZxw95Nq5-h5ZYGoJ6RG58xFi7w74dPrZvFnH0", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/k1xp2n5me1e6kgd/Alien_Isolation_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:PKCHCZR7JNQZWNYVP3TT2MQVGDAQ2BC7&dn=Alien%20Isolation%20-%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1hUDzw1RUMarYJL8mK18uVxHoX0tAvRn_/view?usp=drive_link",  //Link Drive
         },
-
 ];
 
 
