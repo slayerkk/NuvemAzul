@@ -20512,6 +20512,2385 @@ let games = [
             magnet:"magnet:?xt=urn:btih:PKCHCZR7JNQZWNYVP3TT2MQVGDAQ2BC7&dn=Alien%20Isolation%20-%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
             drive:"https://drive.google.com/file/d/1hUDzw1RUMarYJL8mK18uVxHoX0tAvRn_/view?usp=drive_link",  //Link Drive
         },
+
+     {
+            id: "450", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "tabletop-simulator.png",  //imagem 500x500
+            Nome: "Tabletop Simulator", //nome do jogo
+            brevedesc: "Jogue jogos de tabuleiro online com amigos!", //um pequeno texto (+/- este tamanho)
+            desc: "Reúna seus amigos, mesmo à distância, e divirta-se com o Tabletop Simulator! Essa plataforma online te permite jogar clássicos como Xadrez, RPGs e jogos de cartas, além de descobrir novos títulos criados pela comunidade. O Tabletop Simulator simula a experiência física dos jogos de tabuleiro com realismo impressionante. Manipule peças, lance dados e construa decks utilizando a física interativa do game. Mas o Tabletop Simulator vai além! Solte a criatividade e crie seus próprios jogos, mods e salas temáticas para experiências totalmente personalizadas. Seja para uma noite de diversão com amigos ou para praticar estratégias no modo solo, o Tabletop Simulator é a plataforma ideal para os amantes de jogos de tabuleiro.",  // Descrição do jogo
+            Dataupload: "05/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 SP1+"+  //Sistema Operacional
+            "<br>"+
+            "Processador: SSE2 instruction set support."+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Graphics card with DX10 (shader model 4.0) capabilities."+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/pj8g1bSC#XsSaWHP4rFpkkBc2cltAlkPITe6rnGcVl_SzHBgm-7M", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/rb8km5w85hp976i/Tabletop_Simulator_%2528online_fix_incluso%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:H5C4GNOPG4SA7MVAFYVRBJEIRKOWDYNH&dn=Tabletop%20Simulator&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1lHufeEI37x-wdanJLU6NlYUz-jLjJ8zH/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "451", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "transformers-fall.png",  //imagem 500x500
+            Nome: "Transformers: Fall of Cybertron", //nome do jogo
+            brevedesc: "Autobots e Decepticons em batalhas épicas: defenda Cybertron em Transformers: Fall of Cybertron!", //um pequeno texto (+/- este tamanho)
+            desc: "A guerra civil entre Autobots e Decepticons chega ao seu ápice em Transformers: Fall of Cybertron. Testemunhe os últimos dias do planeta natal dos Transformers e participe de batalhas épicas que decidirão o destino de Cybertron. Escolhendo um lado, Autobot ou Decepticon, você mergulha em uma campanha single-player cheia de ação e drama. O modo multiplayer online te coloca contra outros jogadores em combates frenéticos, testando suas habilidades de combate e estratégia. A transformação instantânea é a chave da vitória. Troque entre as formas de robô e veículo em tempo real para dominar o campo de batalha. Utilize um arsenal diverso de armas e habilidades para derrotar seus inimigos, tanto no combate corpo a corpo quanto à distância. Conforme avança no jogo, você desbloqueia novos personagens e habilidades, personalizando sua experiência de jogo. Transformers: Fall of Cybertron é uma aventura imperdível para fãs da franquia e jogadores que buscam ação frenética e combates emocionantes.",  // Descrição do jogo
+            Dataupload: "05/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows® XP/Vista/7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo 2,6 GHz or AMD Phenom X3 8750"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 8800 GT series with 512MB RAM or ATI Radeon HD 4850 with 512 MB RAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8,4 GB of free space"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core 2 Quad Q6400 2.13GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTS 450"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8.4 GB"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/QvlVRDCR#qZuAV3L1agbqhanAPo93qBi0BtsiKIzYMPWzErZduu4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/x3l1ws19puh2p7k/Transformers_Fall_of_Cybertron_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:B4KOFYY32JJ2LX3EQAE6ACTW5CCB7HWO&dn=Transformers%20-%20Fall%20of%20Cybertron%20%5BFitGirl%20Repack%5D&tr=http%3A%2F%2Fbigfoot1942.sektori.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1B8_w1EpeYhey5NfhIsAivyjh46dAyLSu/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "452", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "age-of-empires.png",  //imagem 500x500
+            Nome: "Age Of Empires: Definitive Edition", //nome do jogo
+            brevedesc: "Age of Empires, de 1997, retorna com gameplay modernizado, novíssimos visuais Ultra HD 4K.", //um pequeno texto (+/- este tamanho)
+            desc: "Age of Empires, a série essencial de jogos de estratégia, com um legado de mais de 20 anos, retorna em sua forma definitiva para PCs com Windows 10. Reunindo todo o conteúdo oficial já lançado com visual e recursos modernos, Age of Empires: Definitive Edition é o pacote completo de RTS. Encare as mais de 40 horas da campanha atualizada com nova narração e ritmo; jogue online em batalhas com até 8 jogadores através de novos recursos e modos competitivos; experimente um visual HD 4K com animações renovadas; use sua criatividade com a construção de cenário e compartilhe suas criações. Nunca houve um momento melhor para voltar a jogar Age of Empires. Seja bem-vindo de volta à história.",  // Descrição do jogo
+            Dataupload: "05/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core i5 1.8Ghz ou superior. AMD equivalente"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD 4000, Geforce GTX 550, AMD equivalente (DirectX 11)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 versão 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core i5 2.4Ghz ou superior. AMD equivalente"+ //Processador
+            "<br>"+
+            "Memória RAM: 16GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Geforce GTX 650, AMD HD 5850 (DirectX 11)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/xudUyBbD#3uy5pHOxcyd4npj6ZHE3LUyvjGvEjO28Oh3Llw3uBbs", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/7hauf7iig2rpdjs/Age_of_Empires_Definitive_Edition_%2528onlinefix_incluso%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:EXQ64ZMLZMRFHMBKGYQPPPCDP2W3TTHE&dn=Age%20of%20Empires%20Definitive%20Edition&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1LEa5baxAGrw7AhJcps4HPEivE0RkjhIF/view?usp=drive_link",  //Link Drive
+        },
+
+
+        {
+            id: "453", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "age-of-empires2.png",  //imagem 500x500
+            Nome: "Age of Empires II: Definitive Edition", //nome do jogo
+            brevedesc: "Age of Empires II: Definitive Edition apresenta 'Os Últimos Khans', com 3 novas campanhas e 4 novas Civilizações.", //um pequeno texto (+/- este tamanho)
+            desc: "Age of Empires II: Definitive Edition celebra o 20º aniversário de um dos jogos de estratégia mais populares de todos os tempos, agora com gráficos impressionantes em 4K Ultra HD e uma trilha sonora totalmente remasterizada. Age of Empires II: DE apresenta 'Os Últimos Khans', com 3 novas campanhas e 4 novas Civilizações. Atualizações frequentes incluem eventos, conteúdo adicional, novos modos de jogo e recursos aprimorados com a adição recente do modo Coop! Explore como nunca todas as campanhas originais e as expansões mais vendidas. Com mais de 200 horas de gameplay e 1.000 anos de história da civilização, a experiência está cheia de melhorias. Desafie outros jogadores online pela dominação mundial com 35 civilizações e experimente novas civilizações e campanhas com o DLC Lords of the West! Atualizações recentes incluem um modo de jogo Battle Royale, suporte contínuo para o Editor de Cenário, Jogo Rápido para facilitar jogos sociais, melhorias na interface do jogo e muito mais! Escolha seu caminho para a grandeza com este remaster atraente e envolvente para um dos jogos de estratégia mais amados de todos os tempos.",  // Descrição do jogo
+            Dataupload: "05/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo or AMD Athlon 64x2 5600+"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA® GeForce® GT 420 or ATI™ Radeon™ HD 6850 or Intel® HD Graphics 4000 or better with 2 GB VRAM (Directx 11)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.4 Ghz i5 or greater or AMD equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia® GTX 650 or AMD HD 5850 or better (DirectX 11)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/x2tHUA6Q#aHxMYPBFDtZgQEluRC-fU77bRXvxWZsxGPMeLDyNFBc", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/jr73a6kd01pzqpz/Age_of_Empires_II_Definitive_Edition_%2528onlinefix_incluso%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:WMJKTGVNRDUZA7U4FZDYPTXMK45M4JGP&dn=Age%20of%20Empires%20II%20Definitive%20Edition&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1KBV96C_I9FestNHFVHoEgNyU5GbtZ7iJ/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "454", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "age-of-empires3.png",  //imagem 500x500
+            Nome: "Age of Empires III: Definitive Edition", //nome do jogo
+            brevedesc: "Age of Empires III: Definitive Edition oferece aos jogadores uma experiência histórica de RTS para jogador único ou multijogadores.", //um pequeno texto (+/- este tamanho)
+            desc: "Age of Empires III: Definitive Edition oferece aos jogadores uma experiência histórica de RTS para jogador único ou multijogadores. Desfrute de diversas civilizações, batalhas históricas cooperativas, impressionantes gráficos 4K Ultra HD e jogabilidade modernizada. Para uma diversão mais contínua, os desbloqueios de conteúdo serão alternados mensalmente, o que inclui civilizações rotativas, cosméticos de heróis e eventos - então jogue com frequência! Mergulhe na comunidade robusta - e convide um amigo para jogar hoje! Age of Empires III: Definitive Edition completa a celebração de uma das franquias de estratégia em tempo real mais amadas de forma definitiva com recursos aprimorados e jogabilidade modernizada. Comande poderosas civilizações da Europa e das Américas ou vá para os campos de batalha da Ásia em impressionantes Gráficos 4K Ultra HD e com uma trilha sonora totalmente remasterizada. ",  // Descrição do jogo
+            Dataupload: "05/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 version 18362.0 or higher"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i3-2105 @ 3.1GHz or AMD Phenom II X4 973 with an average CPU Passmark score of 1830 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GT 430, Radeon HD 5570, or Intel HD 4400 with an average Passmark G3D Mark of 570 or better "+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 42 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 version 18362.0 or higher"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-3300 @ 3.0GHz or AMD FX-8350 or equivalent with an average CPU Passmark score of 4100 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 980 or Radeon R9 Fury or equivalent with an average Passmark G3D Mark of 9500 or better"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 42 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/5i9DBQTB#dMyjl25ZbnfetY9f5_sdHydg9HXf7zaA7XJsEB_WHsw", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/0hcoov5x7k6doq8/Age_of_Empires_III_Definitive_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:N2IE2X62UFFL6I44PXJGCJQORF2LT64M&dn=Age%20Of%20Empires%20III%20Definitive%20Edition&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1eqy-_wJnBNh87ZG16fOfAlLzEfJhTa0o/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "454", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "katana-zero.png",  //imagem 500x500
+            Nome: "Katana Zero", //nome do jogo
+            brevedesc: "Ataque, corra e manipule o tempo para desvendar seu passado em meio a acrobacias espetacularmente brutais.", //um pequeno texto (+/- este tamanho)
+            desc: "Katana ZERO é um estiloso jogo de plataforma e ação neo-noir em uma velocidade eletrizante e combates com morte instantânea. Ataque, corra e manipule o tempo para desvendar seu passado em meio a acrobacias espetacularmente brutais. Combate excepcional: Domine os inimigos como for necessário. Mande projéteis de volta aos adversários, esquive-se de ataques, e manipule inimigos e cenários com armadilhas e explosivos. Não deixe sobreviventes. Sequências feitas à mão: Cada fase foi especialmente criada para possibilitar incontáveis métodos de conclusão. Derrote os adversários de forma criativa, usando abordagens espontâneas para eliminá-los como você achar melhor. Narrativa não convencional: Uma história enigmática contada por meio de sequências cinemáticas que se entrelaçam à ação do jogo e se desdobram em uma conclusão inesperada.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7, 8, 8.1, 10 x64"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Pentium E2180 (2 * 2000) or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 1 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 7600 GT (256 MB)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 200 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7, 8, 8.1, 10 x64"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-3240 (2 * 3400) or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 8800 GTS (512 MB)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 200 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Izd2lLwS#1DaOY5WqgKzMnOS5GKMmQtrFxZIqD8dc2CZhg1dPPHU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/njk4dvh0srmejne/Katana_Zero_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:FRZJPDI6GRV3EHLGL6QS2WRTCPEN6HH4&dn=Katana.ZERO.v1.0.5.rar&xl=152248875&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/11_pyFYRWUzI1x-IvnygCly7PZKImzzPW/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "455", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "rhythm-doctor.png",  //imagem 500x500
+            Nome: "Rhythm Doctor", //nome do jogo
+            brevedesc: "Cura musical: Domine o ritmo e salve pacientes em Rhythm Doctor!", //um pequeno texto (+/- este tamanho)
+            desc: "Rhythm Doctor: Seja o médico do ritmo! Defibrile corações ao som de batidas insanas, aprenda teoria musical sem perceber e salve pacientes em um game inovador!",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 or later"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel Graphics 4000, 2GB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/8jsUwSwB#TpQeqFjD3juI5IKFtJQ2frYIuAhc-ekM3b0BeJuVNlA", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/bgxkcgutr3i3d0p/Rhythm_Doctor_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:VCB7IO5UUVHIRGJGMIFQTWKYJDKAD477&dn=Rhythm.Doctor.v10.11.2023.rar&xl=420352613&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1jnrKRAHN8H-vWk7eKYS12UuQI8sz8Sao/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "456", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "songs-of-syx.png",  //imagem 500x500
+            Nome: "Songs Of Syx", //nome do jogo
+            brevedesc: "Explore um mundo mágico, domine instrumentos e desvende a verdade neste RPG musical.", //um pequeno texto (+/- este tamanho)
+            desc: "Embarque em uma jornada épica em Songs of Syx, um RPG musical onde a melodia é a chave para desvendar segredos e explorar um mundo de fantasia. Domine instrumentos musicais, lute contra inimigos ao ritmo da batalha e desvende a verdade por trás da música neste título inovador.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 (8u51 and above) Windows 8.x (Desktop) Windows 7 SP1 Windows Vista SP2"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Pentium 2 266 MHz processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 512 MB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 256MB with opengl 3.3 support"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 300 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.0 GHZ 4 cores or greater"+ //Processador
+            "<br>"+
+            "Memória RAM: 512 MB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 512MB with opengl 3.3 support"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 300 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/8yFgHSpZ#CTqfe0WUh13HRsXvjYq2GljiartcW6U1D1le9pAw6e0", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/r6aj4yvph43cjsq/Songs_of_Syx_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:GZPMB7ODVTAQBC76SNSPLU5QUBZL6OWT&dn=Songs.of.Syx.v0.66.33.rar&xl=338364888&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/13J0oZJKzumVLn-E9ZhWC4mnXMZKtw7R0/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "457", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "silent-breath.png",  //imagem 500x500
+            Nome: "SILENT BREATH", //nome do jogo
+            brevedesc: "Fuja da floresta assombrada neste terror imersivo.", //um pequeno texto (+/- este tamanho)
+            desc: "Adentre na floresta amaldiçoada de SILENT BREATH, um terror psicológico construído com a Unreal Engine 5. O silêncio é sua única arma contra as presenças que a escuridão esconde. Explore a densa vegetação, evite os sussurros do desconhecido e escape dos horrores que reagem aos seus gritos captados pelo microfone. Cada jogada é única, com sustos imprevisíveis e a constante paranoia de ser caçado. Desvendará os segredos desta floresta amaldiçoada, ou sucumbirá ao terror?",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 (64 bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Ryzen 5 3600 / Intel Core i5-9600K"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce 1070 / RX 5600 XT 8 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 11 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 11 (64 bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Ryzen 7 5800X / Intel Core i5-12600K"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce RTX 3060 12 GB / RX 6700 XT 12GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 11 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/xi0CyYYS#0CFNzxnfiTucWmPImSoZNBmVPeP-Mn1HvlQe7MgQJEU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/8ya925k0fgi6a6u/SILENT_BREATH_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:X3PGG3U45HHHHLXPFGVAPR5TFF3MN4D6&dn=SILENT.BREATH.Early.Access.zip&xl=14646785069&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1qRsF0T95_q0W5PnJmx5RNr6zT38kFRQl/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "458", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "stormworks.png",  //imagem 500x500
+            Nome: "Stormworks: Build and Rescue", //nome do jogo
+            brevedesc: "Junte-se a um mundo onde você projeta, cria e pilota seu próprio serviço de resgate marítimo.", //um pequeno texto (+/- este tamanho)
+            desc: "Junte-se a um mundo onde você projeta, cria e pilota seu próprio serviço de resgate marítimo. Desperte seu herói interior enquanto batalha tempestades ferozes no mar para resgatar os necessitados. Stormworks: Build and Rescue é um playground físico e dramático. Leve seus veículos customizados, construídos em blocos em tempestades oceânicas ferozes. Planeje e execute resgates emocionantes em uma variedade de cenários desafiadores. Exporte e compartilhe seus veículos projetados e suas missões através da Steam Wokshop. Stormworks: Build and Rescue - Crie, resgate e desperte seu herói interior!",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 / 8 / 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-4440 / AMD Ryzen 3 120"+ //Processador
+            "<br>"+
+            "Memória RAM:  4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD 6000 / GeForce 550 / AMD R7 250 (AMD Radeon HD 7750)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 / 8 / 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-6700K / Ryzen 7 3700X"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 750 Ti / AMD RX 550"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/hztFUB4I#9U1Syey9SIxNfMG2H2JOh1QDAKEOrykNc-vfTolOMUo", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/o1wf40vnf2jw73t/Stormworks_Build_and_Rescue_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:KC6JX454HGVDDGGOIFVYSUG32D2LOSX2&dn=Stormworks.Build.and.Rescue.v1.11.0.rar&xl=350001763&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1xJS_L5pSepl-RIN0JVCA0-5VnlJY9vac/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "459", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "cartoon-craft.png",  //deixa vazio por agora
+            Nome: "Cartoon Craft", //nome do jogo
+            brevedesc: "Cartoon Craft: Defenda sua base, domine seus oponentes!", //um pequeno texto (+/- este tamanho)
+            desc: "Defenda sua base, domine seus oponentes em batalhas estratégicas em tempo real. Construa, treine e lute contra orcs, zumbis e muito mais!",  // Descrição do jogo
+            Dataupload: "05/14/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/hnMSTDqY#yC7WUGguZl-wtyQc1xMn1CPlb2U8g2mc08pxyTJQ1tA", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/7g60hhqidq0nyco/Cartoon_Craft_%255BBy_Nuvem_Azul%255D.xapk/file", //Link MediaFire
+            magnet:"",
+            drive:"https://drive.google.com/file/d/14IGb0JY37UCSg8t7XKZ-RYVZucrxn7L8/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+        },
+
+
+        {
+            id: "460", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-stanley-parable-ultra-deluxe.png",  //imagem 500x500
+            Nome: "The Stanley Parable: Ultra Deluxe", //nome do jogo
+            brevedesc: "The Stanley Parable: Ultra Deluxe é um jogo de aventura em primeira pessoa.", //um pequeno texto (+/- este tamanho)
+            desc: "Você jogará como Stanley, e você não jogará como Stanley. Você fará uma escolha, e você terá suas escolhas tiradas de você. O jogo irá terminar, o jogo nunca irá terminar. Contradição após contradição, as regras de como jogos devem funcionar serão quebradas, depois quebradas novamente. Você não está aqui para vencer. The Stanley Parable é um jogo que joga você. Tudo o que havia no The Stanley Parable original está aqui, preservado assim como era em 2013. Mas The Stanley Parable: Ultra Deluxe também aumenta drasticamente o mundo original do jogo com novos conteúdos, novas escolhas e novos segredos para serem descobertos. O labirinto também ficou maior. Além disso, o jogo teve seu visual melhorado para refletir a tecnologia moderna enquanto preservou fielmente o tom do jogo original. Recursos de acessibilidade também foram adicionados ao jogo, incluindo a tradução dos textos, modo de cor para daltônicos e avisos para conteúdos sensíveis. Assim como antes, a atuação de voz de Kevan Brighting irá te acompanhar ao longo de todo o trajeto.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 or higher 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3 2.00 GHz or AMD equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce 450 or higher with 1GB Memory"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/pvEnCTYL#nFNZLTGcUDbCOJT6NQjWEA7S_aOHnj_sSI_7wap0YUM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/8pb27xv942i83xd/The_Stanley_Parable_Ultra_Deluxe_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:72FGEHUTVYGHTOO7ZVOQF5ZRTDJJZKEY&dn=The%20Stanley%20Parable%20-%20Ultra%20Deluxe%20%5BFitGirl%20Repack%5D&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1_nCsQNZfAsgidEv2mvkgcnhKhmx_I9jF/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "461", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-stanley-parable.png",  //imagem 500x500
+            Nome: "The Stanley Parable", //nome do jogo
+            brevedesc: "Aventure-se em um mundo de escolhas e subversão. Siga (ou não) o narrador, desvende finais e viva a experiência única de um jogo que te questiona.", //um pequeno texto (+/- este tamanho)
+            desc: "Em The Stanley Parable, você é Stanley... ou não. Desvende uma história que te questiona a cada passo, com finais múltiplos e um narrador que te guia... ou te manipula. Quebre as regras, desafie as expectativas e viva uma experiência única neste jogo aclamado pela crítica.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP/Vista/7/8"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 3.0 GHz P4, Dual Core 2.0 (or higher) or AMD64X2 (or higher)"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: ATI Radeon X800 or higher / NVIDIA GeForce 7600 or higher / Intel HD Graphics 2000 or higher"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/RvszCbqK#uYsM4n1qx94qo7bU97yBOmZaq4mzgHmITDZmK_whCUE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/0pmkzy88cm4fa2g/The_Stanley_Parable_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:URRU73BFGXRQAZ5W2LNSOIBL2SSSOPWC&dn=The.Stanley.Parable.REPACK-KaOs&tr=http%3A%2F%2Fbigfoot1942.sektori.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1H_hYM10yOvKk6ZKSkVI-C4IPEGWJj1A1/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "462", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "rebel-inc-escalation.png",  //imagem 500x500
+            Nome: "Rebel Inc: Escalation", //nome do jogo
+            brevedesc: "Equilibre prioridades civis e militares e lide com uma rebelião mortal, com o objetivo de estabilizar um país devastado pela guerra.", //um pequeno texto (+/- este tamanho)
+            desc: "Em Rebel Inc: Escalation, a guerra 'acabou' - mas todos nós sabemos que isso não significa o fim. Para estabilizar um país devastado pela guerra, você precisa equilibrar prioridades militares e civis para ganhar os corações e mentes da população, enquanto também impede que uma rebelião extremista chegue o poder!",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.0GHz i5 Dual Core or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD graphics 530"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 3.0GHz i5 Quad Core or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 660 / R9 270x"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/w7dnkRJQ#6MS4A5_yvXydEHHWe8joD7CrnGqcxc8RJZlAXGFl7o8", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/4xc9f5rgjf2rfrv/Rebel_Inc_Escalation_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:MHEBNAU6Q2D32BMCOIHUYWZ7TJSZ7OYL&dn=Rebel%20Inc%20Escalation&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1M7Qz9TGEx-bJ9VY7PXUwkgTExxaYq34q/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "463", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "risk-of-rain2.png",  //imagem 500x500
+            Nome: "Risk of Rain 2", //nome do jogo
+            brevedesc: "Fuja de um planeta alienígena caótico enfrentando hordas de monstros frenéticos com seus amigos ou por conta própria.", //um pequeno texto (+/- este tamanho)
+            desc: "Mais de 12 locais feitos à mão, todos lotados de monstros desafiadores e chefes enormes que se opõem à sua existência. Lute até o chefe final e escape ou continue seu jogo infinitamente e veja o quanto você é capaz de sobreviver. Um sistema de escalonamento único faz com que você e seus inimigos ganhem poder ilimitado ao longo do jogo. Mais de 110 itens mantêm cada partida atualizada e cheia de novos desafios. Quanto mais itens você coletar, maiores e mais surpreendentes as combinações dos efeitos podem ser. Quanto mais itens você encontrar, mais folclore (e estratégias) você descobrirá por meio dos registros. Libere uma tripulação de 11 sobreviventes jogáveis, cada um com estilo de combate único e diferentes habilidades para dominar. Conheça os mistérios dos Artefatos e ative modificações de jogabilidade como fogo amigo, surgimento de sobreviventes aleatórios, seleção de itens e mais. Com fases, inimigos e itens aleatórios, nenhuma partida será igual a outra. Aventure-se por conta própria ou com até três amigos no modo cooperativo online ou dispute o desafio rotativo das Provações Prismáticas. Sobreviventes novinhos em folha, como o Capitão e o MUL-T, juntam-se aos clássicos, como o Engenheiro, a Caçadora e, claro, o Comando.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 or newer, 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-6100 / AMD FX-8350"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 580 / AMD HD 7870"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 or newer, 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: "+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 680 / AMD HD 7970"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Jj0TUDYI#Cue24ZQcxwqFP59TdkG1YJkURwmTWNbTnr8KmELesSQ", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/u1nhaxy6rw1aume/Risk_of_Rain_2_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:IK5VXA5PFP3OEYCO3ZVITZEW6KLKEYZK&dn=Risk%20of%20Rain%202&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1JN8oOQYC-oxr6rHR73PmbNYpWIIQMVF8/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "464", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-escapists2.png",  //imagem 500x500
+            Nome: "The Escapists 2", //nome do jogo
+            brevedesc: "Produza, roube, brigue e fuja!", //um pequeno texto (+/- este tamanho)
+            desc: "Arrisque-se na fuga das prisões mais seguras do mundo. Explore as maiores prisões do mundo, com vários andares, tetos, ventilações e túneis subterrâneos. Você terá que viver sob as regras da prisão, atendendo a chamadas, fazendo trabalhos na prisão e seguindo rotinas rígidas, tudo enquanto secretamente galga seu caminho para a liberdade! Essa escapada da prisão levará você do gélido Fort Tundra a um trem vagando pelo deserto e até a fronteira final!",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8.1/10 (32-bit versions)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core Duo E6600 @ 2.4GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel 4400, GeForce GT 8800, AMD Radeon HD 4650"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7/8.1/10 (64-bit versions)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: i5-2500k@3.3GHz, AMD FX 6300 3.5GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 750, AMD R7 370"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/1uUGVBRC#QDbGr_Deag1KtK_raDq5DMmFjh2tWNkfhlrli-RUv-k", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/if08i8z44g9h9n4/The_Escapists_2_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:QPRJZC4H7EKUPNNAFVQZ2RSWDFNS7TN2&dn=The%20Escapists%202&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1NLeQFybjltr12X6TyzViji4QPQyiNTu2/view?usp=sharing",  //Link Drive
+        },
+        
+
+
+        {
+            id: "465", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-escapists.png",  //imagem 500x500
+            Nome: "The Escapists", //nome do jogo
+            brevedesc: "Fuja da prisão com astúcia e criatividade", //um pequeno texto (+/- este tamanho)
+            desc: "Planeje sua fuga da prisão neste jogo de estratégia sandbox. Crie ferramentas, explore o ambiente, desvie dos guardas e execute seu plano com perfeição. A liberdade te espera",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Dual Core CPU 2.4 gHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD Graphics 4000, Nvidia GeForce 8000, ATI Radeon HD 4800 Series"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/420j0LzS#0mrk7Rp1bbMXkjeNBEFFxJ-NRgNpwsPUysKnRhuwkZA", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/q5kjr67zdb8sk16/The_Escapists_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:AH5YYKJC4PEOPUXJ3OT2GHNB3U72EU3K&dn=setup_the_escapists_1.0877.exe&xl=88208957&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1O3JNrxrpcQKFCw_J5RlQNVvVFEJB_6hv/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "466", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-escapists-the-walking-dead.png",  //imagem 500x500
+            Nome: "The Escapists: The Walking Dead", //nome do jogo
+            brevedesc: "The Escapists: The Walking Dead - Sobreviva, lute e escape!", //um pequeno texto (+/- este tamanho)
+            desc: "Rick está no comando de um bando de sobreviventes, dos quais muitos do elenco original dos quadrinhos, incluindo Maggie, Hershel, Glenn e Michonne. Rick deve garantir a segurança do grupo buscando uma rota de fuga segura de cada área e gerenciar várias tarefas perigosas para manter vivos quantos membros do grupo for possível. Esse jogo combina com fidelidade a linha do tempo dos quadrinhos, o que significa que Rick deve primeiro abrir caminho e sair do Harrison Memorial Hospital e visitar a fazenda da família Greene antes de chegar aos destinos como o Meriwether Correctional Facility e Woodbury.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Dual Core CPU 2.5 gHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD Graphics 4000, Nvidia GeForce 8000, ATI Radeon HD 4800 Series"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/YyU2XYxb#0d9-4XXKB2jXL70KFtQ95oFiJkC3ziMJq4_SmhQyA-8", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/tc75d0a5cm081po/The_Escapists_The_Walking_Dead_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:YKMBXPZKX2UCJL32CLMRGYO7CHZIZ4WM&dn=The.Escapists.The.Walking.Dead&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/13z6r6BBW8VGu9IRdgQ0hEcdB5HHmszuv/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "467", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "barony.png",  //imagem 500x500
+            Nome: "Barony", //nome do jogo
+            brevedesc: "Desbrave masmorras roguelike em um RPG brutal e cooperativo", //um pequeno texto (+/- este tamanho)
+            desc: "Enfrente hordas de inimigos, armadilhas mortais e segredos obscuros neste RPG roguelike em primeira pessoa. Explore sozinho ou junte-se a amigos em modo cooperativo para desvendar os mistérios de Barony. Perca tudo ao morrer, aprenda com seus erros e tente novamente.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 (64-bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5 2.5 ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD Graphics 630 (OpenGL 3.2+"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 (64-bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5 3.5 ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Geforce GTX 1050"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/BjVx0bQT#3Pc8Em8gsfRB5zS_ABYZ9DCMgQoQn5_1UiGIjjXercE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/1bmd5mqn2hbadxy/Barony_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:SSRRAPSZJM2QI2NIDKLNU3SB4TW3AHVW&dn=Barony&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1OKXIvZoGvE5uKdlFY-Ft41pwnNyROjBp/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "468", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "a-way-out.png",  //imagem 500x500
+            Nome: "A Way Out", //nome do jogo
+            brevedesc: "A Way Out é uma aventura exclusivamente cooperativa na qual você assume o papel de um dos dois prisioneiros em uma fuga ousada da prisão.", //um pequeno texto (+/- este tamanho)
+            desc: "Dos criadores de Brothers - A Tale of Two Sons chega A Way Out, uma aventura exclusivamente cooperativa na qual você assume o papel de um dos dois prisioneiros em uma fuga da prisão. O que começa como uma fuga eletrizante rapidamente se transforma em uma aventura imprevisível e dramática, diferente de tudo que você jogou antes. A Way Out é uma experiência que deve ser vivida por dois jogadores. Cada jogador controla um dos personagens principais – Leo e Vincent – em uma aliança relutante para fugir da prisão e ganhar a liberdade.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel core i3-2100T @ 2.5GHz/AMD FX 6100, or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 650Ti 2GB, AMD Radeon HD 7750 2GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 25 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5 3570K; AMD Ryzen 3 1300x or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTX 960; AMD R9 290 or equivalent"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 25 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/5jtAXRYR#s71z3Be1nOtoyNtkSurGXSqwlyPrN6Zdsbb1SZJIpbg", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/pjq707ouvjd4j7s/A_Way_Out_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:T4VACFRRM5WSWPOH4H6ZXX7PDQNHJ52W&dn=A%20Way%20Out&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1WsSHnwAtzhStx7RT61_Hg8e7MEIjm-PZ/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "469", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "prison-architect.png",  //imagem 500x500
+            Nome: "Prison Architect", //nome do jogo
+            brevedesc: "Projete e desenvolva sua penitenciária personalizada em Prison Architect.", //um pequeno texto (+/- este tamanho)
+            desc: "Apenas o guarda mais cruel do mundo pode controlar os prisioneiros mais cruéis do mundo. Projete e desenvolva sua penitenciária personalizada em Prison Architect. Aloque recursos para otimizar seu complexo, mas não restrinja o fluxo de pessoas caso ocorram inundações, incêndios, brigas ou tumultos generalizados. Obtenha dinheiro federal com pedidos de subsídios e direcione fundos para combater doenças, atividades de gangues, processos e muito mais! Garanta que sua prisão seja “ética” e segura com funcionários de alto nível, incluindo guardas armados, psicólogos, médicos, advogados e informantes. O histórico criminal de cada prisioneiro requer programas de tratamento personalizados, rotinas de trabalho e seminários correcionais. Tente realizar uma fuga de alto risco da sua própria prisão de segurança máxima no modo Escapar ou experimente o modo online para testar a segurança de uma das 12.000 prisões criadas por jogadores. Expanda seu império sem limites no modo “sandbox”.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows® 10 Home 64 Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core2 Duo 2.4Ghz or Higher / AMD 3Ghz or Higher"+ //Processador
+            "<br>"+
+            "Memória RAM: 6 GB RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia 8600 / Radeon equivalent (2009 era)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 400 MB HD space"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/JqtkWQ4Y#NnO1qDeNK9MKu490AQ9rjulCz2RxrDQpmihGxDa0BoE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/7574ml0osespc5w/Prison_Architect_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:Z65OV27P2TRCGRF5HAWQP2EIIWWQVKJY&dn=Prison%20Architect&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1GMCTVOVPdSbPNR5IKlCOIZaPI-U-rqX5/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "470", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "v-rising.png",  //imagem 500x500
+            Nome: "V Rising", //nome do jogo
+            brevedesc: "Acorde como um vampiro após séculos de sono profundo.", //um pequeno texto (+/- este tamanho)
+            desc: "Acorde como um vampiro após séculos de sono profundo. Evite o sol enquanto você vai atrás de sangue para recuperar sua força. Reconstrua seu castelo e converta humanos em seus servos leais durante a sua missão para criar um império vampiro. Faça aliados e inimigos online ou jogue sozinho em seu próprio servidor, lute contra soldados e trave uma guerra nesse mundo de conflitos. Explore um mundo repleto de horrores e perigos míticos. Viaje por florestas exuberantes, campos abertos e cavernas sombrias para descobrir recursos valiosos, encontrando amigos e inimigos ao longo do caminho. Atravesse o mundo com vampiros aliados ou cace sozinho enquanto saqueia aldeias, ataca bandidos e mergulha nos domínios de feras sobrenaturais.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64 bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-6600, 3.3 GHz ou AMD Ryzen 5 1500X, 3.5 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 750 Ti (Maxwell ou mais recente), 2 GB ou AMD Radeon R7 360, 2 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 7 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64 bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-11600K, 3.9 GHz ou AMD Ryzen 5 5600X, 3.7 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1070, 8 GB ou AMD Radeon RX 590, 8 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 7 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/1n0FXaLY#WpUAacA-yIVe-Ec1toBfx8KgiIrmAEQaMCxsByCxPM4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/a3z2whsf3j81bmc/V_Rising_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:ZRSG2GYDORG3JK6EV43GW7NUBF6NMPH4&dn=V%20Rising&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1UDApWd89-K1DAQam5oYFobFjCPfSYWyO/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "471", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "lego-jurassic-world.png",  //imagem 500x500
+            Nome: "LEGO Jurassic World", //nome do jogo
+            brevedesc: "Reviva a aventura jurássica em blocos! ", //um pequeno texto (+/- este tamanho)
+            desc: "Reviva os momentos épicos dos filmes Jurassic Park neste jogo de ação e aventura em mundo aberto. Explore Isla Nublar e Isla Sorna, construa seu próprio parque dos dinossauros, personalize seus dinossauros favoritos e resolva puzzles desafiadores.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows®XP SP3, Windows Vista/7/8 with latest service packs and updates installed"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo or equivalent AMD dual core CPU"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce 7600GS or ATI Radeon 1950, 256 Mb RAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows XP/Vista/7/8"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5, 4 x 2.6 GHz or AMD equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 480 or ATI Radeon HD 5850 or better, 1Gb RAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/dm8QCBTD#097K0jOBTh__iP-Iu-vWOu3hPIWhSpXYFMaao_S_Vi4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/jv71xasrl8xftid/LEGO_Jurassic_World_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:WWTBJJL3PCMPYFSRVQFQW5JDAYIGRYFP&dn=LEGO%20Jurassic%20World&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1zIrCQ8GUBGLIQHzD0o9EtdNj0IKuEmki/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "472", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "in-silence.png",  //imagem 500x500
+            Nome: "In Silence", //nome do jogo
+            brevedesc: "Um jogador assume o papel de um monstro cego, mas com uma audição excelente. Os outros, assumem o papel de sobreviventes.", //um pequeno texto (+/- este tamanho)
+            desc: "In Silence foi desenvolvido para fornecer uma experiência de horror online diferente. Você pode caçar todo mundo usando suas excelentes habilidades sensoriais conduzindo o monstro hipersensível ou pode ser um jogador que planeja lidar com essa situação usando nosso sistema de bate-papo por voz em 3D e entre em contato com outros jogadores que desejam sobreviver. Além disso, não há necessidade de escapar apenas ... Também você pode caçá-lo. Um monstro que reduziu a visão no silêncio, mas aumentou a visão em locais de voz alta, que pode ouvir a respiração que você leva a centenas de metros de distância, que pode percorrer uma longa distância em segundos com um começo, que pode esmagar em segundos quando pega sua caça, que é silencioso e inteligente ... Não deve ser difícil adivinhar o que Rake pode fazer em mãos inteligentes. É um batimento cardíaco longe de enfrentar monstros depois de um passo, um brinquedo em que pisa ou um vaso que quebra ... Talvez seja isso que você quer? Porque você pode usar as vozes para sua vantagem. Você pode deixar a TV ligada e escapar, deixar o rádio que encontra na parte inferior da armadilha... Como sobrevivente, você tem duas opções. Para escapar, você pode encontrar as partes ausentes do carro e repará-lo ou abrir o arsenal secreto para resolver o mistério do jogo e caçar o monstro. Cada episódio que você joga não será como antes. Suas vantagens, pontos de fuga, o local dos itens, diferentes tarefas e assim por diante mudam a cada jogo. Você nunca se sentirá confortável e não saberá o que pode acontecer.",  // Descrição do jogo
+            Dataupload: "05/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 - 64 bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5 or new-gen i3 / AMD equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 2GB Video RAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 - 64 bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i7 or AMD equivalent (AMD FX 9500+ Series)"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 4GB Video RAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/pvFU2CBK#ujZ3Q2GhLG7MrhUznr8Lvb2JGLbFIL33FjMzMiCTJ90", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/3efn6n5fr5viv39/In_Silence_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:CDQU62ZXMNO6PCERF4B4DDC7OMMOBKGF&dn=In%20Silence&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1vIxvVc59r6kyJ9B71JyBkqszUR2QrU2h/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "473", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "granny3.png",  //imagem 500x500
+            Nome: "Granny 3", //nome do jogo
+            brevedesc: "Você tem 5 dias para fugir da vovó maluca e do vovô cego.", //um pequeno texto (+/- este tamanho)
+            desc: "Para conseguir sair dessa casa, você precisará explorar ela, coletar itens, resolver quebra-cabeças e evitar ser pego pelos avós.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7,8,10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core TM i5 750"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Sapphire Radeon HD 5770 1GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 800 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/wnNWXb4A#5NUJGN7NEkP4kMqi4966ns-YbFCROYjeHK_CL0IznYY", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/w60utc56rticwil/Granny_3_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:4C7WKM7HVCYD6PVQD3MSE6J63UVHP24R&dn=Granny.3.rar&xl=248154823&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1dLyJRjFjvGu4pw2VSmQbqc7JMy9Yrfrx/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "474", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "black-and-white2.png",  //imagem 500x500
+            Nome: "Black And White 2", //nome do jogo
+            brevedesc: "Black & White 2: Um Deus Com Poder Absoluto", //um pequeno texto (+/- este tamanho)
+            desc: "Seja um Deus benevolente ou tirano neste jogo de simulação de Deus. Modele o mundo, molde o destino da humanidade e enfrente desafios épicos. Domine os elementos, crie criaturas fantásticas e enfrente outros Deuses.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 2000/XP"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Pentium 4 or Athlon XP"+ //Processador
+            "<br>"+
+            "Memória RAM: 512 MB"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce4 Ti+ / ATI Radeon 8500+"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3.5 GB"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 2000/XP"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Pentium 4 or Athlon XP"+ //Processador
+            "<br>"+
+            "Memória RAM: 1 GB"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce FX+ / ATI Radeon 9500+"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3.5 GB"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/cnslUKjB#XD4uSP5b58Y-MlqfWjxSf8zvdFmMvnuDaBRRvq9mv8A", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/jtf3w3c80nw9hma/Black_And_White_2_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:O4M5IJ4Z6ATYQJSQQYHLBXVX7FAFYLXH&dn=BW2_RU.iso&xl=2403422208&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/11aA5nYg5cd4FA5FTfw4GqAD0R78-O-KZ/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "474", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "sleeping-dogs.png",  //imagem 500x500
+            Nome: "Sleeping Dogs", //nome do jogo
+            brevedesc: "Sleeping Dogs: Definitive Edition - Mergulhe na ação frenética de Hong Kong", //um pequeno texto (+/- este tamanho)
+            desc: "Viva a vida de um policial disfarçado no submundo de Hong Kong. Combine artes marciais brutais com tiroteios intensos e corridas de rua emocionantes. Investigue crimes, infiltre gangues e desvende segredos obscuros.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista 64bit, Window 7 64bit, Windows 8 64bit (32bit O/S not supported)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core 2 Duo 2.4GHz or Athlon X2 2.7GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: ATI Radeon 3870 or higher, NVIDIA GeForce 8800 GT or higher with 512MB graphics memory, Intel HD Graphics 2500 or higher"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows Vista 64bit, Window 7 64bit, Windows 8 64bit (32bit O/S not supported)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core i5-2300, Phenom II X4 940 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: TI Radeon 7750, NVIDIA GeForce GTX 560 or higher with 1GB graphics memory, Intel HD Graphics 4000 or higher"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/J6sDhDKI#dsHvnz0wQhRsljRrP7qbw8kN2eWzdkm3avZ86myFrUE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/pnr6w17mq6hjfdm/Sleeping_Dogs_Definitive_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:HJOX5IB75ZAJUCAOTFQF6M4VLG2OV2Z3&dn=Sleeping%20Dogs%20Pack%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1d_x-IYsi9_02jqCcXvmY4bQ7QtJh2usx/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "475", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "youtubers-life2.png",  //imagem 500x500
+            Nome: "Youtubers Life 2", //nome do jogo
+            brevedesc: "Comece do zero e controle a vida diária de um futuro influenciador. ", //um pequeno texto (+/- este tamanho)
+            desc: "Explore NewTube City para descobrir novas tendências e construir novos relacionamentos com vários personagens e levar seu canal a novos patamares todos os dias! Cada tendência é uma história a ser descoberta em NewTube City! Explore as últimas novidades em alta em 3 bairros diferentes com desafios especiais, eventos sazonais, personagens famosos e muito mais! Identifique as melhores tendências para seu canal, descubra por que elas são tão populares e crie conteúdos para continuar aumentando sua base de fãs e expandir suas possibilidades! Amigos, rivais ou até amantes! Construa relacionamentos com mais de 30 personagens talentosos que podem levar você ao sucesso. À medida que você faz amizade, eles se abrem para você, pedem ajuda com seus problemas pessoais ou contam seus segredos. Sua rede é seu patrimônio! Colete recompensas exclusivas para reviver suas aventuras e provar sua reputação. Expanda sua criatividade obtendo itens de personalização exclusivos e desbloqueando novos pontos fortes que melhorarão sua personalidade. Aumente o nível do seu fandom e chegue mais perto da fama! Trilhe seu caminho para o sucesso! Domine o conteúdo que você gosta de postar: Jogatinas, Primeiras Impressões, Entrevistas, Streamings, Unboxings e muito mais! Poste o que você vive e o que você descobre lá fora para ganhar muito dinheiro e aumentar seus conhecimentos da maneira que você deseja. Torne-se um Youtuber e participe da comunidade em nosso servidor Discord para saber tudo sobre o jogo! Aproveite os eventos especiais, descubra informações exclusivas, divirta-se com outros jogadores, e muito mais a apenas um clique de distância!",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 64bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo E8400 3.00GHz | AMD FX-4350"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA Geforce GT 1030 2GB | AMD RX550 2GB | Intel HD Graphics 630"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/hr1gDLKS#IVijXZJLb16j-6_FqXHyid29_57okHOiWXHrNUi45qQ", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/cji2txyo9w8c9ev/Youtubers_Life_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:DBRBKM37LFM6BPKPPZ6K6GSMR2DWMF72&dn=Youtubers%20Life%202%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1oPLK9kIsr60XbxBZvF_4AEh135_XzGVK/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "476", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "my-dream-setup.png",  //imagem 500x500
+            Nome: "My Dream Setup", //nome do jogo
+            brevedesc: "My Dream Setup é um jogo de simulação sobre a construção do quarto com o qual você sempre sonhou.", //um pequeno texto (+/- este tamanho)
+            desc: "Deseja criar a configuração de seus sonhos? No My Dream Setup, você pode criar qualquer configuração que desejar. Qualquer combinação de cores, qualquer orçamento e qualquer finalidade. Você é livre para criar o que quiser. My Dream Setup é um jogo de simulação sobre a construção do quarto com o qual você sempre sonhou. Uma enorme seleção de móveis, computadores e seus acessórios, pôsteres, quadros, plantas e outros detalhes de interiores estão à sua espera. Experimente todos eles e crie a configuração de seus sonhos. ",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 or 11"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Dual Core 2.5 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 560 Ti"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 or 11"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Dual Core 3.4 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 960"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/ZjcgAJZB#pDgruX0GO8r-Xak_zmY9QvsSfhizcp9uaoorBhMsza4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/4k3gbvp8bhp5bun/My_Dream_Setup_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:IB6LP4NPFGLG2KNKR73VGBTS4RH5RRJO&dn=My%20Dream%20Setup%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1ruy5awmOR1JJJrPi_5qNy5oAw6rnoP1N/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "477", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-walking-dead-tfs.png",  //imagem 500x500
+            Nome: "The Walking Dead: The Final Season", //nome do jogo
+            brevedesc: "Clementine finalmente tem a oportunidade de ter um lar, mas protegê-lo significa fazer sacrifícios.", //um pequeno texto (+/- este tamanho)
+            desc: "Clementine, agora uma sobrevivente feroz e capaz, chegou ao capítulo final de sua jornada. Depois de anos na estrada enfrentando as ameaças apresentadas pelos mortos e pelos vivos, uma escola isolada pode, finalmente, ser sua oportunidade de ter um lar. Mas protegê-lo significa fazer sacrifícios. Clem deve construir uma vida e se tornar uma líder enquanto cuida de AJ, um menino órfão que é a coisa mais próxima de uma família que ela tem. Nesta envolvente e emocionante temporada final, você definirá seus relacionamentos, lutará contra os mortos-vivos e determinará como a história de Clementine vai terminar.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 64Bit Service Pack 1"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo 2.8GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 3 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: nVidia GeForce GTS 450 2GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 64Bit Service Pack 1"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-2500K"+ //Processador
+            "<br>"+
+            "Memória RAM: 3 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: nVidia GeForce GTX 960"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/lyUlxLwL#RRreWx6l7osRzOklaltf3sRD02bky6APPAJZ1DD1gI0", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/0i0ks08wrxx9u15/The_Walking_Dead_-_The_Final_Season_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:DBTXKAZ4XKTESMUCY45C4C4ZPVF7YOKW&dn=The%20Walking%20Dead%20-%20The%20Final%20Season%20%5BFitGirl%20Repack%5D", //Link Magnet
+            drive:"https://drive.google.com/file/d/1UwGeEeC9clKw5We7csTklpWiOsn1Sk4t/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "478", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "another-crabs-treasure.png",  //imagem 500x500
+            Nome: "Another Crab's Treasure", //nome do jogo
+            brevedesc: "Assuma o papel de um caraguejo-eremita para um caça ao tesouro da concha perdida dele.", //um pequeno texto (+/- este tamanho)
+            desc: "Another Crab's Treasure é uma aventura desafiadora que se passa em um decadente mundo subaquático. Controle Kril, o caranguejo-eremita, e improvise uma concha com o que estiver ao alcance para se proteger dos ataques de inimigos muito maiores que você. Embarque em uma caça ao tesouro para recomprar sua concha que foi penhorada e descubra segredos sombrios nos cantos do oceano poluído.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 or newer"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.5 GHz or faster"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTX 970 or equivalent"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/J20UALCC#87Mv7ssF4C8aKVeCPyppq0Wp3s5E6VlplkKi8s7YRXM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/8lowqbwa85hw19r/Another_Crab%2527s_Treasure_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:LAUMPMFWZBPTTMMUHXAGAMWPT72372CW&dn=Another%20Crab's%20Treasure%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1nefXmPiiFt4Xo6VS1_DI1db4OuFqcJA4/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "479", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "need-for-speed-most-wanted12.png",  //imagem 500x500
+            Nome: "Need For Speed Most Wanted (2012)", //nome do jogo
+            brevedesc: "Aperte os cintos, pise fundo e cause confusão", //um pequeno texto (+/- este tamanho)
+            desc: "O mundo aberto de Need for Speed™ Most Wanted dá a liberdade para você dirigir da forma que desejar. Realize saltos e pegue atalhos, troque de carros, seja discreto ou dirija em terrenos onde você pode aproveitar os pontos fortes do seu veículo. Abra caminho entre policiais e rivais com carros de alta tecnologia e um monte de nitro. Tudo gira ao redor de você, seus amigos e uma imensa gama de carros. Vamos ver o que você é capaz de fazer.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista (Service Pack 2 and all available windows updates) 32-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2 GHz Dual Core (Core 2 Duo 2.4 GHZ or Althon X2 2.7 GHz)"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: ATI RADEON 3000, 4000, 5000 OR 6000 series, with ATI RADEON 3870 or higher performance"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 (Service Pack 1 and all available windows updates) 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Quad-Core CPU"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GEFORCE GTX 560 or ATI RADEON 6950"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/IvUVnZYQ#bRXShdJramqiMEWGd7j-aHXzLooJsJgyT6Ivxs-igjE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/fw3g4a3ahmg2hrn/Need_For_Speed_Most_Wanted_2012_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:UY2NZFDNJGMJKJQFQYTMVI53VO5EMB5W&dn=Need%20for%20Speed%20-%20Most%20Wanted%20%5BFitGirl%20Repack%5D", //Link Magnet
+            drive:"https://drive.google.com/file/d/1DDeUUrDb14EZXfpFp_N7FTU4g3lUx9q4/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "480", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "little kitty-big-city.png",  //imagem 500x500
+            Nome: "Little Kitty, Big City", //nome do jogo
+            brevedesc: "Uma soneca pacífica se transforma em uma aventura miauravilhosa!", //um pequeno texto (+/- este tamanho)
+            desc: "Você vai preferir achar o caminho de casa ou explorar o que a cidade grande tem a oferecer primeiro? Assim, chegar é casa é a maior prioridade, óbvio. Óbvio. Bom, é uma das suas prioridades. Talvez esteja mais para uma sugestão... Eu sei que está aí em algum lugar da lista de tarefas! Mas... primeiro? Explorar!",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: WIN8-64 bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-760 (4*2800), AMD Phenom II"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 650 / Radeon HD 7510"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/87Nl0bxS#wEWMM6OjPCXIYbccaxYjCR7PW_ekngw3c2kS6JlrwBM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/00jv8hsjxfj9rwc/Little_Kitty_Big_City_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:GIFFSPJ6Y3LDEZPDOTATV5PNJENIYU7C&dn=Little%20Kitty%2C%20Big%20City%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1Nm17zalQ0tHkGl8xR9y0YuUCWEzNqY5V/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "481", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "banishers-ghosts-of-new-eden.png",  //imagem 500x500
+            Nome: "Banishers: Ghosts of New Eden", //nome do jogo
+            brevedesc: "Entre honrar seu juramento e o desejo de resgatar sua parceira, quanto você está disposto a sacrificar por amor?", //um pequeno texto (+/- este tamanho)
+            desc: "Em New Eden, no ano de 1695, comunidades de colonos são atormentadas por uma maldição misteriosa. Como um Banisher, mergulhe nas vidas deles, procure a raiz do mal, desvende mistérios arrepiantes, explore diversas paisagens e interaja com personagens inesquecíveis, cujos destinos estão em suas mãos. Banishers: Ghosts of New Eden é o novo jogo do renomado estúdio DON'T NOD, conhecido por títulos aclamados como Life is Strange e Vampyr. Experimente um intimista RPG de ação narrativo que leva você a uma jornada emocionante entre a vida, a morte, o amor e os sacrifícios.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10/11 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-8300 / AMD Ryzen 3 2200G"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 4 GB VRAM, Nvidia GeForce GTX 1050 Ti / AMD Radeon RX 580"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 52 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10/11 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-10600K / AMD Ryzen 5 5600X"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 6 GB VRAM, Nvidia GeForce RTX 2060 / AMD Radeon RX 6700 XT"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 52 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Fqd3hZiS#YrCW2MLu9RzmvVWW_fDndjqEyc1rM5eXsV6eLfj_6Yw", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/mw54haz302emmxc/Banishers_Ghosts_of_New_Eden_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:RI2WTW5LKJHU7ZRCO2SXLBAAZZVBQSM6&dn=Banishers%20-%20Ghosts%20of%20New%20Eden%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1hU4Q6mz6knzc3CdZNyxL9VAaR4PcM_yv/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "482", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "teardown.png",  //imagem 500x500
+            Nome: "Teardown", //nome do jogo
+            brevedesc: "Destrua tudo em seu caminho com física realista", //um pequeno texto (+/- este tamanho)
+            desc: "Libere o seu lado destrutivo neste jogo de simulação de física sandbox. Derrube casas, exploda carros e cause o máximo de caos possível com física realista e destruição em tempo real.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Quad Core CPU"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1060 or similar. 3 Gb VRAM."+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1080 or similar. 8 Gb VRAM."+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/4jdWDR7Z#rulj6iGS8ny6qN0ej-5-znYqiEM8CoN2AawqliRUxUI", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/wqt0m79fl06fe30/Teardown_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:KSGNYXUWMB46EARBCGJM66ASHMYVU2K5&dn=Teardown%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1COYLbdJTyg4w5oRzf9SoSp93iCB1axpY/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "483", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "yakuza-zero.png",  //imagem 500x500
+            Nome: "Yakuza Zero", //nome do jogo
+            brevedesc: "Embarque em uma jornada épica pelo submundo de Tóquio e Osaka", //um pequeno texto (+/- este tamanho)
+            desc: "Viva a vida de dois mafiosos rivais em ascensão na década de 1980. Explore as ruas vibrantes de Tóquio e Osaka, lute em combates brutais e construa seu próprio império do crime.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 64Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-3470 | AMD FX-6300"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 560 | AMD Radeon HD 6870"+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-6700, 3.4 GHz / AMD Ryzen 7 1700, 3.7 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 1070, 8 GB / Radeon RX Vega 56, 8GB"+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Y6tmBSBD#qXyxAWvWdQyOGBAYNko1V1aKrJGDNvAPdoM0Ad8N7UA", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/fmoiwjxupmy2tby/Yakuza_Zero_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:GLHDTVZSSH6P53Q6YTFTY5INKEDFXFNW&dn=Yakuza%200%20%5BFitGirl%20Repack%5D", //Link Magnet
+            drive:"https://drive.google.com/file/d/1GfINY1blt1jcbCAnYisSOP09bbUpS_eE/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "484", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "f1-2014.png",  //imagem 500x500
+            Nome: "F1 2014", //nome do jogo
+            brevedesc: "Viva a emoção da Fórmula 1 em 2014", //um pequeno texto (+/- este tamanho)
+            desc: "Assuma o volante de um carro de Fórmula 1 e dispute o campeonato mundial de 2014. Corra em pistas icônicas, lute contra pilotos lendários e personalize seu carro para alcançar a vitória.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista/7/8"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo 2.4 Ghz ou AMD Athlon X2 5400 ou superior"+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD HD2600 ou Nvidia Geforce 8600"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB livres"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows Vista 64-bit/7 64-bit/8 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7/Série AMD FX"+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Série AMD HD6000 ou Série Nvidia GTX500 com mínimo de 1GB de RAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB livres"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/12sE3KoD#dNdM8LT5LSp11CdYaHhxHcj0MHPlkRzE3jMFGsivQC4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/5kd5lsxmtumxzub/F1_2014_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:QF5IRDPZTEWKMIIEU5MRZN7ZG5QL2JHC&dn=F1.2014.elamigos&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1xgHN6xoirUq6knnqkJeLUpmpbLVTTt4X/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "485", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dantes-inferno.png",  //imagem 500x500
+            Nome: "Dante's Inferno", //nome do jogo
+            brevedesc: "Desça ao inferno e enfrente os demônios em um épico de ação e aventura ", //um pequeno texto (+/- este tamanho)
+            desc: "Viva a jornada de Dante Alighieri pelo inferno em busca de sua amada Beatrice. Lute contra hordas de demônios usando armas brutais e poderes sobrenaturais, explore os nove círculos do inferno e enfrente o próprio Lúcifer.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Você precisará de um emulador de PS3 para conseguir jogar o jogo"+  //Sistema Operacional
+            "<br>"+
+            "Emulador recomendado: RPCS3"+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/g7MXABLC#SuL95TQpZ35g_tI4sdDdS7xBNbEVLuu_CaXL5AyLWK4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/8bxk7hmqql6yy63/Dantes_Inferno_vers%25C3%25A3o_PS3_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:TSJW6ADQYMXZR4VNHIPMZCTSXJT27HXK&dn=Dante's%20Inferno.iso&xl=8749514752&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1il1rntedqS69QoWmpQ1urwYRrJDdoG5R/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "486", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "forza-horizon2.png",  //imagem 500x500
+            Nome: "Forza Horizon 2", //nome do jogo
+            brevedesc: "Festival de Velocidade na Itália! Dirija +200 Carros, Explore, Personalize e Conecte-se!", //um pequeno texto (+/- este tamanho)
+            desc: "Prepare-se para vivenciar a emoção de dirigir por paisagens italianas de tirar o fôlego em Forza Horizon 2. Explore um vasto mundo aberto que te levará da ensolarada Costa Amalfitana até os picos majestosos dos Alpes. Ao longo do caminho, você poderá colecionar e personalizar mais de 200 carros lendários, ajustando-os para se adequar ao seu estilo de pilotagem.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Você precisará de um emulador de XBOX 360 para poder jogar o jogo"+  //Sistema Operacional
+            "<br>"+
+            "Emulador recomendado: xenia"+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/tidxia4L#jXnhhwbn2KhvMFp2wY9LhX1LoeF1yM3T1XxfXqwXCFQ", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/un40doothkpr26t/Forza_Horizon_2_vers%25C3%25A3o_XBOX_360_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:B34KWQI34XQFGE3IHIMZ6IEVUB4XG5OX&dn=Forza%20Horizon%202%20Presents%20Fast%20Furious%5BFREEBOOT%5D%5BRUSSOUND%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1QjWcfdJo_wCKscMGM343Ocx7bUNwVp-f/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "487", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "sally-face.png",  //imagem 500x500
+            Nome: "Sally Face", //nome do jogo
+            brevedesc: "Mergulhe em uma Aventura sinistra sobre um garoto com o rosto protético e um passado trágico.", //um pequeno texto (+/- este tamanho)
+            desc: "Mergulhe em uma Aventura sinistra sobre um garoto com o rosto protético e um passado trágico. No primeiro episódio, “Vizinhos Estranhos”, Sally Face e seu pai se mudam para um apartamento repleto de inquilinos esquisitos e uma horrível cena do crime. Pouco sabiam do que estava por vir… Desvende os sinistros mistérios da história de Sally para encontrar a verdade oculta por segredos sombrios. ",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Win 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 600 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/AuN3xKIR#Ey_VcY2FY3vSRtCIkOXmiSCvomxYeyudHtXiIQc5kAU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/i6xc0x8rqcpd6nc/Sally_Face_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:WIMKQWWXI5U6TLKG7L2RLWYZ5O54K47V&dn=sally_face&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1wurAJ8R73IBTmXFpJ0BgZgwVNAz-eCnz/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "488", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "geometry-dash.png",  //imagem 500x500
+            Nome: "Geometry Dash", //nome do jogo
+            brevedesc: "Geometry Dash: Plataformas Rítmicas, Desafio e Editor de Níveis!", //um pequeno texto (+/- este tamanho)
+            desc: "Embarque em uma jornada eletrizante neste jogo de plataforma baseado em ritmo, onde você precisará superar obstáculos afiados e plataformas desafiadoras.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.0+ GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 512 MB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: OpenGL 2.0 support"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 100 MB de espaço disponíve"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/I3tTFIzT#Wtr059UQkKrioQv3lJuyan6uSDpX9vBe7QOSLCt3io4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/ysx7indasfd8046/Geometry_Dash_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:YBF7ODKYDC3GKEOOEMSCB55Y5JTOP2NJ&dn=Geometry%20Dash.7z&xl=258427008&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1GelCv7HRS2zFHnK82TAR5AX71NoJpLvw/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "489", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "kingsway.png",  //imagem 500x500
+            Nome: "Kingsway", //nome do jogo
+            brevedesc: "Aventure-se em um RPG, mas em um Sistema Operacional! ", //um pequeno texto (+/- este tamanho)
+            desc: "Embarque em uma jornada épica em Kingsway, um RPG único onde você gerencia sua aventura através de um sistema operacional simulado.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP, Vista, 7, 8, or 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 3 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 256MB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 100 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/0nFBiY5B#kVy5UgeXI9ZKyEwhYI4bD1v0Q0mD1gyATcPhR8zY90Q", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/jf8ouyrl7p9yzlz/Kingsway_Ascended_Edition_%255BBy_Nuvem_Azul%255D.rar/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"https://drive.google.com/file/d/16PUWy_f4WlhLHH_COwpSgURrQYuATQXJ/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "490", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "downhill-domination.png",  //imagem 500x500
+            Nome: "Downhill Domination", //nome do jogo
+            brevedesc: "Domine as Pistas em Downhill Domination: BMX Radical! ", //um pequeno texto (+/- este tamanho)
+            desc: "Domine as pistas desafiadoras, personalize sua bicicleta com estilo e dispute acirradas corridas multiplayer. Explore diversos modos de jogo, desde clássicas corridas até desafios de tempo e manobras radicais, tudo embalado por músicas contagiantes. Prepare-se para a adrenalina e conquiste a vitória em Downhill Domination!",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Você precisará de um emulador de PS2 para jogar o jogo"+  //Sistema Operacional
+            "<br>"+
+            "Emulador recomendado: PCSX2"+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/0ykwXBha#NavSGKe5eSwh3ULLJmtyUByAJfK3aw5ynPlCiuEXXbY", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/irz2ns2m9cifgf6/Downhill_Domination_vers%25C3%25A3o_PS2_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:YOC4WU6MBTLLBHXZGPZCFUGKCLCBJMNA&dn=Downhill%20Domination%20%5BENG%20NTSC%5D.7z&xl=2169138138&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1FeDzZjSzlsOYefNzHU9ZTGHvBHJUvTci/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "491", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "shadows-of-doubt.png",  //imagem 500x500
+            Nome: "Shadow of Doubt", //nome do jogo
+            brevedesc: "Pense como um investigador particular e aceite serviços para ganhar sua grana e capturar um serial killer", //um pequeno texto (+/- este tamanho)
+            desc: "Shadows of Doubt é ambientado numa realidade alternativa: uma versão hiperindustrializada dos anos 1980. Aja como detetive e utilize uma série de ferramentas de investigador particular para reunir evidências e ganhar dinheiro com a resolução de casos, a venda de informações, entre outras coisas. Jogue do seu jeito em um mundo totalmente simulado com centenas de cidadãos. Descubra, encontre e persiga indivíduos — cada um com seu próprio nome, emprego, endereço e rotina — em cidades únicas, geradas por algoritmo. Cada caso tem seus próprios acusados, pistas e experiências para testar suas habilidades investigativas. Explore qualquer lugar da cidade! Cada canto de cada bar ordinário, local de trabalho, quarto de hotel decrépito... A distopia é toda sua. Invada apartamentos, folheie documentos secretos e hackeie sistemas de segurança. Até mesmo um recibo no lixo pode ser a chave para solucionar um caso; descubra a localização de uma pessoa por meio dele, analise imagens de câmeras de segurança e preste atenção em horários para descobrir a quem ele pertencia! O mundo de Shadows of Doubt é totalmente simulado. Cada cidadão tem seu apartamento, trabalho, rotina, atividades preferidas, lugares para ir e pessoas com quem interagir. Todos vivem suas vidas de forma independente, num mundo que continua com ou sem você. Descubra todas essas informações e as use em seu favor! Torne-se um detetive particular numa experiência única de investigação. Para obter evidências, embasar suas suspeitas e solucionar os casos ao seu redor, use a dedução: verifique históricos de chamadas, descubra senhas, leia e-mails privados, fale com pessoas específicas, veja gravações de sistemas de segurança e muito mais. Guarde informações no seu painel de investigações e conecte provas para revelar tudo que aconteceu.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 or newer"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel 6th Gen i5 or AMD Ryzen 5 1600"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTX 1060 or Radeon 5500XT"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 11 or newer"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel 9th Gen i5 or AMD Ryzen 5 3500"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia RTX 3060 or Radeon RX 5700 XT"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/x6M1GQTD#KKrlWPqOL4GdCDkrjl8j1MN6trB9dIONG4tYSFWRKBI", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/m0juic4pigptlnx/Shadows_of_Doubt_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:DEPT52MUBPI72GB3FVK3OPNMKXUCN4K3&dn=Shadows%20of%20Doubt%20%5BBy%20Nuvem%20Azul%5D.zip&xl=590077371", //Link Magnet
+            drive:"https://drive.google.com/file/d/1IF8G8OwkGR27RkGGSvX0NKPhv_aSJeVz/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "492", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "vampire-survivors.png",  //imagem 500x500
+            Nome: "Vampire Survivors", //nome do jogo
+            brevedesc: "Acabe com milhares de criaturas noturnas e sobreviva até o amanhecer!", //um pequeno texto (+/- este tamanho)
+            desc: "Vampire Survivors é um jogo casual de terror gótico com elementos roguelite onde suas escolhas podem fazer você crescer rapidamente e aniquilar os milhares de monstros que aparecem pelo caminho. Vampire Survivors é um jogo de sobrevivência com jogabilidade minimalista e elementos roguelite. O inferno está vazio. Todos os demônios estão aqui, e não há como se esconder. Só lhe resta sobreviver o máximo que puder até que a morte, por fim, encerre seu sofrimento. Colete ouro nas partidas para comprar aprimoramentos e ajudar o próximo sobrevivente.",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: x64 architecture with SSE2 instruction set support"+ //Processador
+            "<br>"+
+            "Memória RAM: 1 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DX11, DX12 capable"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 600 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/0ntzCT7Q#oNkrmmex5HIpepP1rMMO3QYUoqtv4fxlRVLb5LREfZ8", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/warn5b5hjwya4ld/Vampire_Survivors_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:XR6KYLLVCZUOYBU3NR5TYZY3Z2Z53DVF&dn=VS%201.10.7z&xl=269787520&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/13Q3xD6NH51PzaEmCFNyywaqAShgQIBIi/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "493", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "plants-vs-zombies-goty.png",  //imagem 500x500
+            Nome: "Plants vs. Zombies GOTY Edition", //nome do jogo
+            brevedesc: "Zumbis estão invadindo seu lar e sua única defesa é seu arsenal de plantas! ", //um pequeno texto (+/- este tamanho)
+            desc: "Zumbis estão invadindo seu lar e sua única defesa é seu arsenal de plantas! Armado com um viveiro de plantas exterminadoras de zumbis como atiradores de ervilha e bombas de cereja, você precisará pensar rápido e plantar mais rápido para parar dezenas de tipos de zumbis na trajetória deles. Obstáculos como o por do sol, nebilha e uma piscina são adicionados ao desafio e com cinco modos de jogo, a diversão nunca acaba!",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP/Vista/7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.2GHz+ processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 1GB of RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 128MB of video memory, 16-bit or 32-bit color quality"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 65+MB of free hard drive space"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/FzcA3QDI#3lSnalXRuLQwQpaF4vcd7amISdQ-x93KpkJoXylIQco", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/rtzp2uujswmsx05/Plants_vs._Zombies_GOTY_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:L6HRMB2SCUMPMBELVBS22HMMJQWN3QVS&dn=%5Bdixen18%5D%20Plants%20vs.%20Zombies&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1LSLGj3dc6W-cN3znrk7UTDSA2z29L2q4/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "494", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "plants-vs-zombies2.png",  //deixa vazio por agora
+            Nome: "Plants vs. Zombies 2", //nome do jogo
+            brevedesc: "Zumbis estão invadindo seu lar e sua única defesa é seu arsenal de plantas!", //um pequeno texto (+/- este tamanho)
+            desc: "",  // Descrição do jogo
+            Dataupload: "05/15/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/5r9EWbaJ#a8NxogsaibIhkXJPvDczdT-Wo3Z33cdiD7dz-0-mIYE", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/y12j534yka15v9g/Plants_vs._Zombies_2_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"",
+            drive:"https://drive.google.com/file/d/1plgeGJzsY1rn_GW8p1YuR51wwS7FK2-S/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+        },
+
+
+        {
+            id: "495", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "granny.png",  //imagem 500x500
+            Nome: "Granny", //nome do jogo
+            brevedesc: "Fuja da casa da vovó maluca em 5 dias!", //um pequeno texto (+/- este tamanho)
+            desc: "",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7,8,10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core TM i5 750"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Sapphire Radeon HD 5770 1GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1400 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/9ikBQZKJ#SK9kESBo1q7G318Z7wKjTkU4uVpuGVE6bvPjBm9eHdg", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/5kovnhtft71kawu/Granny_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:VOB5WEDTIV3B4CLNZUK5JARH2DJVZRE2&dn=Granny.rar&xl=396293915&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1Bw9CpttUKBhD98-FMolvMi46TJlm0QYW/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "496", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "granny2.png",  //imagem 500x500
+            Nome: "Granny: Chapter Two", //nome do jogo
+            brevedesc: "Fuja do vovô e da vovó em 5 dias", //um pequeno texto (+/- este tamanho)
+            desc: "",  // Descrição do jogo
+            Dataupload: "05/15/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7,8,10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core TM i5 750"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Sapphire Radeon HD 5770 1GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 870 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/MzcwQSCB#NZ9jYCX-LSL04xeo9Qn_ruYNnjeEl4dAML-FW8gn_dU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/z129s6q38ujlibq/Granny_Chapter_Two_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:VTUWVUYPQAA4I4ACWSJ6EUKF7GAMUFST&dn=Granny.Chapter.Two.v1.2.1.rar&xl=449742357&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1T-0AgY9s0Yk9AyEE_fql67rLj2gXeYzu/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "497", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "granny.png",  //deixa vazio por agora
+            Nome: "Granny", //nome do jogo
+            brevedesc: "Fuja da vovó maluca em 5 dias", //um pequeno texto (+/- este tamanho)
+            desc: "",  // Descrição do jogo
+            Dataupload: "05/15/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/c6EFFDSA#SVWJ-g1o62Ovl_4raz_rra8fTFkjfuLUHEbv-iULeW0", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/pf1a5sppy78styg/Granny_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"",
+            drive:"https://drive.google.com/file/d/1mXimu0xdH0tATRT2fAKU-GfJmVoKPWvl/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+        },
+
+        {
+            id: "498", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "granny2.png",  //deixa vazio por agora
+            Nome: "Granny: Chapter Two", //nome do jogo
+            brevedesc: "Fuja da vovó e do vovô em 5 dias", //um pequeno texto (+/- este tamanho)
+            desc: "",  // Descrição do jogo
+            Dataupload: "05/15/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/t3UwUCyb#4wSubl8AWnQRSOGBCseSi9IANrYu0OcgLDhzepbf_7g", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/j6h48cupbhdvim6/Granny_Chapter_Two_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"",
+            drive:"https://drive.google.com/file/d/1sbwZe_rD1zfO19eGn-cgDF7ZNaeTxH2P/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+        },
+
+        {
+            id: "499", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "haak.png",  //deixa vazio por agora
+            Nome: "HAAK", //nome do jogo
+            brevedesc: "Explore um mundo pós-apocalíptico em um jogo de plataforma Metroidvania cheio de ação", //um pequeno texto (+/- este tamanho)
+            desc: "",  // Descrição do jogo
+            Dataupload: "05/15/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/1vcx3TCB#oR3J1u5EXtT-B4rFkj6lsW2fgSikeEO9lgvBP9M7i-k", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/z2fcros6c4kxb8h/HAAK_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"",
+            drive:"https://drive.google.com/file/d/1_aaMtjpsctf62xKQywIWSW0cZXFfm4Gm/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+        },
+
+        {
+            id: "500", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dark-fantasy.png",  //deixa vazio por agora
+            Nome: "Dark Fantasy", //nome do jogo
+            brevedesc: "", //um pequeno texto (+/- este tamanho)
+            desc: "",  // Descrição do jogo
+            Dataupload: "05/15/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/F2U2nZ5D#J__TLuyuKqdJdvriwJAL6j5bQUIWJEjWGceAGfLN1f0", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/4sqsr973pry1zlf/Dark_Fantasy_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"",
+            drive:"https://drive.google.com/file/d/1Cz5gwzf9oEaFXhs4RVnLtEyA1ZZE2wnW/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+        },
 ];
 
 
