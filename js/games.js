@@ -23477,7 +23477,7 @@ let games = [
 
         {
             id: "513", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "senuas-saga-hellblade2.png",  //imagem 500x500
+            Imag: "hellblade2.png",  //imagem 500x500
             Nome: "Senua's Saga: Hellblade II", //nome do jogo
             brevedesc: "Senua retorna em uma jornada brutal de sobrevivência através do mito e tormento da Islândia Viking.", //um pequeno texto (+/- este tamanho)
             desc: "A sequência do premiado Hellblade: Senua's Sacrifice, Senua retorna em uma jornada brutal de sobrevivência através do mito e tormento da Islândia Viking. Com a intenção de salvar aqueles que foram vítimas dos horrores da tirania, Senua enfrenta uma batalha de superação das trevas internas e externas.",  // Descrição do jogo
