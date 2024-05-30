@@ -22891,6 +22891,722 @@ let games = [
             magnet:"",
             drive:"https://drive.google.com/file/d/1Cz5gwzf9oEaFXhs4RVnLtEyA1ZZE2wnW/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
+
+        {
+            id: "501", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "got.png",  //imagem 500x500
+            Nome: "Ghost of Tushima DIRECTOR'S CUT", //nome do jogo
+            brevedesc: "Uma tempestade se aproxima. Forje seu próprio caminho neste jogo de ação e aventura de mundo aberto para descobrir suas maravilhosas surpresas.", //um pequeno texto (+/- este tamanho)
+            desc: "No final do século XIII, o império mongol devastou nações em sua campanha para conquistar o Oriente. A Ilha de Tsushima é tudo que resta entre a ilha principal do Japão e a imensa frota invasora dos mongóis liderada por um general ardiloso e implacável, Khotun Khan. Enquanto a ilha é devastada pela primeira onda de ataques mongóis, surge Jin Sakai, um corajoso guerreiro samurai que é um dos últimos sobreviventes de seu clã. Ele está decidido a fazer o que for preciso, custe o que custar, para proteger seu povo e recuperar seu lar. Para isso, será necessário deixar de lado as tradições que o moldaram como guerreiro e forjar um novo caminho, o do Fantasma, travando uma guerra atípica pela liberdade de Tsushima. ",  // Descrição do jogo
+            Dataupload: "05/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-7100 or AMD Ryzen 3 1200"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 960 or AMD Radeon RX 5500 XT"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 75 GB de espaço disponível de SSD"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-8600 or AMD Ryzen 5 3600"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce RTX 2060 or AMD Radeon RX 5600 XT"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 75 GB de espaço disponível de SSD"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/crclmSII#lkiu8JKUJF2nm3pamnMBbsi5xDqvzshhYkJpL-b2fjY", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/p42bwh6xkdvd59u/Ghost_of_Tsushima_DIRECTOR%2527S_CUT_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:EXRPDKUE3DSK7OUBAVSWXW2N3463SX5E&dn=Ghost%20of%20Tsushima%20DC%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1D24SzUB_iMaIFZetAn0AZTQPzT-Maws0/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "502", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "omori.png",  //deixa vazio por agora
+            Nome: "OMORI", //nome do jogo
+            brevedesc: "RPG psicológico com exploração onírica, amigos excêntricos e segredos obscuros.", //um pequeno texto (+/- este tamanho)
+            desc: "OMORI é um RPG de exploração onírica com elementos de terror psicológico. Explore um mundo vibrante, enfrente seus medos e desvende segredos obscuros ao lado de amigos excêntricos. Suas escolhas moldarão o destino e a narrativa neste mundo intrigante.",  // Descrição do jogo
+            Dataupload: "05/21/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/or8DCBZZ#qz226yrzf2d6a0xCC66UMRVFBP71Jr5iy83k5Y3NEzc", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/mlwoove6lsncu30/OMORI_Mobile_%255BBy_Nuvem_Azul%255D.xapk/file", //Link MediaFire
+            magnet:"",
+            drive:"https://drive.google.com/file/d/1VzIhJcjLkkNlJWMoe5RQWkM33erGkyTK/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+        },
+
+
+        {
+            id: "503", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "omori.png",  //imagem 500x500
+            Nome: "OMORI", //nome do jogo
+            brevedesc: "RPG psicológico com exploração onírica, amigos excêntricos e segredos obscuros.", //um pequeno texto (+/- este tamanho)
+            desc: "OMORI é um RPG de exploração onírica com elementos de terror psicológico. Explore um mundo vibrante, enfrente seus medos e desvende segredos obscuros ao lado de amigos excêntricos. Suas escolhas moldarão o destino e a narrativa neste mundo intrigante.",  // Descrição do jogo
+            Dataupload: "05/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Microsoft Windows 8.1 (32bit/64bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel N4100 (or similar) or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 9/OpenGL 4.1 capable GPU"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Microsoft Windows 10 (32bit/64bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-6100 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: OpenGL ES 2.0 hardware driver support required for WebGL acceleration"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/FmdgDZKC#gn2JCASI57ZN4_UHxjC2UbgpNWFJjbpgm_u3Zrti44M", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/9bpnrvlmtx4jjtn/OMORI_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:6BJEQNNFVV2BRGZ47YGCTHBEPMZQCVXW&dn=OMORI.rar&xl=1964499920&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1HChhdMK14AuBWWc9aj--nRLHKeLiBfFj/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "504", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "pizza-tower.png",  //deixa vazio por agora
+            Nome: "Pizza Tower", //nome do jogo
+            brevedesc: "Pizza Tower: Explore, lute e domine a torre! ", //um pequeno texto (+/- este tamanho)
+            desc: "Assuma o papel do pizzaiolo Peppino Spaghetti e escale a torre titular para salvar sua pizzaria das garras do vilão Pizzaface. Explore níveis vibrantes, enfrente inimigos saborosos e supere desafios deliciosos em um platformer frenético com estilo pixel art retrô e trilha sonora contagiante. Domine movimentos acrobáticos, descubra segredos e ingredientes valiosos, e supere combos épicos para alcançar o topo e salvar o dia!",  // Descrição do jogo
+            Dataupload: "05/21/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/cm8jxJzZ#l6TU_LD0Mdbn-7TsOUPZpKZPBuFI4CwFiE4bbTmjqjs", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/pt3tv4qw4in81tk/Pizza_Tower_Mobile_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"",
+            drive:"",  //Link Drive (podes deixar estes 3 eu faço)
+        },
+
+
+        {
+            id: "505", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "pizza-tower.png",  //imagem 500x500
+            Nome: "Pizza Tower", //nome do jogo
+            brevedesc: "Salte, lute e devore o caminho para a vitória!", //um pequeno texto (+/- este tamanho)
+            desc: "Assuma o papel do pizzaiolo Peppino Spaghetti e escale a torre titular para salvar sua pizzaria das garras do vilão Pizzaface. Explore níveis vibrantes, enfrente inimigos saborosos e supere desafios deliciosos em um platformer frenético com estilo pixel art retrô e trilha sonora contagiante. Domine movimentos acrobáticos, descubra segredos e ingredientes valiosos, e supere combos épicos para alcançar o topo e salvar o dia!",  // Descrição do jogo
+            Dataupload: "05/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel or AMD Dual Core CPU"+ //Processador
+            "<br>"+
+            "Memória RAM: 512 MB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GT 1030 (2 GB) or equivalent"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 300 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/tycVzBiK#BT9AsUz7-J6D8lw2PQmoC1nKi8z9nldUAF2UnsUES0I", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/wgnow7yzt3fhxkd/Pizza_Tower_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:MCSJ5IZ6KEVR4E54XBJRQQG73Z6T6HSC&dn=Pizza.Tower.v1.1.063.rar&xl=232984354&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1FwUM7kqL3vMUhv5WIYHMBoZrgXzd9icV/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "506", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "at-tonys.png",  //imagem 500x500
+            Nome: "At Tony's", //nome do jogo
+            brevedesc: "Sobreviva à noite, desvende o mistério e faça pizzas! ", //um pequeno texto (+/- este tamanho)
+            desc: "Prepare-se para uma noite de terror e suspense em At Tony's, um jogo de terror em primeira pessoa que se passa em uma pizzaria assombrada. O último funcionário do turno da noite desapareceu misteriosamente, e agora é sua vez de assumir o comando e desvendar os segredos obscuros que assolam o local. Enfrente seus medos: Enquanto você prepara pizzas e atende clientes, eventos estranhos e horripilantes começarão a acontecer. Assombrações macabras e entidades fantasmagóricas o perseguirão pelos corredores escuros da pizzaria. Use sua inteligência e reflexos rápidos para sobreviver à noite e desvendar a verdade por trás dos mistérios que assolam At Tony's. Descubra a verdade: Explore a pizzaria em detalhes, coletando pistas e resolvendo enigmas para desvendar a história por trás da assombração. Descubra o que aconteceu com o funcionário desaparecido e por que os espíritos inquietos ainda vagam pelo local. Sobreviva até o amanhecer: Use sua inteligência e habilidades para escapar das garras das entidades fantasmagóricas que assombram a pizzaria. Use ferramentas e objetos do ambiente para se defender e encontrar maneiras de se esconder dos fantasmas. ",  // Descrição do jogo
+            Dataupload: "05/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: WINDOWS 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel/Amd"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 960"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: WINDOWS 11"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel/Amd"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 1080"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/YnNzzJzQ#_2J2lWBq4ArQYNcV6EkSHKV-l_-3Cll1L9jsNVL_ymk", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/dkdpdjgljw8m5rm/At_Tony%2527s_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:KMK6VZ6N3BWFHA26WFWLLHZCVB4VOHDX&dn=At%20Tony's%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/19JaOL5c2GlDRlbSTpcxb5-hB9KLfW8Hc/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "507", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "marvel-avengers.png",  //imagem 500x500
+            Nome: "Marvel's Avengers", //nome do jogo
+            brevedesc: "Monte sua equipe com os heróis mais poderosos da Terra, incorpore seus poderes e viva seus sonhos de super-herói.", //um pequeno texto (+/- este tamanho)
+            desc: "Marvel's Avengers começa no Dia-A, quando Capitão América, Iron Man, Hulk, Black Widow e Thor inauguram o novo e avançado quartel-general dos Avengers em São Francisco. A celebração torna-se fatal quando um inimigo misterioso causa um acidente catastrófico, resultando em destruição em massa. Culpados pela tragédia, os Avengers se separam. Cinco anos depois, com a proibição de todos os super-heróis e o mundo em perigo, uma grande aventura se inicia quando uma jovem determinada chamada Kamala Khan decide reunir e restabelecer os Avengers para deter o poder incontrolável da nova força secreta conhecida como AIM.",  // Descrição do jogo
+            Dataupload: "05/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: i3-4160 or AMD equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GTX 950 / AMD 270 (min 2GB video ram)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 75 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7 4770K, 3.4 Ghz or AMD Ryzen 5 1600, 3.2 Ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GTX 1060 6GB or AMD Radeon RX 480, 8GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 110 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/hiFXEIRa#NBcZ3Q9Z12kXb__9l5NxcwsmZtHmWhp97CP0UcWEffc", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/l9at35lceoyjkxt/Marvel%2527s_Avengers_Definitive_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:6QCAASDJC5WNPXAYDEGIMMPRSCYPTOBX&dn=Marvel's%20Avengers%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1G-KXJcsOzlDCsCejSJkIhSPuizzBSDui/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "508", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "fifa-20.png",  //imagem 500x500
+            Nome: "FIFA 20", //nome do jogo
+            brevedesc: "FIFA 20: Futebol autêntico, jogabilidade inovadora e emoção garantida!", //um pequeno texto (+/- este tamanho)
+            desc: "Domine as ruas e os estádios com o EA SPORTS FIFA 20, a experiência futebolística mais completa e autêntica de todos os tempos. Viva a emoção de jogar nas maiores ligas do mundo e dispute partidas emocionantes com seus jogadores favoritos. Novas tecnologias de jogabilidade redefinem a física da bola, a inteligência artificial dos jogadores e as animações, proporcionando uma experiência mais imersiva e realista do que nunca. Sinta a adrenalina de cada passe, chute e gol como se estivesse dentro do campo. ",  // Descrição do jogo
+            Dataupload: "05/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8.1/10 - 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Phenom II X4 965, Intel Core i3-2100 ou equivalente"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD Radeon HD 7850 de 2 GB, NVIDIA GTX 660 de 2 GB ou equivalente"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: Pelo menos 50 GB de espaço livre"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 - 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD FX 8150, Intel i5-3550 ou equivalente"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD Radeon R9 270X, NVIDIA GeForce GTX 670 ou equivalente"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: Pelo menos 50 GB de espaço livre"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/kyNEnSAJ#q6EU1SzRKORezNFgR141s6a5VC5s8YXHDscDAzfqjNg", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/c1h2bz43d1pvxgs/FIFA_20_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:4MLJAEQ45BSOT477VDRNL7ZIHCME7UIP&dn=FIFA%2020%20%5BRePack%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1RPgbi-guKc5zTtWflqfbdA-zOh0x-R9_/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "509", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "fifa16.png",  //imagem 500x500
+            Nome: "FIFA 16", //nome do jogo
+            brevedesc: "FIFA 16: Novas mecânicas, momentos mágicos e futebol autêntico!", //um pequeno texto (+/- este tamanho)
+            desc: "Domine o campo com o EA SPORTS FIFA 16, a experiência de futebol mais imersiva e autêntica de todos os tempos. Prepare-se para inovações na jogabilidade que redefinem a física da bola, a inteligência artificial dos jogadores e as animações, proporcionando uma experiência mais realista e emocionante do que nunca. Crie momentos mágicos em campo com novas mecânicas que permitem passes precisos, dribles habilidosos e finalizações espetaculares. Sinta a adrenalina de cada passe, chute e gol como se estivesse dentro do campo.",  // Descrição do jogo
+            Dataupload: "05/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8/8.1 de 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-2100 a 3,1 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: ATI Radeon HD 5770, NVIDIA GTX 650"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 8/8.1/10 de 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-2550K a 3,4 Ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: ATI Radeon HD 6870, NVIDIA GTX 460"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/suN1QRwQ#oEJBv45NjzGCvQ9zvrOWIno7cBMz-5Svp66yS9S24yg", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/i8656sl4oynm1fj/FIFA_16_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:XAXB632GK5CRP4ZWJBITOZR3T7I6IXPF&dn=FIFA%2016%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1jrgUxULSLiQL7adPKy3NShZIG3KfF_io/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "510", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "horizon-forbidden-west.png",  //imagem 500x500
+            Nome: "Horizon: Forbidden West", //nome do jogo
+            brevedesc: "Junte-se à Aloy para desbravar uma área majestosa e perigosa que esconde novas ameaças misteriosas", //um pequeno texto (+/- este tamanho)
+            desc: "Junte-se à Aloy para desbravar uma área majestosa e perigosa que esconde novas ameaças misteriosas. Esta Edição Completa permite desfrutar do aclamado Horizon Forbidden West no PC com conteúdo extra, incluindo a expansão da história Burning Shores, que começa logo após a história do jogo base. Explore terras distantes, enfrente máquinas maiores e mais imponentes e conheça novas tribos extraordinárias neste retorno ao futuro distante e pós-apocalíptico de Horizon. A terra está morrendo. Tempestades violentas e uma peste incontrolável devastam os vestígios da humanidade. Novas máquinas assustadoras vagam pelas fronteiras, e a vida na Terra caminha rumo a outra extinção. Cabe à Aloy descobrir os segredos por trás dessas ameaças e restaurar a ordem e o equilíbrio ao mundo. Pelo caminho, ela reencontrará velhos amigos, estabelecerá alianças com novas facções rivais e revelará o legado do passado remoto.",  // Descrição do jogo
+            Dataupload: "05/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64-bit (version 1909 or higher)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-8100 or AMD Ryzen 3 1300X"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1650 4GB or AMD Radeon RX 5500XT 4GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 150 GB de espaço disponível em SSD"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64-bit (version 1909 or higher)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-8600 or AMD Ryzen 5 3600"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce RTX 3060 or AMD Radeon RX 5700"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 150 GB de espaço disponível em SSD"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/FidEQboa#OuPVY6sdz3gV5fI-VSO-7yoR6YirJgamg0F0S_NIfdg", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/rqg02vizy2fguqb/Horizon_Forbidden_West_Complete_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:7RIAJ2TX5BAFJWTICOAIIZ7EHJFK5OLJ&dn=Horizon%20-%20Forbidden%20West%20CE%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1rt4YTcYON1-6E966LJMLLjLphIE2J6QG/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "511", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "midnight-club3.png",  //imagem 500x500
+            Nome: "Midnight Club 3", //nome do jogo
+            brevedesc: "Domine as ruas de Los Angeles em corridas emocionantes! ", //um pequeno texto (+/- este tamanho)
+            desc: "Prepare-se para as corridas de rua mais emocionantes da sua vida com Midnight Club 3! Explore a vasta cidade de Los Angeles em um mundo aberto detalhado e participe de corridas frenéticas contra os melhores pilotos da cidade. Personalize seus carros com uma variedade de opções e use-os para dominar seus oponentes nas ruas.",  // Descrição do jogo
+            Dataupload: "05/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Para jogar este jogo, você precisará de um emulador de PSP"+  //Sistema Operacional
+            "<br>"+
+            "Recomendação: PPSSPP"+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/oy1mjZQC#QmDf0Vgx09NbDdmgNXXqYh4MdkEKdrxxPSfUUkHMPPs", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/p2gqqottb5mbocr/Midnight_Club_3_Dub_Edition_vers%25C3%25A3o_PSP_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:T2KEWFHG4ZZKLTIUEO25EJ2XG4BJZLWZ&dn=Midnight%20Club%203%20-%20DUB%20Edition.iso&xl=1652418560&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1jKsX-QeAohRlbKeSUXoUaEGTXTH0tpZv/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "511", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "life-is-strange-remastered.png",  //imagem 500x500
+            Nome: "Life is Strange Remastered", //nome do jogo
+            brevedesc: "Reviva a história com gráficos aprimorados!", //um pequeno texto (+/- este tamanho)
+            desc: "Reviva a premiada história de Life is Strange com o Life is Strange Remastered, onde os visuais aprimorados e a animação em motion capture dão vida à cidade costeira de Arcadia Bay como nunca antes. Max Caulfield, uma estudante de fotografia com a habilidade de rebobinar o tempo, se depara com o mistério do desaparecimento de sua amiga Rachel Amber. Juntamente com a rebelde Chloe Price, Max investiga a verdade por trás dos segredos obscuros que assolam Arcadia Bay.",  // Descrição do jogo
+            Dataupload: "05/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Phenom II X4 965, 3.2 GHz / Intel Core i3-2100, 3.1 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Radeon R7 250x, 1GB / GeForce GTX 460, 2 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 42 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD FX-8350, 4.2 GHz / Intel Core i5-2400, 3.1 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Radeon RX 580, 4 GB / GeForce GTX 1060, 6 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 42 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/c6FkwZpQ#JtWtuLfIp3SMHsO_y3M3chCHyVPNKXU19YQtHFJUVnE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/hlc2kk7fh9wslg0/Life_is_Strange_Remastered_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:NKT2V3CPXBOL2VKAKZHBSZ27JOMR6M33&dn=Life%20is%20Strange%20Remastered%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710", //Link Magnet
+            drive:"https://drive.google.com/file/d/1tzRKSRUpQzFT3cnzmZHQUYJUKtOryBTq/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "512", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "todos-os-fnafs.png",  //imagem 500x500
+            Nome: "Todos Five Nights At Freddy's", //nome do jogo
+            brevedesc: "Todos os jogos da franquia Five Night At Freddy's", //um pequeno texto (+/- este tamanho)
+            desc: "Está incluso: Five Nights at Freddy's, Five Nights at Freddy's 2, Five Nights at Freddy's 3, Five Nights at Freddy's 4, Five Nights at Freddy's: Sister Location, FNAF World, Freddy Fazbear's Pizza Simulator e Ultimate Custom Night",  // Descrição do jogo
+            Dataupload: "05/27/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: "+  //Sistema Operacional
+            "<br>"+
+            "Processador: "+ //Processador
+            "<br>"+
+            "Memória RAM: "+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: "+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: "+  //Sistema Operacional
+            "<br>"+
+            "Processador: "+ //Processador
+            "<br>"+
+            "Memória RAM: "+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: "+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "magnet:?xt=urn:btih:45S7IWPPWWS7YT3TFJFFHFJI3UJQCJ5Q&dn=Five%20Nights%20at%20Freddy's%20Anthology&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/je68gmibgw8q09p/Todos_os_FNAF%2527S_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:45S7IWPPWWS7YT3TFJFFHFJI3UJQCJ5Q&dn=Five%20Nights%20at%20Freddy's%20Anthology&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1oq4jvFX078vb62gq8EJlySTxL9sWDRzf/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "513", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "senuas-saga-hellblade2.png",  //imagem 500x500
+            Nome: "Senua's Saga: Hellblade II", //nome do jogo
+            brevedesc: "Senua retorna em uma jornada brutal de sobrevivência através do mito e tormento da Islândia Viking.", //um pequeno texto (+/- este tamanho)
+            desc: "A sequência do premiado Hellblade: Senua's Sacrifice, Senua retorna em uma jornada brutal de sobrevivência através do mito e tormento da Islândia Viking. Com a intenção de salvar aqueles que foram vítimas dos horrores da tirania, Senua enfrenta uma batalha de superação das trevas internas e externas.",  // Descrição do jogo
+            Dataupload: "05/27/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10/11 64 Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-8400 | AMD Ryzen 5 2600"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTX 1070 | AMD RX 5700 | Intel Arc A580"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 70 GB de espaço disponível no SSD"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10/11 64 Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i7-10700K | AMD Ryzen 5 5600X"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia RTX 3080 | AMD RX 6800 XT | Intel Arc A770"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 70 GB de espaço disponível no SSD"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://drive.google.com/file/d/15ONvufaR0mgIMI-Qy9wJ5kTxZWwW-zaR/view?usp=sharing", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/4if3uwy6i6d9731/Senua%2527s_Saga_Hellblade_II_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:M7DC4BWMX54WTER4GYZSSGWWJ4YTHPD5&dn=Senua's%20Saga%20-%20Hellblade%20II%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/15ONvufaR0mgIMI-Qy9wJ5kTxZWwW-zaR/view?usp=sharing",  //Link Drive
+        },
+
+        {
+        id: "514", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+        Imag: "candies-n-curses.png",  //deixa vazio por agora
+        Nome: "Candies 'n Curses", //nome do jogo
+        brevedesc: "Jogue como Molli Pop, se defendendo de hordas de fantasmas adoráveis em uma mansão amaldiçoada, para sempre assombrada pelo Rei Fantasma!", //um pequeno texto (+/- este tamanho)
+        desc: "Jogue como Molli Pop, se defendendo de hordas de fantasmas adoráveis em uma mansão amaldiçoada, para sempre assombrada pelo Rei Fantasma! Evolua Molli com novas lanternas e habilidades conforme você subir de nível - e equipe-se com filhotes fantasmagóricos e outras criaturas espectrais enquanto você trabalha em conjunto para limpar a mansão de sua maldição que anseia por açúcar",  // Descrição do jogo
+        Dataupload: "05/28/2024", // nao mexes
+
+        // Minimos
+        RequesitosMinimos:
+        "<br>"+
+        ""+  //Sistema Operativo
+        "<br>"+
+        ""+ //Processador
+        "<br>"+
+        ""+ //memoria ram
+        "<br>"+
+        ""+ //Placa de video
+        "<br>"+
+        ""+ //armazenamento 
+        "<br>",
+
+        // Recomendados
+        RequesitosRecomendados: 
+        "<br>"+
+        ""+  //Sistema Operativo
+        "<br>"+
+        ""+ //Processador
+        "<br>"+
+        ""+ //memoria ram
+        "<br>"+
+        ""+ //Placa de video
+        "<br>"+
+        ""+ //armazenamento 
+        "<br>",
+        plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+
+        // LinksDownload
+        mega: "https://www.mediafire.com/file/zshmjko4homkg10/Candies_%2527n_Curses_%255BBy_Nuvem_Azul%255D.apk/file", //Link DO Mega
+        mediafire: "https://www.mediafire.com/file/zshmjko4homkg10/Candies_%2527n_Curses_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+        magnet:"",
+        drive:"https://drive.google.com/file/d/1c9Uz7RZrHicOrAXbvMkkbJxnGJNapA3t/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+    },
+
+
+        {
+            id: "515", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "half-life2.png",  //imagem 500x500
+            Nome: "Half Life 2: Complete Edition", //nome do jogo
+            brevedesc: "Half-Life 2: Complete Edition: Reviva o clássico com todos os episódios!", //um pequeno texto (+/- este tamanho)
+            desc: "O Half Life 2: Complete Edition contém: Half-Life 2 (2004), Half-Life 2: Episode One (2006), Half-Life 2: Episode Two (2007), Half-Life: Source HD (2004) e Half-Life: Lost Coast (2005).",  // Descrição do jogo
+            Dataupload: "05/28/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows® Vista/XP"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Processador de 1.7 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 512MB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Placa de Vídeo com DirectX® 8.1 (Requer Suporte para SSE)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10.8 GB"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows® Vista/XP"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Pentium 4 (3.0GHz, ou melhor)"+ //Processador
+            "<br>"+
+            "Memória RAM: 1GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Placa de Vídeo com DirectX® 9"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10.8 GB"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/478l3BiJ#1_w-jGqlpkqYPLvWWs75--Vd7kBS8_dKTcRwbbcd9ac", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/5kmvbilidi7j1aa/Half-Life_2_Complete_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:26WOHT33DESUHMULCBHURKCBE2XMQKWD&dn=Half%20Life%202%20%5BDODI%20Repack%5D&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/12TisY1aWVCeND-tb9BiXw1QlKQ4XxJv-/view?usp=sharing",  //Link Drive
+        },
 ];
 
 
