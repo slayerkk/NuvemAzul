@@ -21955,7 +21955,7 @@ let games = [
 
         {
             id: "480", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "little kitty-big-city",  //imagem 500x500
+            Imag: "little kitty-big-city.png",  //imagem 500x500
             Nome: "Little Kitty, Big City", //nome do jogo
             brevedesc: "Uma soneca pacífica se transforma em uma aventura miauravilhosa!", //um pequeno texto (+/- este tamanho)
             desc: "Você vai preferir achar o caminho de casa ou explorar o que a cidade grande tem a oferecer primeiro? Assim, chegar é casa é a maior prioridade, óbvio. Óbvio. Bom, é uma das suas prioridades. Talvez esteja mais para uma sugestão... Eu sei que está aí em algum lugar da lista de tarefas! Mas... primeiro? Explorar!",  // Descrição do jogo
