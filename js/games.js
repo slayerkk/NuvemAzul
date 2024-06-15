@@ -18390,7 +18390,7 @@ let games = [
 
         {
             id: "402", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "supermarket-simulator.png",  //imagem 500x500
+            Imag: "supermarketsimulator.png",  //imagem 500x500
             Nome: "Supermarket Simulator", //nome do jogo
             brevedesc: "Administre seu próprio supermercado.", //um pequeno texto (+/- este tamanho)
             desc: "Administre seu próprio supermercado. Abasteça as prateleiras, defina os preços como quiser, receba pagamentos, contrate funcionários, expanda e projete sua loja. Pedidos e entregas on-line, ladrões de lojas, segurança e mercado local estão por vir.",  // Descrição do jogo
@@ -21955,7 +21955,7 @@ let games = [
 
         {
             id: "480", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "little kitty-big-city.png",  //imagem 500x500
+            Imag: "little-kitty-big-city.png",  //imagem 500x500
             Nome: "Little Kitty, Big City", //nome do jogo
             brevedesc: "Uma soneca pacífica se transforma em uma aventura miauravilhosa!", //um pequeno texto (+/- este tamanho)
             desc: "Você vai preferir achar o caminho de casa ou explorar o que a cidade grande tem a oferecer primeiro? Assim, chegar é casa é a maior prioridade, óbvio. Óbvio. Bom, é uma das suas prioridades. Talvez esteja mais para uma sugestão... Eu sei que está aí em algum lugar da lista de tarefas! Mas... primeiro? Explorar!",  // Descrição do jogo
