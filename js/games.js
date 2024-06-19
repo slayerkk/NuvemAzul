@@ -23607,6 +23607,950 @@ let games = [
             magnet:"magnet:?xt=urn:btih:26WOHT33DESUHMULCBHURKCBE2XMQKWD&dn=Half%20Life%202%20%5BDODI%20Repack%5D&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce", //Link Magnet
             drive:"https://drive.google.com/file/d/12TisY1aWVCeND-tb9BiXw1QlKQ4XxJv-/view?usp=sharing",  //Link Drive
         },
+
+        {
+            id: "516", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dream-daddy.png",  //imagem 500x500
+            Nome: "Dream Daddy: A Dad Dating Simulator", //nome do jogo
+            brevedesc: "Você está pronto? - Estou sim, papai.", //um pequeno texto (+/- este tamanho)
+            desc: "Dream Daddy: A Dad Dating Simulator é um jogo de simulação de encontros desenvolvido e publicado pela Game Grumps. Lançado em 2017, o jogo permite que o jogador assuma o papel de um pai solteiro que acabou de se mudar para uma nova cidade com sua filha adolescente. O objetivo principal é conhecer e potencialmente namorar outros pais solteiros na vizinhança. Com uma narrativa rica e cheia de humor, o jogo oferece várias rotas de romance, cada uma com personagens únicos e histórias emocionantes. Dream Daddy é conhecido por sua representação inclusiva e positiva da comunidade LGBTQ+, bem como por suas mensagens tocantes sobre paternidade, amizade e autoaceitação.",  // Descrição do jogo
+            Dataupload: "06/12/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 (64 bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Windows 7 (64 bit)"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX compatible card"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Q2UkBBCa#Ej0Jzo2DznuIRQ7QVSEcGQq5kLMg9_Oxvu61GnycGgM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/eq1oi78plzpqf8e/Dream_Daddy_A_Dad_Dating_Simulator_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:4VXD6IRBQ7NCHSV5PFIMH35ZMO7PIEMN&dn=Dream%20Daddy%20A%20Dad%20Dating%20Simulator.zip&xl=484222684&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1pco0-pgrMeSOt4UXXCAK687508MNDSxL/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "517", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "hatoful-boyfriend.png",  //imagem 500x500
+            Nome: "Hatoful Boyfriend", //nome do jogo
+            brevedesc: "Namore pombos em 'Hatoful Boyfriend', uma visual novel única e divertida.", //um pequeno texto (+/- este tamanho)
+            desc: "'Hatoful Boyfriend' é uma visual novel única onde você, uma humana, frequenta uma escola para pombos e deve escolher entre diversos pretendentes aviares para namorar. Combinando humor, romance e mistério, o jogo oferece uma experiência divertida e inusitada que desafia as convenções dos simuladores de encontros tradicionais.",  // Descrição do jogo
+            Dataupload: "06/12/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP with SP2 or later; Windows 7 with SP1 or later; Windows 8"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            "Memória RAM: 1 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Graphics card with DirectX 9 level (shader model 2.0) capabilities."+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 300 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/9i0hkJIR#QGLLedTLSrQGS9It1QHqIejXsOkrBg1K2WlacNa83nI", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/re4p0uqhoh3iqao/Hatoful_Boyfriend_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:TSHSFFMXIC66ZUI4TIURPURPUR5WX3SC&dn=setup_hatoful_boyfriend_gog-1_(17722)&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1zprtxmErUQzeFnY7l9VdcgXmXHnNLPp7/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "518", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "huniepop.png",  //imagem 500x500
+            Nome: "HuniePop", //nome do jogo
+            brevedesc: "Encontre e namore garotas em HuniePop, um divertido puzzle adulto.", //um pequeno texto (+/- este tamanho)
+            desc: "HuniePop é um jogo híbrido que combina elementos de simulador de encontros com puzzles match-3. Nele, você interage e tenta conquistar várias personagens femininas, cada uma com sua própria personalidade e preferências. Além das mecânicas de namoro, o jogo apresenta desafios de puzzles envolventes que são necessários para avançar nos relacionamentos. Com gráficos vibrantes e diálogos adultos, HuniePop oferece uma experiência de jogo única e cativante para adultos.",  // Descrição do jogo
+            Dataupload: "06/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP+"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.2 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX® 9 Compatible Graphics Card"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados "+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+             ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/9jMmVKxa#dCcEiMyzga5WCo4BTdG7ksXIJEVXiaFZ9iyUgDY83ys", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/8stbgy1m0dhh60n/HuniePop_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:OSNUGQBCLRN5OABVZYXZO7B4N2NW6KPE&dn=huniepop&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1vDBwWLczJ1NPbpTPoKTCjMl4r3jc0FcS/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "519", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "clannad.png",  //imagem 500x500
+            Nome: "CLANNAD HD Edition", //nome do jogo
+            brevedesc: "Explore amor e laços familiares em CLANNAD HD Edition, uma visual novel tocante.", //um pequeno texto (+/- este tamanho)
+            desc: "CLANNAD HD Edition é uma visual novel aclamada que narra a vida de Tomoya Okazaki, um jovem problemático que encontra novos amigos e redescobre o significado de família, amor e amizade. Com gráficos remasterizados em alta definição, a história é repleta de momentos emocionantes e comoventes, oferecendo uma experiência profunda e inesquecível.",  // Descrição do jogo
+            Dataupload: "06/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista or higher"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.2Ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 1 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 640x480"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 7 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7/8.1/10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.2Ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 1280x960"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 7 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Vu1i1QjQ#qMGvy4vXqyGTZHA2JgwomxqMZ2J2M1PCIocHDA-Imuc", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/08ufqiqh2149qqr/CLANNAD_HD_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:MUR275X76O2ISCEKTKH3TLAXO6F5A5CY&dn=CLANNAD-POSTMORTEM&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1ROU0oBb1AIUf4wUjngsKW1FpG5F9lJ8f/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "520", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "steins-gate.png",  //imagem 500x500
+            Nome: "STEINS;GATE", //nome do jogo
+            brevedesc: "STEINS;GATE é uma visual novel envolvente sobre viagens no tempo e ciência.", //um pequeno texto (+/- este tamanho)
+            desc: "STEINS;GATE é uma visual novel aclamada que gira em torno de um grupo de jovens que acidentalmente descobrem um método de enviar mensagens para o passado. A história mistura ficção científica com elementos de suspense e drama, explorando as consequências e dilemas éticos das viagens no tempo. Com personagens profundos e uma narrativa intrincada, STEINS;GATE oferece uma experiência envolvente e emocional.",  // Descrição do jogo
+            Dataupload: "06/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows7/8.1/10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core i3 of Sandy Bridge generation or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD Graphics Series (It needs 1GB memory allocation)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 13 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows7/8.1/10 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core i5 of Ivy Bridge generation or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Geforce (VRAM 1GB or better)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 13 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/wiEhSIjT#VEdGMmvxaLJ0K-6pkNdfxqeDG9lRaKMlcx0-qZiDpuE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/gn934spbl4vzysc/STEINS%253BGATE_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:SVMVS7QRUPNKIFHQHSAZ4J3CRJZVJOCT&dn=Steins%20Gate%20-%20Steam%20Edition&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/133LRtt8B3X-eu_Y0EcWuNT5mIW2V1U7g/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "521", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "long-live-the-queen.png",  //imagem 500x500
+            Nome: "Long Live The Queen", //nome do jogo
+            brevedesc: "Treine, governe e sobreviva em Long Live The Queen, um simulador real.", //um pequeno texto (+/- este tamanho)
+            desc: "Long Live The Queen é um simulador de visual novel onde você joga como Elodie, uma jovem princesa destinada a se tornar rainha. O objetivo é prepará-la para a coroação enquanto navega por traições, intrigas políticas e perigos mortais. Com uma variedade de habilidades para treinar e decisões críticas a tomar, cada escolha pode levar a diferentes finais, tornando cada jogada única e desafiadora.",  // Descrição do jogo
+            Dataupload: "06/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: XP, Vista, 7, 8"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.2 Ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 256 MB de RAM"+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/U2dwCZRQ#d5zLgC0yUheTeiojs76goEck7oIYsVu5HeGBjHJ_JSs", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/qrazvbmak9i2rik/Long_Live_The_Queen_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:3UJGRMXIADW565JPAJP3MAYF6WOQ3MSS&dn=Long_Live_The_Queen%20setup.exe&xl=49369845&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1MFm4PcMny7EvYuDKp6OtvzgbrEHKBA97/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "522", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "amnesia-memories.png",  //imagem 500x500
+            Nome: "Amnesia: Memories", //nome do jogo
+            brevedesc: "Explore memórias perdidas e romance em Amnesia: Memories, uma visual novel.", //um pequeno texto (+/- este tamanho)
+            desc: "Amnesia: Memories é uma visual novel onde a protagonista acorda sem lembranças e descobre que vive entre o mundo dos humanos e o dos espíritos. Ao explorar diferentes rotas de romance, ela desvenda mistérios sobre seu passado e o verdadeiro significado de suas experiências. Com uma narrativa complexa e personagens cativantes, o jogo oferece uma jornada emocionante de autodescoberta e amor.",  // Descrição do jogo
+            Dataupload: "06/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core 2 Duo (1.20Ghz or more)"+ //Processador
+            "<br>"+
+            "Memória RAM: 1 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 960×540; onboard sufficient"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows Vista, 7, 8/8.1, 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core i3 or greater"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 1920×1080; onboard sufficient"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/kmFSwRQI#GVpFxj_DdaMCw5f_nBseVZs5p2-Vcw_2hBDk8xYiWOc", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/xta0eib5elrdm0u/Amnesia_Memories_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:2YO72FEMKI3ZYVWHOO5Z2O54CJHT2RYJ&dn=Amnesia&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1sixqcVnG4osJeYToOxDOsToBh9eLxvNm/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "523", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "cinders.png",  //imagem 500x500
+            Nome: "Cinders", //nome do jogo
+            brevedesc: "Explore um conto de Cinderela reimaginado em 'Cinders', com escolhas que moldam o destino.", //um pequeno texto (+/- este tamanho)
+            desc: "Cinders é uma visual novel reimaginada da Cinderela, oferecendo escolhas que moldam o destino da protagonista em um conto de intriga e romance.",  // Descrição do jogo
+            Dataupload: "06/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista/7/8/10"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            "Memória RAM: 512 MB de RAM"+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 200 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/8u9XnIxQ#tWWid8ZFB1xz_aqFUAQZCaY-hbhN8Towu4HUGBxGxpM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/44vukdlrgu4fjl1/Cinders_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:2OXGXXWX3XOSCBX2XXNB65GOFXDPSPI4&dn=Cinders.v1.2.5a.GOG.rar&xl=263650915&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1fN4t-P6xnNGezKQrIaYcIvkH7a3qd1xp/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "524", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-sims4.png",  //imagem 500x500
+            Nome: "The Sims 4", //nome do jogo
+            brevedesc: "Curta o poder de criar e controlar pessoas num mundo virtual onde não há regras.", //um pequeno texto (+/- este tamanho)
+            desc: "The Sims 4 é um simulador de vida onde você cria e controla sims, moldando suas personalidades, carreiras, lares e relacionamentos em um mundo dinâmico. Com ferramentas poderosas de construção e personalização, o jogo oferece liberdade para explorar histórias únicas e diversas, desde dramas familiares até conquistas profissionais, refletindo a complexidade da vida real de forma divertida e cativante.",  // Descrição do jogo
+            Dataupload: "06/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 (64 bits)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 3.3 GHz Intel Core i3-3220, AMD Ryzen 3 1200 3.1 GHz ou superior"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce 6600 ou superior, ATI Radeon X1300 ou superior, Intel GMA X4500 ou superior"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 26 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 (64 bits)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel core i5, AMD Ryzen 5 ou superior"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GTX 650, AMD Radeon HD 7750 ou superior"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 51 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/c2Vk2aQb#3cKsvbu7GP56NAoYNmKhbevZlu-kEAvb0Kof5DtHEOQ", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/6bpkc5hwdgri4xn/The_Sims_4_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:WJFIMFDTIBMEXRBW7SLPHGAPT4HAMKWK&dn=The%20Sims%204&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1R7gYEuBUurJHA9mZKev6Cvp0M47jEhg3/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "524", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "hearts-medicine.png",  //imagem 500x500
+            Nome: "Heart's Medicine - Doctor's Oath", //nome do jogo
+            brevedesc: "Torne-se uma doutora em um drama médico com a estagiária Allison Heart!", //um pequeno texto (+/- este tamanho)
+            desc: "Heart's Medicine - Doctor's Oath é um jogo de simulação onde você assume o papel de médica, tratando pacientes e explorando histórias emocionais e desafios médicos.",  // Descrição do jogo
+            Dataupload: "05/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Microsoft Windows 7 or Higher"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.6 GHZ"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Qualquer placa compatível com DirectX 9.0"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Microsoft Windows 7 or Higher"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Qualquer placa compatível com DirectX 9.0"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/o2dn0Yha#UqzIilw0E3ZooxGILmXchTWNGwjdGXl_p18QJF3JDj0", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/wa6y3k240pmiklz/Heart%2527s_Medicine_-_Doctor%2527s_Oath_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:GKN43LWWNTIXBDSAIFJCEMZJPRAVUENI&dn=Hearts_Medicine_Doctors_Oath-RAZOR&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1HzH_KzHlyeWOzQD57bAYKb0KU3MNtWZ9/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "525", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "love-esquire.png",  //imagem 500x500
+            Nome: "Love Esquire - RPG/Dating Sim/Visual Novel", //nome do jogo
+            brevedesc: "Lute e romanceie em Love Esquire, uma mistura de RPG, simulação de encontros e visual novel.", //um pequeno texto (+/- este tamanho)
+            desc: "Em Love Esquire, você assume o papel de um jovem escudeiro em busca de glória e amor. Este RPG mescla combates estratégicos com simulação de encontros e visual novel, onde suas escolhas não só afetam o destino das batalhas, mas também determinam os relacionamentos com diversas personagens cativantes. Com humor, desafios e narrativa envolvente, o jogo oferece uma experiência única que explora tanto o campo de batalha quanto o coração dos pretendentes.",  // Descrição do jogo
+            Dataupload: "06/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP/Vista/7/8/10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core 2 Duo"+ //Processador
+            "<br>"+
+            "Memória RAM: 3 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 260 or equivalent"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Bi0RGC6D#iF73Hq9K3Bq6tvVzsTsaCyv6wK9h3j6-CnQFwezuEKM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/1leo9hq9x03a93f/Love_Esquire_-_RPG__Dating_Sim_Visual_Novel_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:BN6TNSIA32QUDBP3BDLDB7BLEJZPWY5Y&dn=Love.Esquire-TiNYiSO&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1qcPAqbucOjbMQBcvTT69pkF5owvHnY9v/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "526", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "thehunter-call-of-the-wild.png",  //imagem 500x500
+            Nome: "theHunter: Call of the Wild", //nome do jogo
+            brevedesc: "Descubra um jogo de caça atmosférico como nenhum outro neste mundo aberto realista e impressionante", //um pequeno texto (+/- este tamanho)
+            desc: "Descubra um jogo de caça atmosférico como nenhum outro neste mundo aberto realista e impressionante, atualizado regularmente com a colaboração da comunidade. Mergulhe na campanha para um jogador ou compartilhe a melhor experiência de caça com amigos. Aventure-se livremente por ambientes meticulosamente criados e explore uma diversidade de regiões e biomas, cada um com sua própria flora e fauna. Experimente as complexidades do comportamento animal, eventos climáticos dinâmicos, ciclos completos de dia e noite, balística simulada, acústica altamente realista e cheiros levados pelo vento.",  // Descrição do jogo
+            Dataupload: "06/19/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: 64bit OS - Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i3-4170"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GTX 660 / ATI HD7870 - 1GB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: 64bit OS - Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i7 quad-core"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVidia GTX 760 / R9 270x - 4GB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Z2NiQC6a#w3ChI5wWJOniTGoMBzaael8N0Iaj2Jx01QwY_Y1oCtU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/m2l01c8nbzr7nzd/theHunter_Call_of_the_Wild_%2528onlinefix_incluso%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:OG6RFRD5EL2MQ6SYSNU7A74NVQYVXHFH&dn=theHunter%20Call%20of%20the%20Wild&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1L8YAyR_BGu-_onxvuWwIiOXzp5IsxY6n/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "527", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "spore.png",  //imagem 500x500
+            Nome: "SPORE", //nome do jogo
+            brevedesc: "Evolua espécies de micro-organismos a civilizações galácticas", //um pequeno texto (+/- este tamanho)
+            desc: "SPORE (2008) é um jogo de simulação que permite aos jogadores criar e evoluir uma espécie desde um organismo unicelular até uma civilização avançada capaz de explorar a galáxia. Com cinco fases distintas – célula, criatura, tribo, civilização e espaço – cada etapa oferece uma experiência única, combinando elementos de estratégia, criatividade e exploração. Crie criaturas personalizadas, construa sociedades e descubra novos mundos em um universo vasto e dinâmico.",  // Descrição do jogo
+            Dataupload: "06/19/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Microsoft Windows® XP with Service Pack 1 and Vista"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.0 GHz Intel Pentium® 4 or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 512 MB RAM (768 MB RAM for Vista)"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 128 MB Video Card, with support for Pixel Shader 2.0"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: At least 4 GB of hard drive space, with at least 1 GB additional space for creations "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Microsoft Windows® XP with Service Pack 1 and Vista"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.0 GHz Intel Pentium® 4 or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 512 MB RAM (768 MB RAM for Vista)"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 128 MB Video Card, with support for Pixel Shader 2.0"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: At least 4 GB of hard drive space, with at least 1 GB additional space for creations "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/ojljUAhS#X5i-rKmakLCshoDaz89c9MK1XF0x5pHWpvEHM424oWM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/si6q5oglljq67dx/SPORE_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:XG7X6REHWX6YQO4UYCYTA2FC36FYU4ZT&dn=SPORE&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1BytJkXti1c7VWffHbALeDD8VFEEGSpPC/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "528", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "bigfoot.png",  //imagem 500x500
+            Nome: "BIGFOOT", //nome do jogo
+            brevedesc: "Cace ou seja caçado pela lendária criatura em Bigfoot, um jogo de terror cooperativo.", //um pequeno texto (+/- este tamanho)
+            desc: "Bigfoot é um jogo de terror cooperativo onde jogadores assumem o papel de caçadores determinados a capturar a lendária criatura ou podem se tornar o próprio Bigfoot, caçando os caçadores. Explore florestas sombrias, use estratégias e ferramentas variadas, e enfrente desafios aterrorizantes em busca do mítico monstro. Trabalhe em equipe ou jogue sozinho, mas sempre esteja preparado para o inesperado neste tenso e emocionante jogo de sobrevivência.",  // Descrição do jogo
+            Dataupload: "06/19/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7, 8.1, 10, 11 (Only 64bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i3 8130U(2Cores, 2.3GHz) or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GT 730 or equivalent"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10, 11 (Only 64bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7 (64bit) or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 980 or equivalent"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/5vE1ADbD#CpIQ5YpdAuU-pRdDTO00o6b7kZYCI2a2v1nbQFk7xTs", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/6z6x67539h7718q/BIGFOOT_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:LE3MIFBWPX5WKSPNES7NFG723PWB6OEG&dn=BIGFOOT&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1JjXPAsdT3hjuIh1otkKloyeoMWxtdyYS/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "529", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "no-rest-for-the-wicked.png",  //imagem 500x500
+            Nome: "No Rest for the Wicked", //nome do jogo
+            brevedesc: "No Rest for the Wicked: um RPG de Ação preciso e visceral pronto para reinventar o gênero.", //um pequeno texto (+/- este tamanho)
+            desc: "O ano é 841 – o Rei Harol está morto. Enquanto notícias de sua morte ecoam por todo o reino, a coroa passa para seu filho: o arrogante, mas inexperiente, Magnus. Ainda pior, a Pestilência, uma praga maldita que não se via há mil anos retornou. Ela se espalha por todo o território, corrompendo tudo e todos em seu caminho. Madrigal Seline, líder brutalmente ambiciosa da igreja, vê a Pestilência como uma chance para se promover aos olhos de seu deus. Essas forças convergem em Ínsula Sacra, onde grupos rebeldes e o governo provincial disputam por controle entre as ruínas decadentes da remota ilha. Você é um dos Cerims – um grupo sagrado de guerreiros místicos com poderes incríveis e que juraram combater a Pestilência a qualquer custo. Entretanto, essa tarefa se tornará cada vez mais desafiadora conforme você se envolve nos dilemas do povo e nas extensas intrigas políticas dessa terra oprimida. Em sua jornada para livrar essas terras da perversidade e moldar o destino do reino, o caos virá de todos os lados.",  // Descrição do jogo
+            Dataupload: "06/19/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-8400 / AMD Ryzen 5 2600"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 970 / AMD Radeon RX Vega 56"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 35 GB de espaço disponível no SSD"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 / Windows 11"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-11700K / AMD Ryzen 7 5800X"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce RTX 2060 / AMD Radeon RX 5600 XT"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 35 GB de espaço disponível no SSD"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/ErEiwYyJ#V0TeNOk1e8Gc6VSRaJnVDjzU0sKn8OsMYkLt1tKWDKU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/mepfng41zhuhagj/No_Rest_for_the_Wicked_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:S5CUPCFTYRWOZIKKLVCIKLBVVV3WPNWO&dn=No%20Rest%20For%20The%20Wicked&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1iNFg91ug4otX5ak4da8NmcXALa0uoHbN/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "530", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "god-of-war-ragnarok.png",  //imagem 500x500
+            Nome: "God of War Ragnarök", //nome do jogo
+            brevedesc: "Kratos e Atreus embarcam numa viagem mítica em busca de respostas antes da chegada do Ragnarök.", //um pequeno texto (+/- este tamanho)
+            desc: "A sequência do aclamado God of War (2018), God of War Ragnarök retoma a história com o Fimbulwinter em curso. Kratos e Atreus devem viajar pelos Nove Reinos em busca de respostas enquanto as forças de Odin em Asgard se preparam para uma batalha profetizada que causará o fim do mundo. Nessa jornada, eles vão explorar paisagens míticas impressionantes e enfrentar inimigos aterradores: deuses nórdicos e monstros. À medida que a ameaça do Ragnarök se aproxima, Kratos e Atreus terão de escolher entre a segurança da própria família e a dos reinos. ",  // Descrição do jogo
+            Dataupload: "06/19/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Você precisará de um emulador de PS4 para conseguir jogar o jogo"+  //Sistema Operacional
+            "<br>"+
+            "Emuladores recomendados: PCSX4, PS4Emus"+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/x7tWQTwL#1l5zsQSsREjTo9Aaiu6yUvcxbQJiE3pwDZLF-o_n8DM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/ya7vn5w2eveijyu/God_of_War_Ragnarok_Deluxe_Edition_vers%25C3%25A3o_PS4_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:J3NF5JBFJHHGN3FNXR4BRASVFZKNBECJ&dn=God%20of%20War%20Ragnarok&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1ZOwQcDRzgG0BDbR9D4SscVkgICnd4DVy/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "531", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "coffee-talk.png",  //imagem 500x500
+            Nome: "Coffee Talk", //nome do jogo
+            brevedesc: "Sirva café e ouça histórias em Coffee Talk, um jogo de simulação e narrativa.", //um pequeno texto (+/- este tamanho)
+            desc: "Coffee Talk é um jogo de simulação e narrativa onde você administra uma aconchegante cafeteria em uma versão alternativa de Seattle. Prepare bebidas para uma variedade de clientes únicos, cada um com suas próprias histórias e problemas, enquanto ouve suas conversas e oferece conselhos. Com uma atmosfera relaxante, gráficos em pixel art e uma trilha sonora envolvente, Coffee Talk oferece uma experiência introspectiva e reconfortante, celebrando a arte das conversas e conexões humanas.",  // Descrição do jogo
+            Dataupload: "06/19/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 SP1+"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.4 GHz or faster processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 512 MB display memory"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 600 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados."+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Y7lRFToD#x9e_spASWlpnjWj3Nr5VYpHgeXZPNeHZj8GwEd0O9aE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/070vee7xszekp6w/Coffee_Talk_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:BEHTGM437CQJOWARHUO3S56PEK66S7CE&dn=Coffee%20Talk%20v1.48_(56192)%20%5BGOG%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1XGtUZzpUZxBohfRy3PqnAzUD89vLL9Yg/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "532", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "speedrunners.png",  //imagem 500x500
+            Nome: "SpeedRunners", //nome do jogo
+            brevedesc: "Corra, pule, se balance bastante e use armas e poderes desonestos para jogar os adversários para fora da tela!", //um pequeno texto (+/- este tamanho)
+            desc: "Em uma cidade cheia de Super-Heróis, chegando os crimes, começa então uma competição própria. Felizmente existem suficientes foguetes, bombas, espinhos e mentirinhas extras -- para fazer a competição divertida e rápida. Bem-vindo ao SpeedRunners. SpeedRunners é um jogo de plataformas competitivas entre 4 jogadores com ganchos, poderes e ambientes interativos. Correr, saltar, se balançar bastante, mísseis teleguiados e agarrar os inimigos para joga-los para fora da tela.",  // Descrição do jogo
+            Dataupload: "06/19/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP and up"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1Ghz and up"+ //Processador
+            "<br>"+
+            "Memória RAM: 3 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Dedicated video card recommended"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 800 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/9mMnzQTJ#zqT11enTB3QmgyyNwEZM_1iJHyaDkVY0BP7e0yQw76Q", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/6tq5ivp0ismj5d7/SpeedRunners_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:UHEL2Z5VUKQ4EDRM67FNADOUQVRDWAOO&dn=SpeedRunners&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1_zY4RCdX_JdCfz29ZANk79l99AmcYUUA/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "533", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "attack-on-titan2.png",  //imagem 500x500
+            Nome: "Attack on Titan 2 - A.O.T.2", //nome do jogo
+            brevedesc: "Abandona o teu medo. A.O.T. 2 é a emocionante sequela do jogo de ação baseado na série anime de grande sucesso 'Attack on Titan.'", //um pequeno texto (+/- este tamanho)
+            desc: "Vive a história envolvente do anime na companhia de Eren e dos seus companheiros enquanto lutam para salvar a humanidade da ameaça dos mortíferos Titans que devoram carne humana. Experimenta controlar o Omni-directional Mobility Gear para fazeres manobras e voares pelo céu nos combates contra os Titãs e sente todas as emoções e a satisfação das batalhas contra estes adversários gigantescos.",  // Descrição do jogo
+            Dataupload: "06/19/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Win 10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core I5 2400 or over"+ //Processador
+            "<br>"+
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 660 VRAM 1GB or over"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Win 10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core i7 3770 or over"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 960 VRAM 2GB or over"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/snsgmJYY#uGrbd-O__oT0OEfD3T-gCt-68i51t0w3Nmr8SYPoPm8", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/bhwo13jdgfm6z91/Attack_on_Titan_2_-_A.O.T.2_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:ANRTA4UQ6AV4YREI4A2LOKQESU336L6M&dn=Attack%20on%20Titan%202&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1P9oH77c__seegFRcKdCjmRmPgll2S3Yf/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "534", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "project-zomboid.png",  //imagem 500x500
+            Nome: "Project Zomboid", //nome do jogo
+            brevedesc: "Sobreviva ao apocalipse zumbi em Project Zomboid, um jogo de sobrevivência realista.", //um pequeno texto (+/- este tamanho)
+            desc: "Project Zomboid é um jogo de sobrevivência em um mundo pós-apocalíptico infestado de zumbis. Enfrente uma vasta gama de desafios, desde a busca por suprimentos e a construção de abrigos até a gestão da fome, sede e saúde mental. Cada decisão importa: uma única mordida pode ser fatal. Jogue sozinho ou em modo cooperativo, desenvolva habilidades, e explore um mundo aberto detalhado e imersivo. Com uma abordagem realista e uma atmosfera tensa, Project Zomboid oferece uma experiência intensa e envolvente de sobrevivência.",  // Descrição do jogo
+            Dataupload: "06/19/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10, 64 Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel 2.77GHz Quad-core"+ //Processador
+            "<br>"+
+            "Memória RAM: 8Gb Ram"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Dedicated graphics card with 2 GB of RAM minimum, OpenGL 2.1 and GLSL 1.2 support (generally 2012 or newer)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de armazenamento livre"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/8jt1XY6R#nWAduEga626bAY6c4WK0wy5eYSeIfI7qqgXcbU7Hvew", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/x15nyfp7j8c0var/Project_Zomboid_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:LJO4TZSV52OD3CDGVUZ7NF4Z6SW54TDY&dn=Project%20Zomboid&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1Q3lBfgCzkZBZg47FsFh9kyCGk4W1m0v-/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "535", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "darkwood.png",  //imagem 500x500
+            Nome: "Darkwood", //nome do jogo
+            brevedesc: "Durante o dia, vasculhe e explore livremente um mundo rico e em constante mudança.", //um pequeno texto (+/- este tamanho)
+            desc: "Durante o dia, vasculhe e explore livremente um mundo rico e em constante mudança. Então, recolha-se em seu esconderijo e reze pela chegada da luz da manhã.",  // Descrição do jogo
+            Dataupload: "06/19/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo 2.8Ghz or equivalen"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 8800GT / ATI Radeon HD 4850"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i3"+ //Processador
+            "<br>"+
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 660"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/QyN2iKJL#z64mOm6ypphCkLW8WDJWfEvHzZVZevA0KFawh5CiOwo", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/rgu2ebcr22zdle8/Darkwood_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:KNEW6IWGVYMA3Z5PTB52PK3664IIYIBA&dn=Darkwood_1.4.2_(70214)_win_gog&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1BPbZfcSr-1z2x6cHxBqEwX48z10pfijf/view?usp=sharing",  //Link Drive
+        },
 ];
 
 
