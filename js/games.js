@@ -24551,6 +24551,636 @@ let games = [
             magnet:"magnet:?xt=urn:btih:KNEW6IWGVYMA3Z5PTB52PK3664IIYIBA&dn=Darkwood_1.4.2_(70214)_win_gog&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
             drive:"https://drive.google.com/file/d/1BPbZfcSr-1z2x6cHxBqEwX48z10pfijf/view?usp=sharing",  //Link Drive
         },
+
+        {
+            id: "536", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "tom-clancys-ghost-recon-wildlands.png",  //imagem 500x500
+            Nome: "Tom Clancy's Ghost Recon Wildlands", //nome do jogo
+            brevedesc: "Jogo de tiro tático em mundo aberto na Bolívia, enfrentando cartéis de drogas.", //um pequeno texto (+/- este tamanho)
+            desc: "Tom Clancy's Ghost Recon® Wildlands é um jogo de tiro tático em terceira pessoa, desenvolvido pela Ubisoft Paris, onde os jogadores assumem o papel de membros de uma unidade de elite das Forças Especiais dos EUA. Ambientado na vasta paisagem da Bolívia, o objetivo é derrubar o cartel de drogas Santa Blanca em um mundo aberto e dinâmico, jogável tanto em modo solo quanto cooperativo.",  // Descrição do jogo
+            Dataupload: "06/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Processador: Intel Core i5-2400S @ 2.5 GHz or AMD FX-4320 @ 4 GHz or equivalent"+  //Sistema Operacional
+            "<br>"+
+            "Memória RAM: 6 GB de RAM"+ //Processador
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX660 / AMD R9 270X (2GB VRAM with Shader Model 5.0 or better)"+ //Memória ram
+            "<br>"+
+            "Armazenamento: 50 GB de espaço disponível "+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7- 3770@ 3.5 GHz or AMD FX-8350 @ 4 GHz or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX970/GTX 1060 or AMD R9 390/RX480 (4GB VRAM with Shader Model 5.0 or better)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "LINUX", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/l2dkmBpT#gu1kYxwry_Z2v_qaFCbmO3TvKWWpV4gHiEF77zqU_2Q", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/en4ga568zycm40n/Tom_Clancy%2527s_Ghost_Recon_Wildlands_LINUX_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:343JMLJ53CKJSOEWXGVDNDG33CMOPUP6&dn=Tom.Clancys.Ghost.Recon.Wildlands-jc141", //Link Magnet
+            drive:"https://drive.google.com/file/d/1wXp1v5bS71C-hXDfcHnFqcHX8KpDok6Q/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "537", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dishonored.png",  //imagem 500x500
+            Nome: "Dishonored", //nome do jogo
+            brevedesc: "Dishonored é um jogo de ação furtiva em um mundo steampunk onde suas escolhas determinam o destino.", //um pequeno texto (+/- este tamanho)
+            desc: "Dishonored é um jogo de ação furtiva em primeira pessoa desenvolvido pela Arkane Studios e publicado pela Bethesda Softworks. Lançado em 2012, o jogo se passa na cidade fictícia de Dunwall, um lugar sombrio e opressivo com uma estética steampunk e influências vitorianas. Os jogadores assumem o papel de Corvo Attano, o guarda-costas da imperatriz que é incriminado por seu assassinato e busca vingança contra aqueles que conspiraram contra ele. Dotado de habilidades sobrenaturais concedidas por uma entidade conhecida como o Estranho, Corvo pode usar uma combinação de furtividade, combate e magia para eliminar seus inimigos. O design de Dishonored enfatiza a liberdade de escolha, permitindo que os jogadores completem suas missões de múltiplas maneiras, seja através da violência direta ou de abordagens não letais e furtivas. Cada escolha afeta a narrativa e o destino da cidade, resultando em múltiplos finais possíveis. Com uma jogabilidade dinâmica, uma história envolvente e um mundo ricamente detalhado, Dishonored oferece uma experiência imersiva que desafia os jogadores a pensar criativamente e a usar suas habilidades de forma estratégica para alcançar seus objetivos.",  // Descrição do jogo
+            Dataupload: "06/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista / Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 3.0 GHz dual core or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 3 GB system RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 9 compatible with 512 MB video RAM or better (NVIDIA GeForce GTX 460 / ATI Radeon HD 5850)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 9 GB"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows Vista / Windows 7 (enhanced for 64-bit OS)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.4 GHz quad core or better (enhanced for multi-core processors)"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB system RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 9 compatible with 768 MB video RAM or better (NVIDIA GeForce GTX 460 / ATI Radeon HD 5850)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 9 GB"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/A7MC2Lga#XFqxPStMuoQ4lbHF-9XO6s59CxU_pVCJ4LlNMHHvbM8", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/a4wwhvfuprklnrq/Dishonored_Game_of_the_Year_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:HESQ5NZPZPNGOIS4G7PPQZEDGEV2S4MK&dn=Dishonored%20-%20GotY%20Edition%20%5BFitGirl%20Repack%5D&tr=dht%3A%2F%2F39250EB72FCBDA67225C37DEF86483312BA9718A.dht%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1P9qeMpFLBKpzytUBGadVA8iYjc5FdeC4/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "540", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dishonored2.png",  //imagem 500x500
+            Nome: "Dishonored 2", //nome do jogo
+            brevedesc: "Assuma novamente o papel de um assassino sobrenatural em Dishonored 2.", //um pequeno texto (+/- este tamanho)
+            desc: "Dishonored 2 se passa 15 anos depois que o lorde regente foi derrotado e a temível Praga dos Ratos passou a ser história. Um usurpador de outro mundo tomou o trono da Imperadora Emily Kaldwin, deixando o destino das ilhas por um fio. Como Emily ou Corvo, viaje para além das ruas lendárias de Dunwall até Karnaca, a cidade costeira, uma vez deslumbrante, que guarda as chaves para restaurar o poder de Emily. Armado com a Marca do Estranho e novas habilidades poderosas, rastreie seus inimigos e retome o que é seu por direito.",  // Descrição do jogo
+            Dataupload: "06/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8/10 (64-bit versions)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-2400/AMD FX-8320 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GTX 660 2GB/AMD Radeon HD 7970 3GB or better"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 (64-bit versions)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-4770/AMD FX-8350 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GTX 1060 6GB/AMD Radeon RX 480 8GB or better"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/EqtxyCSS#OetssNtxVHtNPc6ix7A87FYC6XkdS0veJ3srBommk30", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/lghz8y02v0mlsem/Dishonored_2_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"https://drive.google.com/file/d/1dFjAqNoBpdOJp71VjZHVKyTlOvihpD49/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "541", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dishonored-death-of-the-outsider.png",  //imagem 500x500
+            Nome: "Dishonored: Death of the Outsider", //nome do jogo
+            brevedesc: "Em 'Dishonored: Death of the Outsider', uma ex-assassina busca eliminar uma entidade sobrenatural.", //um pequeno texto (+/- este tamanho)
+            desc: "Dishonored: Death of the Outsider é um jogo de ação furtiva em primeira pessoa onde Billie Lurk, uma ex-assassina, tenta eliminar o Estranho, uma entidade sobrenatural. Ambientado em um mundo steampunk, o jogo oferece novas habilidades e múltiplas abordagens para cumprir missões, influenciando o desenrolar da história com base nas escolhas dos jogadores.",  // Descrição do jogo
+            Dataupload: "06/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8/10 (64 bit version)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-2400 (4 core)/AMD FX-8320 (8 core)"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVidia GTX 660 2GB/AMD Radeon 7970 3GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 32 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 (64 bit version)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i7-4770 (4 core)/AMD FX-8350 (8 core)"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVidia GTX 1060 6GB/ AMD Radeon RX 480 8GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 32 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/F3sQRLTI#EAXKGcPaLAkZ_8mvW84kJZdt4Ay7v1hqzsZ2a5Lp6kg", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/644os5lqvxcypri/Dishonored_Death_of_the_Outsider_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:JGAAKWRBEIET4H3BWCGMVZDE6Q7LHFXT&dn=Dishonored%20-%20Death%20of%20the%20Outsider%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1UZ_ulRvHMStCPWF3ZOk5yZqwdTznj6DN/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "541", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dishonored-death-of-the-outsider.png",  //imagem 500x500
+            Nome: "Dishonored: Death of the Outsider", //nome do jogo
+            brevedesc: "Em 'Dishonored: Death of the Outsider', uma ex-assassina busca eliminar uma entidade sobrenatural.", //um pequeno texto (+/- este tamanho)
+            desc: "Dishonored: Death of the Outsider é um jogo de ação furtiva em primeira pessoa onde Billie Lurk, uma ex-assassina, tenta eliminar o Estranho, uma entidade sobrenatural. Ambientado em um mundo steampunk, o jogo oferece novas habilidades e múltiplas abordagens para cumprir missões, influenciando o desenrolar da história com base nas escolhas dos jogadores.",  // Descrição do jogo
+            Dataupload: "06/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-2400 (4 core)/AMD FX-8320 (8 core)"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVidia GTX 660 2GB/AMD Radeon 7970 3GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 32 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i7-4770 (4 core)/AMD FX-8350 (8 core)"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVidia GTX 1060 6GB/ AMD Radeon RX 480 8GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 32 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "LINUX", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/E3EVTZrR#zTo85nKtB-OCa07mSX--8ry4yHS9pCESjNfexOwOATY", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/1n1olvb8tbdmx9q/Dishonored_Death_of_the_Outsider_LINUX_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:PTSV6KADIAZO5A7HABV23GEQZR3L5JSO&dn=Dishonored.Death.of.the.Outsider-jc141", //Link Magnet
+            drive:"https://drive.google.com/file/d/1Aygrk3RO8IUF6uk2L8vJ_0HorBPic_Kj/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "542", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "hearts-of-iron-iv.png",  //imagem 500x500
+            Nome: "Hearts of Iron IV", //nome do jogo
+            brevedesc: "A vitória está ao alcance de seus dedos!", //um pequeno texto (+/- este tamanho)
+            desc: "Comande as maiores máquinas de guerra da história em Hearts of Iron IV, o jogo de guerra de grande estratégia que desafia suas habilidades estratégicas e talentos políticos. Assuma a liderança de uma nação e lute na Segunda Guerra Mundial, erguendo uma potência industrial e uma aliança diplomática que assolará seus adversários ideológicos.",  // Descrição do jogo
+            Dataupload: "06/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows® 10 Home 64 Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core™ i5 750 | AMD® FX 4300"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia® GeForce™ GTX 470 (1.28GB) | AMD® HD 5850 (1GB) | Intel Iris Xe G7 (Tiger Lake) | AMD® Radeon™ RX Vega 11"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows® 10 Home 64 Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core™ i5 2500K | AMD® Ryzen 3 2200G"+ //Processador
+            "<br>"+
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia® GeForce™ GTX 570 (1.28GB) | AMD® Radeon™ HD 7970 (3GB) | Intel Iris Xe G7 (Tiger Lake)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/9i0yES7Z#Qvf-cs38ytf7hezWYHV2cZ1xb8mBOFyMTJtOQehBEsc", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/6t0jrte76op66ip/Hearts_of_iron_IV_onlinefix_incluso_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:WAGM3EADV3SUFMRNY75TCIUHRGGJS5MQ&dn=Hearts%20of%20Iron%20IV&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1qjF_zAR9O48BNOxR0BibKiIlp3MMUgdJ/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "543", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "scribblenauts-unlimited.png",  //imagem 500x500
+            Nome: "Scribblenauts Unlimited", //nome do jogo
+            brevedesc: "Um jogo criativo onde você resolve desafios escrevendo palavras mágicas.", //um pequeno texto (+/- este tamanho)
+            desc: "Scribblenauts Unlimited é um jogo de quebra-cabeça e aventura que desafia sua criatividade, permitindo que você resolva diversos desafios escrevendo palavras para criar objetos e personagens. Com gráficos encantadores e uma jogabilidade aberta, você ajuda Maxwell, o protagonista, a coletar Starites para salvar sua irmã. Cada palavra escrita dá vida a uma nova possibilidade, tornando cada sessão única e divertida. Ideal para todas as idades, Scribblenauts Unlimited oferece uma experiência rica em imaginação e exploração.",  // Descrição do jogo
+            Dataupload: "06/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP or higher"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Atholon 64 X2 Dual-Core 4000+ or better / Intel Core 2 Duo Processor 2.0GHz or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: ATI X1800 or better / nVidia 7800 or better / Intel 4100 or better. 256MB Video RAM. Shader 3.0 or better"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB HD space"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/IuVG1LBA#Qisn2D4guTFgvW319vlgnd5JokC5ACqj07PeVdIBzNE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/pfr685lmgj3i8u9/Scribblenauts_Unlimited_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:4BASKRKD4K2BRBVNNNRA4FPT3OGHA4ES&dn=sr-scribblenautsunlimited&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1ZeAtRRn_Kre7o_vEgUlP5yU7YVuHqPP7/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "544", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "hydroneer.png",  //imagem 500x500
+            Nome: "Hydroneer", //nome do jogo
+            brevedesc: "Construa uma base de operações, forge armas, vá pescar, e cave fundo!", //um pequeno texto (+/- este tamanho)
+            desc: "Hydroneer é um jogo sandbox sobre mineração onde você cava a procura de ouro e outros recursos para construir uma base de mineração com máquinas gigantes. Use ferramentas primitivas, máquinas movidas a água e estruturas construídas pelo jogador para cavar e desenvolver sua operação em um sistema de progressão contínuo. ",  // Descrição do jogo
+            Dataupload: "06/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Quad-Core 64-bit Intel or AMD processor, 2.4 GHZ CPU"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 1 GB DirectX 11 dedicated video card"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/o68SFbrb#sR_k7Gm7qN5vKoZB8Fk3Z6DERMEGQQuTNsQXcEkO-9k", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/x3ohevb3qf833nx/Hydroneer_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:PD56VOLVJDKFYWFVVESS4U3EZ7OEPEZW&dn=Hydroneer%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1yHPMjj6O74PXhdVuY4nStIckR2Y-RRpc/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "545", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "metal-gear-solid-v-the-phantom-pain.png",  //imagem 500x500
+            Nome: "METAL GEAR SOLID V: THE PHANTOM PAIN", //nome do jogo
+            brevedesc: "Um jogo de ação furtiva com um mundo aberto imersivo e narrativa profunda.", //um pequeno texto (+/- este tamanho)
+            desc: "Metal Gear Solid V: The Phantom Pain é um aclamado jogo de ação furtiva que oferece uma experiência de mundo aberto imersiva, combinada com uma narrativa profunda e envolvente. Desenvolvido por Hideo Kojima, você assume o papel de Big Boss em missões estratégicas onde a furtividade é essencial. O jogo se destaca por seu vasto arsenal de armas e gadgets, IA avançada dos inimigos e liberdade tática para abordar cada missão. Ambientado em paisagens detalhadas do Afeganistão e da África, The Phantom Pain desafia jogadores a usar inteligência e estratégia para completar objetivos, criando uma experiência de jogo inesquecível.",  // Descrição do jogo
+            Dataupload: "06/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7x64, Windows 8x64, Windows 10x64 (64-bit OS Required)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-4460 (3.40 GHz) or better; Quad-core or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 650 (2GB) or better (DirectX 11 card Required)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 28 GB de espaço disponíve"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7x64, Windows 8x64, Windows 10x64 (64-bit OS Required)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-4790 (3.60GHz) or better; Quad-core or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 760 (DirectX 11 graphic card required)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 28 GB de espaço disponíve"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/VjlRxCQa#7FYgS9lnyTz7hxnGvCAVR6wVQw5IpWbA682eLbBuu1E", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/e7ncfebgjmjve9k/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:T6LVKDA2MM4H666H264VUCWQLI4ZRUMD&dn=Metal%20Gear%20Solid%20V%20The%20Phantom%20Pain%20-%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1sc8BEDbj5ofsDHigPfsRvjnV2UOucFvJ/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "546", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "elden-ring-shadow-of-the-erdtree.png",  //imagem 500x500
+            Nome: "ELDEN RING: Shadow of the Erdtree", //nome do jogo
+            brevedesc: "Nova DLC de ELDEN RING já disponível!", //um pequeno texto (+/- este tamanho)
+            desc: "Elden Ring é um RPG de ação em mundo aberto desenvolvido pela FromSoftware, conhecido por seus jogos desafiadores e narrativas profundas. Ambientado em um vasto e misterioso universo, o jogo combina combate intenso, exploração livre e uma história rica, escrita em colaboração com George R.R. Martin. Os jogadores embarcam em uma jornada épica para descobrir os segredos do Erdtree e enfrentar inimigos formidáveis em ambientes visualmente deslumbrantes. Com uma jogabilidade refinada e um mundo interconectado, Elden Ring: Shadow of the Erdtree oferece uma experiência envolvente que desafia e recompensa a habilidade e a estratégia dos jogadores.",  // Descrição do jogo
+            Dataupload: "06/23/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: INTEL CORE I5-8400 or AMD RYZEN 3 3300X"+ //Processador
+            "<br>"+
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10/11"+  //Sistema Operacional
+            "<br>"+
+            "Processador: INTEL CORE I7-8700K or AMD RYZEN 5 3600X"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GEFORCE GTX 1070 8 GB or AMD RADEON RX VEGA 56 8 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/xudgHKzR#8cOa7oA7X3fU7U3UGW4xyfDEi5LTi6WCmSDlhGPRynA", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/edq6yw3cqlt6w2f/ELDEN_RING_Shadow_of_the_Erdtree_Deluxe_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:JTEOGMPGTF2IE2PWVQNZROACNBHVVSL2&dn=ELDEN%20RING%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1Tr8Z_cC_0yMkqz6a9ZeG43-wjPWVQS8h/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "547", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "rayman-legends.png",  //imagem 500x500
+            Nome: "Rayman Legends", //nome do jogo
+            brevedesc: "Um colorido jogo de plataforma com níveis criativos e multiplayer cooperativo.", //um pequeno texto (+/- este tamanho)
+            desc: "Rayman Legends é um vibrante jogo de plataforma desenvolvido pela Ubisoft, conhecido por seu estilo artístico deslumbrante e níveis criativos. O jogador controla Rayman e seus amigos em uma aventura por diversos mundos mágicos, repletos de desafios únicos e inimigos divertidos. Com jogabilidade fluida, gráficos exuberantes e uma trilha sonora cativante, o jogo oferece uma experiência envolvente tanto para jogadores individuais quanto para grupos, graças ao seu modo cooperativo local. Rayman Legends é aclamado por sua inventividade, proporcionando horas de diversão e descobertas em cada fase meticulosamente desenhada.",  // Descrição do jogo
+            Dataupload: "06/23/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP SP3 or Windows Vista SP2 or Windows 8 (both 32/64bit versions)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Pentium IV @ 3.0 GHz or AMD Athlon64 3000 + @ 1.8 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: nVidia GeForce 6800GT or AMD Radeon X1950 Pro (256MB VRAM with Shader Model 3.0 or higher)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows XP SP3 or Windows Vista SP2 or Windows 8 (both 32/64bit versions)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo E4400 @ 2.0 GHz or AMD Athlon64 X2 3800+@ 2 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: nVidia GeForce 9600GT or higher, AMD Radeon HD3850 or higher (512MB VRAM with Shader Model 4.0)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Fi0EBLDC#3THVdvDyor1VAzuNvBULY_nz7X1vs_yiONqZtk6jz60", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/z51zqxixlcnuleh/Rayman_Legends_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:7HB6ENP3FWOJH5XO6IRO3MUC2ITN7P6C&dn=Rayman%20Legends%20-%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1jPtcp2p5EOTfX1pHJKEvP-mxWyqSIvWE/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "548", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "evil-nun-the-broken-mask.png",  //imagem 500x500
+            Nome: "Evil Nun: The Broken Mask", //nome do jogo
+            brevedesc: "Entre no pesadelo da Evil Nun. Preso em uma escola amaldiçoada, escape da Irmã Madeline.", //um pequeno texto (+/- este tamanho)
+            desc: "Fuja da Irmã Madeline! Uma freira que pune crianças com sua marreta gigante. Você terá que escapar da escola a todo custo, embora pelo caminho você descubra que não é a única criança presa. Não se surpreenda quando a Irmã Madeline te seguir em lugares difíceis de alcançar. Você passou na seleção para participar de um acampamento de verão religioso que parecia ser o lugar ideal para fazer amigos e curtir o verão. Assim que você chegou ao lugar, percebeu que era uma armação. Prenderam você em uma escola dilapidada e protegida por uma freira malvada. Seu objetivo principal é reunir todas as peças da máscara e montá-las. Mas cuidado, para cumprir sua missão, você precisará resolver muitos quebra-cabeças e desvendar mistérios nesta escola horripilante. Qual é a verdadeira história por trás da Evil Nun? Descubra o que está escondido atrás de cada porta desta escola sinistra. Além disso, uma história assustadora que vai te deixar sem fôlego! As pistas estão todas prontas. Faça o seu próprio caminho para sair da escola, mas não se esqueça que há várias coisas para fazer antes de deixar a Eagle Junior High School. Diferentes níveis de dificuldade, minigames e charadas te aguardam. Você se atreve? Um dos títulos de terror mais populares, com quase 100 milhões de downloads, chega ao Steam completamente redesenhado, com novos quebra-cabeças, cenários e gráficos que vão te fazer viver uma aventura de terror como nunca antes. Os criadores de conteúdo estão empolgados com esse jogo de horror.",  // Descrição do jogo
+            Dataupload: "06/23/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 64-bit, Windows 8.1, Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-2100 / AMD® FX-6300"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA® GeForce GTX 750 Ti / ATI Radeon HD 7950"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 64-bit, Windows 8.1, Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-3770 / AMD® FX-8350"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA® GeForce GTX 970 / ATI Radeon R9 series"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/tjsD2D5Z#YDpWgdH-AemWvXE5AI-yg9zkbQQuqwdN-D8DlogMOUg", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/mbk4f2b81v1uc8w/Evil_Nun_The_Broken_Mask_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:SW2KDXFHLBBOCZY6NTN7AI2FW6IXOOL5&dn=Evil%20Nun%20-%20The%20Broken%20Mask%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1xhUErrzmaLApKUnvsmX7pYinye5jMlFm/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "549", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "nun-massacre.png",  //deixa vazio por agora
+            Nome: "Nun Massacre", //nome do jogo
+            brevedesc: "Um jogo de terror de sobrevivência em primeira pessoa em um internato sinistro.", //um pequeno texto (+/- este tamanho)
+            desc: "Nun Massacre é um jogo de terror de sobrevivência em primeira pessoa que desafia os jogadores a escapar de um internato sinistro enquanto são perseguidos por uma aterrorizante freira assassina. Com gráficos retrô inspirados nos jogos de PlayStation 1, o jogo cria uma atmosfera tensa e opressiva, cheia de sustos e mistérios. Os jogadores devem usar sua inteligência para resolver quebra-cabeças e encontrar itens essenciais enquanto evitam encontros mortais. A narrativa perturbadora e o design de som inquietante intensificam a sensação de pavor constante, fazendo de Nun Massacre uma experiência angustiante para os fãs de horror.",  // Descrição do jogo
+            Dataupload: "06/23/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/U7d1nbja#Ab-PPWf2BIfQ_1_u4KiSrqVFZtmxYJDuKXayN5BaWmo", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/86q78egqobgiymx/Nun_Massacre_MOBILE_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"",
+            drive:"https://drive.google.com/file/d/1LxEyWQBDaj4bRscGJN5YZ6BVEY4I5NBT/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+        },
+
+
+        {
+            id: "550", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "punch-club2.png",  //imagem 500x500
+            Nome: "Punch Club 2: Fast Forward", //nome do jogo
+            brevedesc: "Treine, lute e alcance o topo nesta sequência arrasadora do simulador de gerenciamento de lutadores!", //um pequeno texto (+/- este tamanho)
+            desc: "Você passou 20 longos anos vivendo no aperto da garagem da sua mãe autoritária, e seu pai desapareceu misteriosamente antes de você nascer. Pelo menos, você teve bastante tempo para malhar e sonhar com as maravilhas do mundo. Seja como for, é um saco ser você: as pessoas comem lama, a corrupção corre solta e todo mundo quer lutar com você… Enfim, talvez você consiga encontrar seu pai e se tornar o “punho sombrio” dos boatos... de alguma forma você poderia ser o salvador da humanidade, quem revelará os segredos supersecretos da Corporação Boa… ou não. Escolha sua própria aventura ou fique na garagem, se quiser.",  // Descrição do jogo
+            Dataupload: "06/23/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8/10/11 (64-bit OS required)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-7100, AMD Ryzen 5 1600"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GT 1030, AMD Radeon R7 240 or equivalent"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7/8/10/11 (64-bit OS required)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-8400 и AMD Ryzen 5 2600"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 1650 GP, AMD Radeon RX 6500 or equivalent"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/xnd2ADhT#asSdMdU3Qdt_U00zaakU3kmSxHu99IsCx2SPAPP53b4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/v3z2h13bkwy9fk9/Punch_Club_2_-_Fast_Forward_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:SOEVVCB66YC5PQYO7QUCKQX5QLCJI7PB&dn=Punch%20Club%202%20-%20Fast%20Forward%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1hia0G-SQ27U-THZ_jKynEKwC5SPzAnqJ/view?usp=sharing",  //Link Drive
+        },
+
 ];
 
 
