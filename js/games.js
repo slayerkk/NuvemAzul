@@ -25181,6 +25181,315 @@ let games = [
             drive:"https://drive.google.com/file/d/1hia0G-SQ27U-THZ_jKynEKwC5SPzAnqJ/view?usp=sharing",  //Link Drive
         },
 
+        {
+            id: "551", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "JURASSIC-WORLD-EVOLUTION-2.png",  //imagem 500x500
+            Nome: "Jurassic World Evolution 2", //nome do jogo
+            brevedesc: "Assuma o controle com ferramentas de gerenciamento e opções criativas", //um pequeno texto (+/- este tamanho)
+            desc: "Jurassic World Evolution 2 é a tão aguardada continuação de Jurassic World Evolution, um dos grandes sucessos da Frontier. O jogo desenvolve ainda mais a experiência de simulação administrativa revolucionária e imersiva da série com diversas novidades.",  // Descrição do jogo
+            Dataupload: "07/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64bit (min version 1809)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-4590/AMD FX 8370"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1050Ti / AMD Radeon RX 470"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 14 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64bit (min version 1809)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i7-5775C/AMD Ryzen 5 1500X"+ //Processador
+            "<br>"+
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1070 / AMD RX 570"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 14 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/9zadia4zfb5qxlg/Jurassic_World_Evolution_2_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:2DFA3049D7563983218F843584741F0E42B7C5ED&dn=Jurassic+World+Evolution+2+%28v1.3.1%2FDebug+Build+%2B+4+DLCs%2C+MULTi13%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+4.2+GB%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Fretracker.ip.ncnet.ru%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "552", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "The-Walking-Dead-A-New-Frontier.png",  //imagem 500x500
+            Nome: "The Walking Dead: A New Frontier", //nome do jogo
+            brevedesc: "Os vivos podem ser confiáveis nesta nova fronteira?", //um pequeno texto (+/- este tamanho)
+            desc: "Quatro anos depois da sociedade ter sido dilacerada por mortos-vivos, pequenas partes da civilização emergem do caos. Mas a que custo? Os vivos podem ser confiáveis nesta nova fronteira?",  // Descrição do jogo
+            Dataupload: "07/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 64Bit Service Pack 1 or higher"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo 2.4GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 3 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTS 450+ with 1024MB+ VRAM (excluding GT)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não existe requisitos recomendados."+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/nvnsz7twn9mjyrs/The+Walking+Dead-+A+New+Frontier+[By+Nuvem+Azul].torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:F1812A5405F2072E988EE91DB8A6225DB9D68FB2&dn=The+Walking+Dead%3A+A+New+Frontier+-+Complete+Season+%28MULTi9%29+%5BFitGirl+Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fshadowshq.yi.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.piratepublic.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cypherpunks.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "553", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "gow2.png",  //imagem 500x500
+            Nome: "God of War 2", //nome do jogo
+            brevedesc: "God of War II é um jogo de ação e aventura de hack-and-slash", //um pequeno texto (+/- este tamanho)
+            desc: "God of War II é um jogo de ação e aventura de hack-and-slash. É a sequência de God of War: Betrayal, do PlayStation 2. Foi lançado na América do Norte em 13 de março de 2007, na Europa, no dia 27 de abril, e em 3 de maio de 2007 na Austrália.",  // Descrição do jogo
+            Dataupload: "07/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "ISO para emulador de PS2."+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não existe requisitos recomendados."+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/z5vom6y9mdltu1p/God+of+War+2+[By+Nuvem+Azul]+[Emulador].torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:53A4D5C1DEF5D8E5A045DE966F8D2E95D6EB9C1E&dn=PlayStation+2+Emulator+%2B+Bios+%2B+God+of+War+Series&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "554", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "celeste-farewell.png",  //imagem 500x500
+            Nome: "Celeste Farewell", //nome do jogo
+            brevedesc: "Ajude Madeline a enfrentar seus demônios internos", //um pequeno texto (+/- este tamanho)
+            desc: "Ajude Madeline a enfrentar seus demônios internos em sua jornada até o topo da Montanha Celeste, nesse jogo de plataforma super afiado dos criadores de TowerFall. Desbrave centenas de desafios meticulosos, descubra segredos complicados e desvende o mistério da montanha.",  // Descrição do jogo
+            Dataupload: "07/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 or newer"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3 M380"+ //Processador
+            "<br>"+
+            "Memória: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD 4000"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1200 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não existe requisitos recomendados."+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/w6MhzaaD#pF2FKBus-ngf1AdM_qh4fioKltWQkehhvI2gtdyIrl8", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/dgx2z26t99yk1gh", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "554", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "celeste.png",  //imagem 500x500
+            Nome: "Celeste", //nome do jogo
+            brevedesc: "Ajude Madeline a enfrentar seus demônios internos", //um pequeno texto (+/- este tamanho)
+            desc: "Ajude Madeline a enfrentar seus demônios internos em sua jornada até o topo da Montanha Celeste, nesse jogo de plataforma super afiado dos criadores de TowerFall. Desbrave centenas de desafios meticulosos, descubra segredos complicados e desvende o mistério da montanha.",  // Descrição do jogo
+            Dataupload: "07/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 or newer"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3 M380"+ //Processador
+            "<br>"+
+            "Memória: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD 4000"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1200 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não existe requisitos recomendados."+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:024F0E75C910CB9DB09C44D2104984BA50D63CDD&dn=Celeste+v1.2.6.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2800%2Fannounce&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "555", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "bloons.png",  //imagem 500x500
+            Nome: "Bloons TD 6", //nome do jogo
+            brevedesc: "Incrível Jogo de Defesa de Torres", //um pequeno texto (+/- este tamanho)
+            desc: "Monte sua defesa perfeita com uma combinação de torres de macacos poderosas e heróis incríveis, depois estoure até o último Bloon invasor!\n\nMais de uma década de defesa de torres e atualizações gigantes regulares faz do Bloons TD 6 o jogo favorito de milhões de jogadores. Curta horas infinitas de estratégia com Bloons TD 6!",  // Descrição do jogo
+            Dataupload: "07/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 (64bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.5Ghz or better (x86-64)"+ //Processador
+            "<br>"+
+            "Memória: 4096 MB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: OpenGL 2.0 compatible, ATI, Nvidia or Intel HD"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2048 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 (64bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2Ghz or better (x86-64)"+ //Processador
+            "<br>"+
+            "Memória: 8192 MB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: OpenGL 2.0 compatible, ATI, Nvidia or Intel HD"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4096 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/u0lirwvc3swxxms/Bloons+TD+6+[By+Nuvem+Azul].torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:3AA03F1D1AA5C140E59981BAA5C0DC7D5D1BCC1E&dn=Bloons+TD+6+v27.3.4285&tr=udp%3A%2F%2Fopentor.org%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "556", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "bloons.png",  //imagem 500x500
+            Nome: "Bloons TD 6", //nome do jogo
+            brevedesc: "Incrível Jogo de Defesa de Torres", //um pequeno texto (+/- este tamanho)
+            desc: "Monte sua defesa perfeita com uma combinação de torres de macacos poderosas e heróis incríveis, depois estoure até o último Bloon invasor!\n\nMais de uma década de defesa de torres e atualizações gigantes regulares faz do Bloons TD 6 o jogo favorito de milhões de jogadores. Curta horas infinitas de estratégia com Bloons TD 6!",  // Descrição do jogo
+            Dataupload: "07/14/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/40oedftyajaw58l/Bloons+TD+6+[By+Nuvem+Azul]+[Mod].apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
 ];
 
 
