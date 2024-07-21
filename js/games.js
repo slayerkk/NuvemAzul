@@ -2482,7 +2482,7 @@ let games = [
             Nome: "Contraband Police", //nome do jogo
             brevedesc: "Proteja a fronteira de contrabandistas, Impeça a entrada de mercadorias ilícitas.", //um pequeno texto (+/- este tamanho)
             desc: "Assuma as funções de um inspetor da guarda de fronteira no estado comunista dos anos 80. Contrabando, corrupção e falsificação são comuns aqui. Seja vigilante e obtenha a aprovação de seus superiores.",  // Descrição do jogo
-            Dataupload: "12/20/2023", // nao mexes
+            Dataupload: "06/19/2024", // nao mexes
 
             // Minimos
             RequisitosMinimos:
@@ -2514,10 +2514,10 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "https://mega.nz/file/VidFlDDQ#Tn7fDEOB8ziOzVlBaGWCZI6wHiYKuTvK1CGI06dNZmQ", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/7uvzi9wdqk5lucm/Contraband.Police-SKIDROW.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:YIVFJZDGEBIRKE77QBBDJDZJH7E2V5TX&dn=Contraband.Police-SKIDROW&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce",
-            drive:"https://drive.google.com/file/d/18TfxVyFIdgeJn_DGdtWA4N2ZGj9kfuCE/view?usp=drive_link",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/Bj1WRZoZ#wrZ1UhqPIsnDS1w5OM4GPsC_2y0unBbjgJZg-NNct-A", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/d3j2pssjvz3l8yp/Contraband_Police_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:BO377PP44PTNGWYFJLGMH6OHJ5YMMEE7&dn=Contraband.Police.10.4.8.7z&xl=8628949793&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+            drive:"https://drive.google.com/file/d/1H0efA029TJu74K4qD35WHRumz3vPCvtO/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
         {
@@ -8860,7 +8860,7 @@ let games = [
             Nome: "Palworld", //nome do jogo
             brevedesc: "Uma Aventura Entre Monstros e Tiros", //um pequeno texto (+/- este tamanho)
             desc: "Palworld é um jogo de sobrevivência de ação e aventura do desenvolvedor japonês Pocket Pair. O jogo se passa em um mundo aberto povoado por criaturas semelhantes a animais conhecidas como Pals. Os jogadores podem lutar e capturar amigos para usá-los na construção de bases, travessia e combate.",  // Descrição do jogo
-            Dataupload: "02/12/2024", // nao mexes
+            Dataupload: "07/21/2024", // nao mexes
 
             // Minimos
             RequisitosMinimos:
@@ -8892,10 +8892,10 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "https://mega.nz/file/s3dh1TJB#fyxlPYSPDweq9E19rUTYDIHTupk4POny5W4w3uf4JRI", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/9qx40lm8dpph2rr/Palworld_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:LCI5VCYELJSGNKYDZTYDTDNF246GOILQ&dn=Palworld.v0.1.3.0.zip&xl=19132297884&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
-            drive:"",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/93MmRD5J#IBSzbt0IBAxA5_CyQ45h4vbn5mahWDOASQC9q_e15M8", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/ljihgo82u7cykuz/Palworld_%257Eonlinefix_incluso%257E_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:4KKNWBXHOUIJFOKZHPF7D542CEKTZ2OB&dn=Palworld&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+            drive:"https://drive.google.com/file/d/1vd9Pzxs7LSa9tB2ea3geQHq35RuxzCwD/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
 
@@ -15408,7 +15408,7 @@ let games = [
             Nome: "Lethal Company", //nome do jogo
             brevedesc: "Prepare-se para mergulhar em um submundo sombrio, onde a morte é uma mercadoria e a verdade é uma arma letal.", //um pequeno texto (+/- este tamanho)
             desc: "Em Lethal Company, você se encontra imerso em um mundo sombrio e intrigante, onde as linhas entre lealdade e traição estão constantemente borbulhando. Assuma o papel de um agente altamente treinado, recrutado por uma organização secreta conhecida como Lethal Company.",  // Descrição do jogo
-            Dataupload: "12/20/2023", // Colocar data atual
+            Dataupload: "07/20/2024", // Colocar data atual
     
             // Minimos
             RequisitosMinimos:
@@ -15440,10 +15440,10 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
-            mega: "https://mega.nz/file/YiEAkLJI#3VD6YYzVeUR6P7Fwb52iu_RgG4Iamqr-qWi8SSgyTEw", //Link do Mega
-            mediafire: "https://www.mediafire.com/file/umfvqf9b1hspm5x/Lethal_Company.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:ZRYLKMGFFR5GOCHNUAVHIVWRTJSO2TWZ&dn=Lethal.Company.v49.rar&xl=364807450&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
-            drive:"",  //Link Drive
+            mega: "https://mega.nz/file/078jnZ6T#s9tFerw-SNsjTTmgn1i01rPTf-nLOOy0DjkOGe1Gd0Q", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/f2cfpp5r7omby6s/Lethal_Company_%257Eonlinefix_incluso%257E_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:W3M7ZBY5H2RJBRC2HVKMUS3W3ZVEU3IR&dn=Lethal%20Company&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1YwCJlNG_D6t1FUWSegE-CWnaZveb9XeT/view?usp=sharing",  //Link Drive
         },
         
 
@@ -18390,7 +18390,7 @@ let games = [
 
         {
             id: "402", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "supermarketsimulator.png",  //imagem 500x500
+            Imag: "supermarket-simulator.png",  //imagem 500x500
             Nome: "Supermarket Simulator", //nome do jogo
             brevedesc: "Administre seu próprio supermercado.", //um pequeno texto (+/- este tamanho)
             desc: "Administre seu próprio supermercado. Abasteça as prateleiras, defina os preços como quiser, receba pagamentos, contrate funcionários, expanda e projete sua loja. Pedidos e entregas on-line, ladrões de lojas, segurança e mercado local estão por vir.",  // Descrição do jogo
@@ -21955,7 +21955,7 @@ let games = [
 
         {
             id: "480", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "little-kitty-big-city.png",  //imagem 500x500
+            Imag: "little kitty-big-city.png",  //imagem 500x500
             Nome: "Little Kitty, Big City", //nome do jogo
             brevedesc: "Uma soneca pacífica se transforma em uma aventura miauravilhosa!", //um pequeno texto (+/- este tamanho)
             desc: "Você vai preferir achar o caminho de casa ou explorar o que a cidade grande tem a oferecer primeiro? Assim, chegar é casa é a maior prioridade, óbvio. Óbvio. Bom, é uma das suas prioridades. Talvez esteja mais para uma sugestão... Eu sei que está aí em algum lugar da lista de tarefas! Mas... primeiro? Explorar!",  // Descrição do jogo
@@ -23477,7 +23477,7 @@ let games = [
 
         {
             id: "513", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "hellblade2.png",  //imagem 500x500
+            Imag: "senuas-saga-hellblade2.png",  //imagem 500x500
             Nome: "Senua's Saga: Hellblade II", //nome do jogo
             brevedesc: "Senua retorna em uma jornada brutal de sobrevivência através do mito e tormento da Islândia Viking.", //um pequeno texto (+/- este tamanho)
             desc: "A sequência do premiado Hellblade: Senua's Sacrifice, Senua retorna em uma jornada brutal de sobrevivência através do mito e tormento da Islândia Viking. Com a intenção de salvar aqueles que foram vítimas dos horrores da tirania, Senua enfrenta uma batalha de superação das trevas internas e externas.",  // Descrição do jogo
@@ -23607,6 +23607,7 @@ let games = [
             magnet:"magnet:?xt=urn:btih:26WOHT33DESUHMULCBHURKCBE2XMQKWD&dn=Half%20Life%202%20%5BDODI%20Repack%5D&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce", //Link Magnet
             drive:"https://drive.google.com/file/d/12TisY1aWVCeND-tb9BiXw1QlKQ4XxJv-/view?usp=sharing",  //Link Drive
         },
+
 
         {
             id: "516", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
@@ -24552,6 +24553,7 @@ let games = [
             drive:"https://drive.google.com/file/d/1BPbZfcSr-1z2x6cHxBqEwX48z10pfijf/view?usp=sharing",  //Link Drive
         },
 
+
         {
             id: "536", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
             Imag: "tom-clancys-ghost-recon-wildlands.png",  //imagem 500x500
@@ -25181,49 +25183,6 @@ let games = [
             drive:"https://drive.google.com/file/d/1hia0G-SQ27U-THZ_jKynEKwC5SPzAnqJ/view?usp=sharing",  //Link Drive
         },
 
-        {
-            id: "551", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "JURASSIC-WORLD-EVOLUTION-2.png",  //imagem 500x500
-            Nome: "Jurassic World Evolution 2", //nome do jogo
-            brevedesc: "Assuma o controle com ferramentas de gerenciamento e opções criativas", //um pequeno texto (+/- este tamanho)
-            desc: "Jurassic World Evolution 2 é a tão aguardada continuação de Jurassic World Evolution, um dos grandes sucessos da Frontier. O jogo desenvolve ainda mais a experiência de simulação administrativa revolucionária e imersiva da série com diversas novidades.",  // Descrição do jogo
-            Dataupload: "07/14/2024", // Colocar data atual
-    
-            // Minimos
-            RequisitosMinimos:
-            "<br>"+
-            "SO: Windows 10 64bit (min version 1809)"+  //Sistema Operacional
-            "<br>"+
-            "Processador: Intel i5-4590/AMD FX 8370"+ //Processador
-            "<br>"+
-            "Memória RAM: 8 GB de RAM"+ //Memória ram
-            "<br>"+
-            "Placa de vídeo: NVIDIA GeForce GTX 1050Ti / AMD Radeon RX 470"+ //Placa de Vídeo
-            "<br>"+
-            "Armazenamento: 14 GB de espaço disponível"+ //Armazenamento 
-            "<br>",
-
-            // Recomendados
-            RequisitosRecomendados: 
-            "<br>"+
-            "SO: Windows 10 64bit (min version 1809)"+  //Sistema Operacional
-            "<br>"+
-            "Processador: Intel i7-5775C/AMD Ryzen 5 1500X"+ //Processador
-            "<br>"+
-            "Memória RAM: 12 GB de RAM"+ //Memória ram
-            "<br>"+
-            "Placa de vídeo: NVIDIA GeForce GTX 1070 / AMD RX 570"+ //Placa de Vídeo
-            "<br>"+
-            "Armazenamento: 14 GB de espaço disponível"+ //Armazenamento 
-            "<br>",
-            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
-    
-            // LinksDownload
-            mega: "", //Link do Mega
-            mediafire: "https://www.mediafire.com/file/9zadia4zfb5qxlg/Jurassic_World_Evolution_2_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:2DFA3049D7563983218F843584741F0E42B7C5ED&dn=Jurassic+World+Evolution+2+%28v1.3.1%2FDebug+Build+%2B+4+DLCs%2C+MULTi13%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+4.2+GB%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Fretracker.ip.ncnet.ru%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce", //Link Magnet
-            drive:"",  //Link Drive
-        },
 
         {
             id: "552", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
@@ -25488,6 +25447,776 @@ let games = [
             magnet:"", //Link Magnet
             drive:"",  //Link Drive
         },
+
+
+
+
+        {
+            id: "557", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "omsi2.png",  //imagem 500x500
+            Nome: "OMSI 2 Steam Edition", //nome do jogo
+            brevedesc: "Dirija na Alemanha nos anos 1980 e 1990.", //um pequeno texto (+/- este tamanho)
+            desc: "OMSI 2 é um simulador de ônibus altamente detalhado e realista que permite aos jogadores experimentar a operação de ônibus em rotas históricas e modernas. Com um foco intenso na precisão, ele recria fielmente o ambiente urbano, o comportamento do veículo e até as condições climáticas. Os jogadores podem explorar diversas rotas, controlar diferentes modelos de ônibus e enfrentar desafios variados, desde problemas mecânicos até a gestão do tráfego. OMSI 2 oferece uma experiência imersiva para entusiastas de simulação e fãs de transporte público.",  // Descrição do jogo
+            Dataupload: "07/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.6 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce or comparable AMD with minimum 512 MB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: Pelo menos 10 GB livres"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7/8"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Dual core processor with 2.8 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce or comparable AMD with 1024 MB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: Pelo menos 10 GB livres"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/N7k0UIII#uatSN5VOW_zoUXR4y1aouVTrnxTytuPUAhCJngmf4dU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/324vm8fv3xw4mr1/OMSI_2_Steam_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:DENEAWTBEMU3JFEHRPMA5J2H5RANIYOT&dn=OMSI.2.Steam.Edition.v2.3.004.REPACK-KaOs&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/153HUR2FQmhSGWQyrbiUk0RZpqIjxlzaM/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "558", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "portal-knights.png",  //imagem 500x500
+            Nome: "Portal Knights", //nome do jogo
+            brevedesc: "Crie sua própria aventura.Construa seu herói.Torne-se o Portal Knight definitivo!", //um pequeno texto (+/- este tamanho)
+            desc: "Prove que você é um Cavaleiro do Portal subindo o nível do seu personagem, criando armas épicas e eliminando inimigos em tempo real neste RPG de ação cooperativo 3D de sandbox. Explore dezenas de ilhas geradas aleatoriamente! Construa praticamente qualquer coisa! Em um mundo devastado pela Fratura e aterrorizado pelo Rei Vazio, você e seus amigos são a única esperança!",  // Descrição do jogo
+            Dataupload: "07/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: 64bit Versions of Windows 7, Windows 8, Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Phenom(tm) 8450 Triple-Core Processor (3 CPUs), ~2.1GHz or Intel Core 2 Duo E8400 @ 3.0 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA® GeForce GTX 470 (1Gb VRAM) / ATI Radeon TM HD 6870 (1Gb VRAM)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: 64bit Versions of Windows 7, Windows 8, Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-8400, 4.0 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 970, 4 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/g6d1QCYQ#4a3nYpFsESJdJTX3pUqs6OlcuYsSNdrCxbmP2eUskK0", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/bwfj29ev911hjka/Portal_Knights_%257Eonlinefix_inclu%25C3%25ADdo%257E_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:YJGELJSN54N5FK7CIIYSTFIH6IB34SFF&dn=Portal%20Knights&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1u1-EzoJvjpzHVBIdwracwb_p9W89t1z-/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "559", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "f1-2013.png",  //imagem 500x500
+            Nome: "F1 2013", //nome do jogo
+            brevedesc: "Simulador de Fórmula 1 com pilotos, carros e circuitos clássicos de 2013.", //um pequeno texto (+/- este tamanho)
+            desc: "F1 2013 é um simulador de corrida que oferece uma experiência autêntica da Fórmula 1, permitindo aos jogadores reviver a temporada de 2013 com todos os pilotos, equipes e circuitos oficiais. O jogo destaca-se pelo modo 'F1 Classics', que traz carros e circuitos históricos, proporcionando uma nostalgia única. Com gráficos detalhados, física realista e modos de jogo variados, F1 2013 oferece tanto para fãs da série quanto para novos jogadores uma experiência imersiva e desafiadora no mundo das corridas de alta velocidade",  // Descrição do jogo
+            Dataupload: "07/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows Vista, Windows 7 ou Windows 8"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo @ 2.4Ghz ou AMD Athlon X2 5400+ "+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB RAM "+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD HD2600 ou NVIDIA Geforce 8600"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 gb"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows Vista, Windows 7 64 bit ou Windows 8 "+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7/AMD Bulldozer "+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB RAM "+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD HD6000 Series/Nvidia GTX500"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 gb"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/dnswTI4Y#9QzGPhSJ7HMx2K4Hn6qfzYaJiRwXBhdYwDlt960Cx0Y", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/n1ybf8k7zzv9dqp/F1_2013_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:WFUXV6D7CNQD4EX2FB663W4TXQ7HP6E3&dn=F1.2013-RELOADED&tr=http%3A%2F%2Ftracker.nwps.ws%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1_9uqp4pFjxEnz_8kuyv47sN7JxCJyxl7/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "560", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "two-point-campus.png",  //imagem 500x500
+            Nome: "Two Point Campus", //nome do jogo
+            brevedesc: "Simulador de gestão universitária onde você constrói e administra um campus.", //um pequeno texto (+/- este tamanho)
+            desc: "Two Point Campus é um simulador de gestão universitária onde os jogadores têm a oportunidade de construir, personalizar e administrar seu próprio campus. Desenvolvido pelos criadores de Two Point Hospital, o jogo oferece uma experiência rica e envolvente, permitindo que os jogadores projetem instalações educativas, contratem funcionários, definam currículos e cuidem do bem-estar dos alunos. Com gráficos vibrantes, humor característico e uma variedade de desafios, Two Point Campus proporciona uma experiência divertida e estratégica, ideal para fãs de simulação e gestão.",  // Descrição do jogo
+            Dataupload: "07/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Você precisará de um emulador para poder jogar este jogo"+  //Sistema Operacional
+            "<br>"+
+            "*Emulador já incluso*"+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/N2MmWTDI#aawa96seB-60L2Q0n9ok-hRnCo12qXEB_jAt-jOYcBw", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/3vyamwmd293qqmb/Two_Point_Campus_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:O7DQBBNE2TKXFWBEL75JYLMHYGHIA6QV&dn=Two%20Point%20Campus%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.org%3A2710", //Link Magnet
+            drive:"https://drive.google.com/file/d/1VsDZEb_VLRW57tsuLWi-7JZ_4ESWSLRy/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "561", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "state-of-decay-2.png",  //imagem 500x500
+            Nome: "State of Decay 2", //nome do jogo
+            brevedesc: "Você é capaz de sobreviver em mundo tomado por mortos-vivos?", //um pequeno texto (+/- este tamanho)
+            desc: "Os mortos se ergueram e a civilização caiu. Agora, o seu pequeno grupo de sobreviventes precisa explorar um mundo aberto em busca de recursos e construir uma base capaz de resistir às hordas de zumbis nesse jogo híbrido de ação, estratégia e simulação",  // Descrição do jogo
+            Dataupload: "07/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10, 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-2500 @ 2,7 GHz / AMD FX-6300"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 760 2GB / AMD Radeon HD 7870"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10, 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5 4570 @ 3,2 GHz / AMD FX-8350"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1650 4GB / AMD Radeon R9 380"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/pvMy2T4Q#FcgBjKuo--xHk08E9WOok8dHM6RJzbib8q6hSI6XWyc", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/71g6u0f71vrvycp/State_of_Decay_2_Juggernaut_Edition_%257Eonlinefix_incluso%257E_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:UXXJXMEUK56LRKD4ZFPCXWDPL2GUSWOJ&dn=State%20of%20Decay%202%20Juggernaut%20Edition&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1KKMF2bci32jSuhnSJFhR2z1Ip4QV2YZS/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "562", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "slime-rancher.png",  //imagem 500x500
+            Nome: "Slime Rancher", //nome do jogo
+            brevedesc: "Jogo de aventura onde você cria, coleta e explora com slimes adoráveis.", //um pequeno texto (+/- este tamanho)
+            desc: "Slime Rancher é um encantador jogo de aventura e simulação onde os jogadores assumem o papel de Beatrix LeBeau, uma jovem rancheira que se muda para um planeta distante para criar e coletar slimes adoráveis. Explorando um mundo vibrante e colorido, os jogadores podem capturar diversas espécies de slimes, cultivar alimentos, construir e expandir seu rancho, e descobrir os mistérios que o planeta esconde. Com uma combinação única de exploração, estratégia e gestão, Slime Rancher oferece uma experiência divertida e relaxante para jogadores de todas as idades.",  // Descrição do jogo
+            Dataupload: "07/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7+"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.2GHz Dual Core"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 512MB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/82M1QDpT#IFhEBDwsCXD1p1K1i9GGUO_XEeR43cm27RP-WoEg6dw", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/o3wdy81j1wcouah/Slime_Rancher_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:QVYN5EQWXPATM5KLVYEI7XML3VPAUDZF&dn=slime_rancher_windows_gog_(51882)&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1EWzYIzszxoVMxWxMQOrAkVDYWMio88Ca/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "563", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "slime-rancher2.png",  //imagem 500x500
+            Nome: "Slime Rancher 2", //nome do jogo
+            brevedesc: "Sequência de aventura onde você explora novos mundos e cria slimes fofos.", //um pequeno texto (+/- este tamanho)
+            desc: "Slime Rancher 2 é a aguardada sequência do popular jogo de aventura e simulação, onde os jogadores retornam como Beatrix LeBeau para explorar uma nova e vibrante ilha cheia de mistérios e slimes encantadores. Expandindo o mundo original, esta continuação introduz novos tipos de slimes, áreas exuberantes para explorar e recursos inéditos para coletar e administrar. Com gráficos ainda mais deslumbrantes e mecânicas aprimoradas, Slime Rancher 2 oferece uma experiência rica e envolvente, permitindo que os jogadores mergulhem em uma jornada divertida e relaxante enquanto expandem e cuidam de seu rancho de slimes.",  // Descrição do jogo
+            Dataupload: "07/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-2500K / AMD FX-6300 "+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB RAM "+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 960 2GB / AMD Radeon R9 280 3GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-8400 / AMD Ryzen 5 1500X"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce RTX 2070 / AMD RX 5700"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "LINUX", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/w6VSHIaR#pkN0wlwmopYZW2Asu4WGUxbvAzMzrGeS6brNxP2xM0M", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/1k65gwfsoppmer6/Slime_Rancher_2_LINUX_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:EJPMXZHH366CZTJQJ4M2QFD53DVQM75G&dn=Slime.Rancher.2-jc141", //Link Magnet
+            drive:"https://drive.google.com/file/d/1vNUPkFNvWel2koryvz9lnupKljYaYbdu/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "564", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-legend-of-zelda-breath-of-the-wild.png",  //imagem 500x500
+            Nome: "The Legend of Zelda: Breath of the Wild", //nome do jogo
+            brevedesc: "Aventura épica em mundo aberto onde Link explora, combate e descobre Hyrule.", //um pequeno texto (+/- este tamanho)
+            desc: "The Legend of Zelda: Breath of the Wild é uma aventura épica em mundo aberto, onde os jogadores assumem o papel de Link em sua missão para salvar o reino de Hyrule da destruição. O jogo oferece um vasto e detalhado mundo para explorar, repleto de segredos, inimigos desafiadores e quebra-cabeças intrigantes. Com mecânicas inovadoras, como a durabilidade das armas, a física realista e a liberdade para abordar os desafios de diversas maneiras, Breath of the Wild redefiniu o gênero de ação e aventura, proporcionando uma experiência imersiva e inesquecível para jogadores de todas as idades.",  // Descrição do jogo
+            Dataupload: "07/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Você precisará de um emulador de Nintendo Switch para jogar este jogo"+  //Sistema Operacional
+            "<br>"+
+            "*Emulador já incluso*"+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/hi02TLZI#Wfxe8qoIHXt_FPLGsIWL-wQcezxBsmmNP6QFq3ZPVyY", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/ax30es126l1aed8/The_Legend_of_Zelda_Breath_of_the_Wild_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:ZFQRN4A4R2Y7OBXLZUALH4AS7WKPQCQX&dn=The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20(Portable)&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1G2taHObn4FI5H91Gc7AYkqvvnniiJgil/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "565", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "anger-foot.png",  //imagem 500x500
+            Nome: "Anger Foot", //nome do jogo
+            brevedesc: "Jogo de ação frenética onde você chuta e dispara contra inimigos variados.", //um pequeno texto (+/- este tamanho)
+            desc: "Anger Foot é um jogo de ação frenética e intensa que coloca os jogadores no controle de um protagonista habilidoso que usa chutes poderosos e armas variadas para enfrentar hordas de inimigos em cenários vibrantes e caóticos. Com uma perspectiva em primeira pessoa e um ritmo acelerado, o jogo desafia os reflexos e a precisão dos jogadores enquanto eles navegam por níveis repletos de perigos e destruição. A combinação de combate corpo a corpo e tiroteios, somada a uma trilha sonora pulsante e gráficos estilizados, faz de Anger Foot uma experiência eletrizante e altamente viciante para fãs de ação e adrenalina.",  // Descrição do jogo
+            Dataupload: "07/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 x64 Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-4670K / AMD FX-4350"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 660 / Radeon HD 7850 / HD Graphics 630"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 11 x64 Bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-6950X / AMD Ryzen 7 2700X"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 1080 / Radeon RX 5700"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/1z9R0CoQ#yw_fHKHxRcHmv94s4wxISfMEY65rRnBUIZCmQONYw7c", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/isjz0hp5x3oairz/Anger_Foot_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:E4FOONIDOCS2CCC4GPW6VLLCKWT7RWFS&dn=Anger%20Foot%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/15Mo-gJtkL__ayamVFE36N7pUCuKfaAOz/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "566", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "gris.png",  //imagem 500x500
+            Nome: "GRIS", //nome do jogo
+            brevedesc: "Jogo de plataforma artístico onde uma jovem explora um mundo emocional.", //um pequeno texto (+/- este tamanho)
+            desc: "GRIS é um jogo de plataforma e aventura visualmente deslumbrante que segue a jornada de uma jovem chamada Gris enquanto ela explora um mundo etéreo e emocional. À medida que avança, Gris ganha novas habilidades que a ajudam a navegar por ambientes lindamente desenhados e resolver quebra-cabeças intricados. Com uma trilha sonora envolvente e uma narrativa sutil e tocante, o jogo aborda temas de perda, esperança e recuperação. GRIS oferece uma experiência introspectiva e imersiva, destacando-se como uma obra de arte interativa que cativa tanto pela sua estética quanto pela sua profundidade emocional.",  // Descrição do jogo
+            Dataupload: "07/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 or later"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core2 Duo E6750 (2 * 2660) or equivalent / AMD Athlon 64 X2 Dual Core 5000+ (2 * 2600) or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Geforce GT 430 (1024 MB) / Radeon HD 5570 (1024 MB)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/x2k3HIIR#N3-lcdx04o5VbWut_aWu0o9dTHdwtE41ZmykxHJnkXQ", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/7vb0mrs5dhmxdxp/GRIS_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:K3MJIXAW577YBBNPOOXW7HXHZGOV3LRT&dn=GRIS%20-%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/17ymPWAPra3qtGp7c85UzMzjc-OEEtIPF/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "567", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "little-nightmares1.png",  //imagem 500x500
+            Nome: "Little Nightmares", //nome do jogo
+            brevedesc: "Aventura sombria onde Six escapa de um navio cheio de criaturas grotescas.", //um pequeno texto (+/- este tamanho)
+            desc: "Little Nightmares é um jogo de aventura e terror atmosférico que segue a jornada de Six, uma pequena garota vestida com um impermeável amarelo, enquanto tenta escapar de The Maw, um navio habitado por criaturas grotescas e assustadoras. O jogo desafia os jogadores com quebra-cabeças intricados e momentos de puro terror, utilizando um estilo visual sombrio e uma narrativa sutil para criar uma experiência envolvente e perturbadora. A combinação de elementos de plataforma, stealth e horror psicológico faz de Little Nightmares uma aventura inesquecível e inquietante.",  // Descrição do jogo
+            Dataupload: "07/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7, 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel CPU Core i3"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTX 460"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7, 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel CPU Core i7"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GPU GeForce GTX 660"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/029zHQgT#ypcxEjCntdOZ-AjAQYcv4S-2NBd2_5kiUcztFR_lGuU", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/bhbp9iq6tgcvkxu/Little_Nightmares_Complete_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:I42JTJ7EBB6NYZ46NB7TZE2F5XEIEAFY&dn=Little%20Nightmares%20-%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1Nj5kBcIEvPXyaUl0nHeIzmNytWjh7281/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "568", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "little-nightmares2.png",  //imagem 500x500
+            Nome: "Little Nightmares II", //nome do jogo
+            brevedesc: "Continuação sombria onde Mono e Six enfrentam novos horrores em uma cidade distorcida.", //um pequeno texto (+/- este tamanho)
+            desc: "Little Nightmares 2 é a sequência do aclamado jogo de terror e aventura, onde os jogadores controlam Mono, um jovem garoto preso em um mundo distorcido e sombrio. Acompanhado por Six, a protagonista do primeiro jogo, Mono deve enfrentar novos horrores e resolver quebra-cabeças complexos enquanto navega por ambientes perturbadores e encontra inimigos aterrorizantes. Com uma atmosfera ainda mais opressiva e uma narrativa envolvente que explora temas de medo e sobrevivência, Little Nightmares 2 oferece uma experiência intensa e inesquecível, ampliando o universo sombrio e intrigante estabelecido no primeiro jogo.",  // Descrição do jogo
+            Dataupload: "07/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-2300 | AMD FX-4350"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 570, 1 GB | AMD Radeon HD 7850, 2 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: Pelo menos 10 GB"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-3770 | AMD FX-8350"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 760, 2 GB | AMD Radeon HD 7870, 2 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: Pelo menos 10 GB"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/xj9AkISZ#yLcGe7t_bwvjRyphSxkGqEIIvu1XFVyNqKg7g27wDCs", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/4pht9m5a2aoaeso/Little_Nightmares_II_Digital_Deluxe_Enhanced_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:EAKXND2WNICU3KTIFYGVEZ3WKVSRHTUW&dn=Little%20Nightmares%20II%20-%20EE%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1X4HYafbLIsV0g5YuBPS3IOhDQP6RSDBo/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "569", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "world-war-z.png",  //imagem 500x500
+            Nome: "World War Z", //nome do jogo
+            brevedesc: "Jogo cooperativo de ação onde você combate hordas de zumbis em várias cidades.", //um pequeno texto (+/- este tamanho)
+            desc: "World War Z é um jogo cooperativo de ação e tiro em terceira pessoa que leva os jogadores a combater hordas massivas de zumbis em diversas cidades ao redor do mundo. Baseado no universo do popular filme e livro, Aftermath expande a experiência original com novos episódios, personagens, e melhorias na jogabilidade. Os jogadores podem se unir em equipes de até quatro pessoas para enfrentar ondas de inimigos mortos-vivos, utilizando uma variedade de armas e estratégias. Com gráficos melhorados, novas mecânicas de combate corpo a corpo e a perspectiva opcional em primeira pessoa, World War Z: Aftermath oferece uma experiência intensa e frenética, perfeita para fãs de ação e sobrevivência cooperativa.",  // Descrição do jogo
+            Dataupload: "07/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD A10-5700 / Intel Core i3-3220"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD R7-240 / GForce 650Ti / Intel 630"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Ryzen 5 2400G / Intel core i7-3970"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD Radeon R9 280 / Nvidia GeForce GTX 960"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/hj1jnAzD#OiMpmq4_JFElpdNW55Id_lpRYK3VV7wuzMb-UphrwVE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/wfec4823ewksgxe/World_War_Z_Aftermath_-_Deluxe_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:66CEPBP2ENF7Y5B7SJ75Q43Y4REYNDUJ&dn=World%20War%20Z%20Aftermath%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1CCps4zANHOUzzzN84VJhiNgrdfJhkbcU/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "570", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "a-little-to-the-left.png",  //imagem 500x500
+            Nome: "A Little to the Left", //nome do jogo
+            brevedesc: "Jogo de quebra-cabeças relaxante onde você organiza objetos do cotidiano.", //um pequeno texto (+/- este tamanho)
+            desc: "A Little to the Left é um encantador jogo de quebra-cabeças que desafia os jogadores a organizar e arrumar objetos do cotidiano de maneiras precisas e visualmente satisfatórias. Cada nível apresenta um cenário diferente, cheio de itens desordenados que devem ser colocados no lugar correto, proporcionando uma sensação de ordem e tranquilidade. Com uma estética acolhedora, trilha sonora relaxante e mecânicas intuitivas, o jogo oferece uma experiência calmante e envolvente. Ideal para aqueles que gostam de desafios leves e criativos, A Little to the Left é uma celebração do prazer simples de organizar e criar harmonia no caos.",  // Descrição do jogo
+            Dataupload: "07/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 (SP1+) and Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.8 GHz or faster processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Direct X 11.0 compatible video card"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1250 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 (SP1+) and Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.8 GHz or faster processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 3 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Direct X 11.0 compatible video card"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1250 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/sjdQTLyJ#63r8vSba9y8EwfRsuJBVTqWFyBPOpaNVxnHTRx0h4ek", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/k9xchd6qw55eceg/A_Little_to_the_Left_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:5SWBNREYK3ORDN6SSFFFFP5VTJKBLDTZ&dn=A%20Little%20to%20the%20Left%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1BPDGN0ZJLP8v3VcOW4h_6g2R7AN91wug/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "571", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "titanfall2.png",  //imagem 500x500
+            Nome: "Titanfall 2", //nome do jogo
+            brevedesc: "Jogo de tiro futurista com combates intensos entre pilotos e titãs robóticos.", //um pequeno texto (+/- este tamanho)
+            desc: "Titanfall 2 é um jogo de tiro em primeira pessoa que combina combates rápidos e ágeis de pilotos com a brutalidade dos titãs, enormes robôs de combate. Ambientado em um futuro distante, o jogo oferece uma campanha single-player envolvente que narra a jornada de um piloto inexperiente e seu titã, explorando temas de camaradagem e heroísmo. O modo multiplayer é igualmente impressionante, com uma variedade de modos de jogo, mapas detalhados e personalização profunda tanto para pilotos quanto para titãs. Com gráficos impressionantes, jogabilidade fluida e mecânicas inovadoras, Titanfall 2 proporciona uma experiência de ação intensa e emocionante que cativa tanto os fãs de jogos de tiro quanto novos jogadores.",  // Descrição do jogo
+            Dataupload: "07/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Win 7/8/8.1/10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-6300t or equivalent [4 or more hardware threads]"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA Geforce GTX 660 2GB or AMD Radeon HD 7850 2GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 45 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Win 7/8/8.1/10 64bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-6600 or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA Geforce GTX 1060 6GB or AMD Radeon RX 480 8GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 45 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/5nkRTY5A#3TxgL5Ov35XBjIEIir2Rhk7N1MSpdN9U8hFEHwB0BX4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/ghlz2yp860gstz8/Titanfall_2_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:S7RSYES2IS3YM2EZ7XWRN5LJ47RFUGUF&dn=Titanfall%202%20-%20%5BDODI%20Repack%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1YimJ1hv0aCOBPlailm_2OqnBgmpAxjnn/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "572", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "x-plane-11.png",  //imagem 500x500
+            Nome: "X-Plane 11", //nome do jogo
+            brevedesc: "Simulador de voo realista com aeronaves detalhadas e cenários globais.", //um pequeno texto (+/- este tamanho)
+            desc: "X-Plane 11 é um simulador de voo avançado que oferece uma experiência extremamente realista para entusiastas da aviação e pilotos virtuais. Com uma física de voo precisa e modelos de aeronaves detalhados, o jogo permite aos jogadores voar em uma variedade de aeronaves, desde pequenos aviões monomotores até jatos comerciais e até mesmo aeronaves militares. O simulador inclui um vasto cenário global com detalhes impressionantes, proporcionando ambientes realistas para explorar e voar. Além disso, X-Plane 11 oferece suporte a mods e possui uma comunidade ativa de desenvolvedores e entusiastas que criam conteúdo adicional, expandindo ainda mais as possibilidades do jogo.",  // Descrição do jogo
+            Dataupload: "07/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7, 8.1, or 10, 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3, i5, or i7 CPU with 2 or more cores, or AMD equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 11-capable video card from NVIDIA or AMD w/512 MB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7, 8.1, or 10, 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5 6600K at 3.5 ghz or faster"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 12-capable video card from NVIDIA or AMD w/4 GB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 65 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/UqFiQQSQ#CNO7PTaBBSXsnpSmw3zemzKuETcdmbkkZbOICXGp4kM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/szc969wllb8zvjh/X-Plane_11_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:ZFVYFXDBDQAWFKKSCDHEWVF2ELW657U7&dn=X-Plane%2011%20Client%20%2B%206%20DLC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1ivwLjxP6kRF3ie5jMHn9q7WkpFskiXOS/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "573", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "jurassic-world-evolution2.png",  //imagem 500x500
+            Nome: "Jurassic World Evolution 2", //nome do jogo
+            brevedesc: "Simulador de parque temático onde você constrói e gerencia dinossauros.", //um pequeno texto (+/- este tamanho)
+            desc: "Jurassic World Evolution 2 é um simulador de parque temático que permite aos jogadores construir e gerenciar seu próprio parque dos dinossauros. Seguindo o sucesso do primeiro jogo, esta sequência expande a experiência com novas dinossauros, cenários variados e uma campanha mais rica, inspirada no universo de Jurassic World. Os jogadores devem cuidar dos dinossauros, garantir a segurança dos visitantes e enfrentar desafios como desastres naturais e questões de segurança. Com gráficos impressionantes, uma gestão detalhada e uma jogabilidade envolvente, Jurassic World Evolution 2 oferece uma experiência imersiva para fãs de dinossauros e simuladores.",  // Descrição do jogo
+            Dataupload: "07/21/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64bit (min version 1809)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-4590/AMD FX 8370"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: (4GB VRAM) NVIDIA GeForce GTX 1050Ti (Legacy GPU: GeForce GTX 960) / AMD Radeon RX 470"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 14 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64bit (min version 1809)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i7-5775C/AMD Ryzen 5 1500X"+ //Processador
+            "<br>"+
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: (6GB VRAM) NVIDIA GeForce GTX 1070 / AMD RX 570 (8GB)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 14 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/gjcnTbjb#fh4G2vNOG1qtH7LgvO5zsCDCM7TaZ2PTFsXunoGJ9iQ", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/ufjghyov37igq0c/Jurassic_World_Evolution_2_-_Premium_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:IF3WXSYJTA3UAOOHGOBW3CFFYMFMCPLK&dn=Jurassic%20World%20Evolution%202%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1nzyQ75hsh2_JpBbHycFmnxsMbcdn_3hQ/view?usp=sharing",  //Link Drive
+        },
+
+
+        
 
 
 ];
