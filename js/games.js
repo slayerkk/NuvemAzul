@@ -7869,46 +7869,46 @@ let games = [
 
         {
             id: "176", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "papers-please.png",  //deixa vazio por agora
-            Nome: "Papers, Please", //nome do jogo
-            brevedesc: "O premiado e aclamado jogo de inspeção imigratória.", //um pequeno texto (+/- este tamanho)
-            desc: "Um suspense distópico de control de documentos, o premiado e aclamado jogo de inspeção imigratória e em um país comunista Arstotzka terminou uma guerra de seis anos com o vizinho kolechia e reclamou sua metade da cidade de fronteira",  // Descrição do jogo
-            Dataupload: "12/20/2023", // nao mexes
+            Imag: "sausage-man.png",  //deixa vazio por agora
+            Nome: "Sausage Man", //nome do jogo
+            brevedesc: "Battle royale divertido com personagens salsicha e armas bizarras.", //um pequeno texto (+/- este tamanho)
+            desc: "Sausage Man é um jogo de battle royale que mistura ação frenética com uma estética cômica, apresentando personagens no formato de salsichas e uma variedade de armas excêntricas. Em um mundo colorido e cheio de humor, os jogadores competem em batalhas intensas enquanto exploram mapas diversificados e enfrentam desafios únicos. Com sua jogabilidade dinâmica e visual engraçado, Sausage Man oferece uma experiência leve e divertida dentro do gênero battle royale.",  // Descrição do jogo
+            Dataupload: "07/31/2023", // nao mexes
 
             // Minimos
             RequisitosMinimos:
             "<br>"+
-            "iOs 10.0 ou melhor, Android 4.4 ou melhor "+  //Sistema Operacional
+            " "+  //Sistema Operacional
             "<br>"+
-            "A8 ou melhor, Snapdragon 430 ou melhor "+ //Processador
+            " "+ //Processador
             "<br>"+
-            "1 Gb "+ //Memória ram
+            " "+ //Memória ram
             "<br>"+
             " "+ //Placa de Vídeo
             "<br>"+
-            "500 Mb "+ //Armazenamento 
+            " "+ //Armazenamento 
             "<br>",
 
             // Recomendados
             RequisitosRecomendados: 
             "<br>"+
-            "iOs 12.0 ou melhor, Android 8.0 ou melhor "+  //Sistema Operacional
+            " "+  //Sistema Operacional
             "<br>"+
-            "A10 ou melhor, Snapdragon 660 ou melhor "+ //Processador
+            " "+ //Processador
             "<br>"+
-            "2 Gb "+ //Memória ram
+            " "+ //Memória ram
             "<br>"+
             " "+ //Placa de Vídeo
             "<br>"+
-            "1 Gb "+ //Armazenamento 
+            " "+ //Armazenamento 
             "<br>",
             plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/hehaizvxitn5o6g/Papers+Please+[By+Nuvem+Azul].apk/file", //Link MediaFire
+            mega: "https://mega.nz/file/NqlEVZxB#41jkrmk_6U-0c4wRWbN1BYrWE6FifFvI3jCwYRRK194", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/1h3p6ewty28c7tk/Sausage_Man_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
             magnet:"",
-            drive:"",  //Link Drive (podes deixar estes 3 eu faço)
+            drive:"https://drive.google.com/file/d/1Gnl0kByJODOG4Nu6DPWTLEuCb1e1h50-/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
 
@@ -7963,46 +7963,46 @@ let games = [
 
         {
             id: "178", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "geometry-dash.png",  //deixa vazio por agora
-            Nome: "Geometry Dash", //nome do jogo
-            brevedesc: "Salte e voe pelo perigo neste jogo de plataforma de ação baseado em ritmo!", //um pequeno texto (+/- este tamanho)
-            desc: "Prepare-se para um desafio quase impossível no mundo do Geometry Dash. Empurre suas habilidades ao limite enquanto pula, voa e vira seu caminho através de passagens perigosas e obstáculos pontiagudos.",  // Descrição do jogo
-            Dataupload: "12/20/2023", // nao mexes
-
+            Imag: "jet-set-radio.png",  //deixa vazio por agora
+            Nome: "Jet Set Radio", //nome do jogo
+            brevedesc: "Ação de skate e graffiti em um futuro vibrante e urbano.", //um pequeno texto (+/- este tamanho)
+            desc: "Jet Set Radio é um jogo de ação e esportes que mistura skate e graffiti em um mundo futurista vibrante e estilizado. Ambientado em uma Tóquio alternativa, você assume o controle de um skatista rebelde que usa suas habilidades para criar arte de rua e desafiar gangues rivais, enquanto enfrenta a opressiva corporação Rokkaku Group. Com um estilo visual único e uma trilha sonora cativante, o jogo oferece uma experiência imersiva de liberdade e expressão urbana.",  // Descrição do jogo
+            Dataupload: "07/31/2024", // nao mexes
+    
             // Minimos
             RequisitosMinimos:
             "<br>"+
-            "iOS 10.0 ou melhor, Android 5.0 ou melhor "+  //Sistema Operacional
+            "SO: Windows XP SP2 or newer"+  //Sistema Operacional
             "<br>"+
-            "A8 ou melhor, Snapdragon 430 ou melhor "+ //Processador
+            "Processador: Pentium 4 or Athlon CPU > 1Ghz or newer"+ //Processador
             "<br>"+
-            "1 Gb "+ //Memória ram
+            "Memória RAM: 1 GB RAM"+ //Memória ram
             "<br>"+
-            " "+ //Placa de Vídeo
+            "Placa de vídeo: 256Mb video RAM or more (256Mb video RAM or more)"+ //Placa de Vídeo
             "<br>"+
-            "500 Mb "+ //Armazenamento 
+            "Armazenamento: 1.2 GB livres"+ //Armazenamento 
             "<br>",
 
             // Recomendados
             RequisitosRecomendados: 
             "<br>"+
-            "iOs 12.0 ou superior, Android 8.0 ou melhor"+  //Sistema Operacional
+            "Nâo possui requisitos recomendados "+  //Sistema Operacional
             "<br>"+
-            "A10 ou melhor, Snapdragon 660 ou melhor "+ //Processador
+            ""+ //Processador
             "<br>"+
-            "2 Gb "+ //Memória ram
+            ""+ //Memória ram
             "<br>"+
             " "+ //Placa de Vídeo
             "<br>"+
-            "1 Gb "+ //Armazenamento 
+            ""+ //Armazenamento 
             "<br>",
-            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/1dpz1ecofrjhn03/Geometry_Dash_%5BBy_Nuvem_Azul%5D.apk/file", //Link MediaFire
-            magnet:"",
-            drive:"",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/4ytwyATY#97XEg_9gkDFKlXPYEBt3P955CDskp-gHgUfOPKC5U74", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/8fe9oiiiyw423fl/Jet_Set_Radio_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:BPXFDC7AZV7O6D4UJD54VKUO6AVNQNMC&dn=sr-jetsetradio&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+            drive:"https://drive.google.com/file/d/1_BKBhSBomklnlXcIit5wYBq3jlf3bO16/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
 
@@ -22938,46 +22938,46 @@ let games = [
 
         {
             id: "502", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "omori.png",  //deixa vazio por agora
-            Nome: "OMORI", //nome do jogo
-            brevedesc: "RPG psicológico com exploração onírica, amigos excêntricos e segredos obscuros.", //um pequeno texto (+/- este tamanho)
-            desc: "OMORI é um RPG de exploração onírica com elementos de terror psicológico. Explore um mundo vibrante, enfrente seus medos e desvende segredos obscuros ao lado de amigos excêntricos. Suas escolhas moldarão o destino e a narrativa neste mundo intrigante.",  // Descrição do jogo
-            Dataupload: "05/21/2024", // nao mexes
+            Imag: "superliminal.png",  //deixa vazio por agora
+            Nome: "Superliminal", //nome do jogo
+            brevedesc: "Desafios de perspectiva e quebra-cabeças em um mundo surreal.", //um pequeno texto (+/- este tamanho)
+            desc: "Superliminal é um jogo de quebra-cabeças em primeira pessoa que explora a manipulação da percepção e da perspectiva. Nele, você navega por um mundo surreal onde a forma como você vê os objetos altera a realidade ao seu redor. Com desafios inovadores que brincam com a escala e a lógica, o jogo oferece uma experiência única e intrigante, testando a sua capacidade de pensar fora da caixa e adaptar sua visão para resolver enigmas complexos.",  // Descrição do jogo
+            Dataupload: "07/31/2024", // nao mexes
     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            ""+  //Sistema Operativo
+            "SO: Windows 7"+  //Sistema Operacional
             "<br>"+
-            ""+ //Processador
+            "Processador: Processador 2.0 GHz"+ //Processador
             "<br>"+
-            ""+ //memoria ram
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
             "<br>"+
-            ""+ //Placa de video
+            "Placa de vídeo: NVidia GTX 750"+ //Placa de Vídeo
             "<br>"+
-            ""+ //armazenamento 
+            "Armazenamento: 12 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            ""+  //Sistema Operativo
+            "SO: Windows 10"+  //Sistema Operacional
             "<br>"+
-            ""+ //Processador
+            "Processador: Processador 2.4GHz"+ //Processador
             "<br>"+
-            ""+ //memoria ram
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            ""+ //Placa de video
+            "Placa de vídeo: Nvidia GTX 1070"+ //Placa de Vídeo
             "<br>"+
-            ""+ //armazenamento 
+            "Armazenamento: 12 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
-            mega: "https://mega.nz/file/or8DCBZZ#qz226yrzf2d6a0xCC66UMRVFBP71Jr5iy83k5Y3NEzc", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/mlwoove6lsncu30/OMORI_Mobile_%255BBy_Nuvem_Azul%255D.xapk/file", //Link MediaFire
-            magnet:"",
-            drive:"https://drive.google.com/file/d/1VzIhJcjLkkNlJWMoe5RQWkM33erGkyTK/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/B2dERK6D#HVSlQFa1PzmhBfs0x2ItGpv3m_3vJLNDlycYtqOp3x0", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/atn1rqh626dl5nj/Superliminal_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:LDUZX4ZASNDI7M4AMM3DLTVB23LTFZTX&dn=Superliminal%20%5BFitGirl%20Repack%5D&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce",
+            drive:"https://drive.google.com/file/d/1VhJNKOqaRXRCqi46pW_lPw_iD_ji_lat/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
 
@@ -26213,6 +26213,186 @@ let games = [
             mediafire: "https://www.mediafire.com/file/ufjghyov37igq0c/Jurassic_World_Evolution_2_-_Premium_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
             magnet:"magnet:?xt=urn:btih:IF3WXSYJTA3UAOOHGOBW3CFFYMFMCPLK&dn=Jurassic%20World%20Evolution%202%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce", //Link Magnet
             drive:"https://drive.google.com/file/d/1nzyQ75hsh2_JpBbHycFmnxsMbcdn_3hQ/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "574", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "south-park-collection.png",  //imagem 500x500
+            Nome: "South Park Bundle", //nome do jogo
+            brevedesc: "", //um pequeno texto (+/- este tamanho)
+            desc: "Este pacote inclui o aclamado South Park: The Stick of Truth e sua poderosa continuação South Park: The Fractured But Whole, de Trey Parker & Matt Stone, criadores da série de TV South Park.",  // Descrição do jogo
+            Dataupload: "07/31/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/lmFxWY6Y#B5rzmH3wDIh0GTX1wwjzfz0aToq19QTEVynDJwMt-jo", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/tc1z264e9czq7co/South_Park_The_Stick_of_Truth_%252B_South_Park_The_Fractured_but_Whole_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:H6F7QFY7DWQMPGVD2DAXVCRKRQNPSA64&dn=%5Bdixen18%5D%20South%20Park.%20Collection&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1e5lMt14yPM_Cisq3aKBcnTDDXJqLkXlA/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "575", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "star-wars-jedi-survivor.png",  //imagem 500x500
+            Nome: "STAR WARS Jedi: Survivor", //nome do jogo
+            brevedesc: "A história de Cal Kestis continua em STAR WARS Jedi: Survivor, uma aventura em terceira pessoa na galáxia.", //um pequeno texto (+/- este tamanho)
+            desc: "A história de Cal Kestis continua em Star Wars Jedi: Survivor™, uma aventura em terceira pessoa na galáxia da Respawn Entertainment, desenvolvida em colaboração com a Lucasfilm Games. Este título de jogo solo guiado pela narrativa começa 5 anos após os eventos de Star Wars Jedi: Fallen Order™, acompanhando a luta cada vez mais desesperada de Cal enquanto a galáxia se torna ainda mais sombria. Empurrado para os limites da galáxia pelo Império, Cal se verá cercado por ameaças novas e conhecidas. Como um dos últimos Cavaleiros Jedi sobreviventes, Cal precisa mostrar seu valor durante o momento mais sombrio da galáxia, mas até onde ele está disposto a ir para proteger a si, sua equipe e o legado da Ordem Jedi?",  // Descrição do jogo
+            Dataupload: "07/31/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 4 core / 8 threads | Intel Core i7-7700 | Ryzen 5 1400"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 8GB VRAM | GTX 1070 | Radeon RX 580"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 155 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 4 core / 8 threads | Intel Core i5 11600K | Ryzen 5 5600X"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 8GB VRAM | RTX2070 | RX 6700 XT"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 155 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/dykySChB#40Leae49g5yAwk324aKpbmjXsq7BPALn-n99eCHXDC0", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/kiee3ze809gb4yu/STAR_WARS_Jedi_Survivor_Deluxe_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:KGPZPOA7UCMROVXPQRUCXPWWSTQNSP64&dn=STAR%20WARS%20Jedi%20Survivor%20Deluxe%20Edition-Steam%20%5BUncracked%5D%20%5BMulti12%5D.iso&xl=135705133056", //Link Magnet
+            drive:"https://drive.google.com/file/d/1CwGE_dlYBtaYAELzFN2vZVEdNAGG6Qjv/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "576", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "cult-of-the-lamb.png",  //deixa vazio por agora
+            Nome: "Cult of the Lamb", //nome do jogo
+            brevedesc: "Crie e comande seu culto em um mundo sombrio e estilizado.", //um pequeno texto (+/- este tamanho)
+            desc: "Cult of the Lamb é um jogo de ação e construção de base onde você assume o papel de um cordeiro que deve formar e liderar um culto em um mundo bizarro e sombrio. Misturando elementos de gerenciamento de recursos e combate, você explora terras misteriosas, recruta seguidores e realiza rituais para fortalecer seu poder. Com gráficos estilizados e uma jogabilidade envolvente, o jogo oferece uma experiência única de construir e expandir seu culto enquanto enfrenta desafios e descobre segredos ocultos.",  // Descrição do jogo
+            Dataupload: "07/31/2024", // nao mexes
+    
+            // Minimos
+            RequesitosMinimos:
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+    
+            // Recomendados
+            RequesitosRecomendados: 
+            "<br>"+
+            ""+  //Sistema Operativo
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //memoria ram
+            "<br>"+
+            ""+ //Placa de video
+            "<br>"+
+            ""+ //armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/VjshzAJJ#6Ksuvz1awCik62AOCweOrRWyBVScxWKlGU2oWV64hHg", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/2sc7hltplsufr7m/Cult_of_the_Lamb_Mobile_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"",
+            drive:"https://drive.google.com/file/d/1z6Iv6gGEMTgTT-gapuMrt841DO90g5PP/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+        },
+
+
+        {
+            id: "577", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "persona-5-royal.png",  //imagem 500x500
+            Nome: "Persona 5 Royal", //nome do jogo
+            brevedesc: "Viva uma vida dupla como um estudante e um ladrão de corações em Tóquio.", //um pequeno texto (+/- este tamanho)
+            desc: "Persona 5 Royal é um JRPG que mistura vida escolar com ação de combate. Como um estudante do ensino médio em Tóquio, você leva uma vida normal durante o dia, enquanto à noite se transforma em um Phantom Thief, lutando contra corrupção e injustiça em um mundo paralelo. Com uma narrativa envolvente, personagens carismáticos e um sistema de combate tático baseado em personas, o jogo oferece uma experiência profunda e cativante, repleta de escolhas que impactam sua jornada e os relacionamentos com seus colegas.",  // Descrição do jogo
+            Dataupload: "07/31/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Você precisará de um emulador de Nintendo Switch para jogar este jogo"+  //Sistema Operacional
+            "<br>"+
+            "*Emulador já incluso*"+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/sm8HRQqI#bXTelHOHAZCRbGdwcrGaqYoSIkM8_Gj8aYZNW2CsNrM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/w715t88ybqh9kzp/Persona_5_Royal_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:YH2HBTGFSOE42GVS2QONGF3GFNGRNSV5&dn=Persona%205%20Royal%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1PYWK-45UDfxRtP0qQ5mqA8jtYA3xwElF/view?usp=sharing",  //Link Drive
         },
 
 
