@@ -264,10 +264,10 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "https://mega.nz/file/0qsnUJbL#KEocTqEs90rmSR3_TW7u58-zpTmfg-JRYNwbJhboSnE", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/h84b8ak9wbf4zja/Terraria_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            mega: "https://mega.nz/file/kmFkDIAL#lKvkXkL5b9FhdkZMfv2Fef4pDs-I3i4lKfDiELeUOEI", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/5k17nb1z9u8plrk/Terraria_v1.4.4.9_%2528online_fix_incluso%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
             magnet:"magnet:?xt=urn:btih:GZPHKZ44YY2A2KJXKJOSADFIPX6CP26H&dn=Terraria&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
-            drive:"https://drive.google.com/file/d/19vtUve7w9m-kX1gpofpytoUpJM23sNPV/view?usp=drive_link",  //Link Drive (podes deixar estes 3 eu faço)
+            drive:"https://drive.google.com/file/d/1hu3OiPbSbOrbqYtzELdX_bwn2dHsRoik/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
 
         },
 
@@ -410,7 +410,7 @@ let games = [
             Nome: "Euro Truck Simulator 2", //nome do jogo
             brevedesc: "Viaje pela Europa como o rei das estradas.", //um pequeno texto (+/- este tamanho)
             desc: "Viaje pela Europa como o rei das estradas, um caminhoneiro que entrega cargas importantes por distâncias impressionantes! Com dezenas de cidades para explorar, sua resistência, habilidade e velocidade serão levadas ao limite.",  // Descrição do jogo
-            Dataupload: "12/20/2023", // nao mexes
+            Dataupload: "08/24/2024", // nao mexes
 
             // Minimos
             RequisitosMinimos:
@@ -441,10 +441,10 @@ let games = [
                 "<br>",
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
-            mega: "https://mega.nz/file/hmskSTbb#ZZMyQFpQSpKjq4iKU-sCkmAZzjXAd7n9t06yscJWGZ4", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/7jb7jvy6a778qeq/Euro_Truck_Simulator_2_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:NHMIWGH5NKZ772QIZUOCBEPWT7CJ26TX&dn=Euro%20Truck%20Simulator%202%20v.1.47.2.1s%20(2012)&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce",
-            drive:"https://drive.google.com/file/d/1Fem-Ew1epYL_LsZnfW88NC8SxiOWolaJ/view?usp=drive_link",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/ou0zRZgC#zOwWUhmv-NeDOAfgYx4XITpCzGJpO0a5Xq1dLF-WKQc", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/3vwx7i9akts7i7e/Euro_Truck_Simulator_2_%25E2%2580%2593_v1.50.1.0s_%252B_87_DLCs_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:FX37ZNVQ5QDS3M3S6ZOL2HSNY767AMCW&dn=Euro%20Truck%20Simulator%202%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969",
+            drive:"https://drive.google.com/file/d/1PgixogAhmDAM86OA0LPEnwsEWfAqNB__/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         
         },
 
@@ -1202,7 +1202,7 @@ let games = [
             Nome: "BeamNG.drive", //nome do jogo
             brevedesc: "Um simulador dinâmico de veículos de física de corpos flexíveis.", //um pequeno texto (+/- este tamanho)
             desc: "Um simulador dinâmico de veículos de física de corpos flexíveis capaz de fazer praticamente qualquer coisa.",  // Descrição do jogo
-            Dataupload: "12/20/2023", // nao mexes
+            Dataupload: "08/24/2024", // nao mexes
 
             // Minimos
             RequisitosMinimos:
@@ -1233,10 +1233,10 @@ let games = [
                 "<br>",
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
-            mega: "https://mega.nz/file/1r0R3SCY#ShOkm7HwH8riHxt5XIEiJDmjAhSFAt4s0ln13gZgLW0", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/zfdhx4irux70g91/BeamNG_Drive_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:DMAJVIW3ZNLJBS2ZGEHI4EH55H272EAU&dn=BeamNG.Drive.v0.25.3.0.14049.zip&xl=16338470888&tr=udp%3A%2F%2Fopentor.org%3A2710%2Fannounce",
-            drive:"https://drive.google.com/file/d/1cv2RDGPiQ2Rn0vIk4k7DAN-i43rzDCQm/view?usp=drive_link",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/VycwjKIK#nCQvSiRgCJunUPj5ws4FcGiMTTeYCLy88KjC6KShW1g", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/cbei6qvc5vt8hz0/BeamNG.drive_v0.32_%2528online_fix_incluso%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:JWDMYICGA6WF3QAVAIYCM4JRY4SKVDCA&dn=BeamNG%20Drive&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+            drive:"https://drive.google.com/file/d/1OHGmt7tRUHzCSnbLLCMu7TrgZAyhiAKH/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
         {
@@ -13830,10 +13830,10 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "https://mega.nz/file/BiFDWRCR#OaPzwRoKSyVqPw1eEkJG3hhBK2lnjgodGjE9_35oRPU", //Link do Mega
-            mediafire: "https://www.mediafire.com/file/iafrm5druco4wrc/Sea_of_Thieves.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:7AAEWNUMDS3QLV6QNMHYEISJPY3OIIXI&dn=Sea%20of%20Thieves%20(v2.125.6933.2)&tr=https%3A%2F%2Fcrackstatus.net%2Fbt%2Fannounce.php%3Fuk%3DH4ZXSqU9gN", //Link Magnet
-            drive:"https://drive.google.com/file/d/11fjVdvGawjm6QvWsqfQsk0efc4gTfTVF/view?usp=drive_link",  //Link Drive
+            mega: "https://mega.nz/file/Nnd2gKQA#swmKfEVODmpzUtA-m66WvTCSxzmOvVNkfCCKGx2SUzI", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/0nkouo2ofaq1poj/Sea_of_Thieves_v2.128.7221.0_%2528online_fix_incluso%2529_%255BBy_Nuvem_Azul%255D_.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:CHNYFHCRS32CVA4H6EJD24I255PGDGAQ&dn=Sea%20Of%20Thieves&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1U6bSDyodGwHLXZjknJBlvuTPM5Bv36N0/view?usp=sharing",  //Link Drive
         },
 
 
@@ -18168,7 +18168,7 @@ let games = [
             Nome: "Earn to Die 2", //nome do jogo
             brevedesc: "Dirija por cenários apocalípticos, aprimore seus veículos e sobreviva em um mundo infestado de mortos-vivos", //um pequeno texto (+/- este tamanho)
             desc: "Em Earn to Die 2, você assume o volante de diversos veículos e enfrenta hordas de zumbis em um mundo apocalíptico. Atravesse paisagens áridas, cidades desertas e pontes infestadas de mortos-vivos, utilizando seus veículos para esmagar e eliminar os zumbis em seu caminho.",  // Descrição do jogo
-            Dataupload: "12/20/2023", // Colocar data atual
+            Dataupload: "08/23/2024", // Colocar data atual
     
             // Minimos
             RequesitosMinimos:
@@ -18200,10 +18200,10 @@ let games = [
             plataforma: "MOBILE", //PC ou MOBILE sempre em letras grandes
     
             // LinksDownload
-            mega: "", //Link do Mega
-            mediafire: "https://www.mediafire.com/file/td86r565olu76wa/com.mod.earn-to-die-2-mod-v1-4-26-free-shopping-mwku1.4.26.apk/file", //Link MediaFire
+            mega: "https://mega.nz/file/07VFyJ4R#3elgTJZH9F0PmnB1VhueSSeWxG8zYP73gwYPmLvw93E", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/h8u2vbiun06u21x/Earn_To_Die_2_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
             magnet:"", //Link Magnet
-            drive:"",  //Link Drive
+            drive:"https://drive.google.com/file/d/1qF1Ujxwk9VX1lPe6TOiRLvqb6ecsmQpi/view?usp=sharing",  //Link Drive
         },
         
 
@@ -24015,7 +24015,7 @@ let games = [
 
 
         {
-            id: "524", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            id: "525", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
             Imag: "hearts-medicine.png",  //imagem 500x500
             Nome: "Heart's Medicine - Doctor's Oath", //nome do jogo
             brevedesc: "Torne-se uma doutora em um drama médico com a estagiária Allison Heart!", //um pequeno texto (+/- este tamanho)
@@ -25096,46 +25096,46 @@ let games = [
 
         {
             id: "549", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "nun-massacre.png",  //deixa vazio por agora
-            Nome: "Nun Massacre", //nome do jogo
-            brevedesc: "Um jogo de terror de sobrevivência em primeira pessoa em um internato sinistro.", //um pequeno texto (+/- este tamanho)
-            desc: "Nun Massacre é um jogo de terror de sobrevivência em primeira pessoa que desafia os jogadores a escapar de um internato sinistro enquanto são perseguidos por uma aterrorizante freira assassina. Com gráficos retrô inspirados nos jogos de PlayStation 1, o jogo cria uma atmosfera tensa e opressiva, cheia de sustos e mistérios. Os jogadores devem usar sua inteligência para resolver quebra-cabeças e encontrar itens essenciais enquanto evitam encontros mortais. A narrativa perturbadora e o design de som inquietante intensificam a sensação de pavor constante, fazendo de Nun Massacre uma experiência angustiante para os fãs de horror.",  // Descrição do jogo
-            Dataupload: "06/23/2024", // nao mexes
-    
+            Imag: "warhammer40k.png",  //deixa vazio por agora
+            Nome: "Warhammer 40,000: Rogue Trader", //nome do jogo
+            brevedesc: "Explore o universo sombrio de Warhammer 40K como um Rogue Trader.", //um pequeno texto (+/- este tamanho)
+            desc: "Em Warhammer 40,000: Rogue Trader, você assume o papel de um mercador interestelar que navega pelo vasto e perigoso universo do 41º milênio. Como Rogue Trader, você comanda uma poderosa nave e uma tripulação leal enquanto explora sistemas desconhecidos, enfrenta ameaças mortais e toma decisões que moldarão o destino de impérios. O jogo combina estratégia, narrativa profunda e batalhas intensas, permitindo que você escreva sua própria lenda no mundo sombrio de Warhammer 40K.",  // Descrição do jogo
+            Dataupload: "08/23/2024", // nao mexes
+     
             // Minimos
-            RequesitosMinimos:
+            RequisitosMinimos:
             "<br>"+
-            ""+  //Sistema Operativo
+            "SO: Win10"+  //Sistema Operacional
             "<br>"+
-            ""+ //Processador
+            "Processador: Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz"+ //Processador
             "<br>"+
-            ""+ //memoria ram
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            ""+ //Placa de video
+            "Placa de vídeo: AMD Radeon RX Vega 6 / Intel HD Graphics 630"+ //Placa de Vídeo
             "<br>"+
-            ""+ //armazenamento 
+            "Armazenamento: 40 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-    
+
             // Recomendados
-            RequesitosRecomendados: 
+            RequisitosRecomendados: 
             "<br>"+
-            ""+  //Sistema Operativo
+            "SO: Win10"+  //Sistema Operacional
             "<br>"+
-            ""+ //Processador
+            "Processador: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz"+ //Processador
             "<br>"+
-            ""+ //memoria ram
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            ""+ //Placa de video
+            "Placa de vídeo: AMD Radeon RX 570 / NVIDIA GeForce GTX 1050 Ti"+ //Placa de Vídeo
             "<br>"+
-            ""+ //armazenamento 
+            "Armazenamento: 40 GB de espaço disponível"+ //Armazenamento 
             "<br>",
-            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
-            mega: "https://mega.nz/file/U7d1nbja#Ab-PPWf2BIfQ_1_u4KiSrqVFZtmxYJDuKXayN5BaWmo", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/86q78egqobgiymx/Nun_Massacre_MOBILE_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
-            magnet:"",
-            drive:"https://drive.google.com/file/d/1LxEyWQBDaj4bRscGJN5YZ6BVEY4I5NBT/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/l6FBVQqQ#ZvblC60Hu09xJlyHDsqQhxEvyg8AQ4queBheRGMD9cE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/kgjxyr4hzdp3ih8/Warhammer_40%252C000_-_Rogue_Trader_%2528online_fix_incluso%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:F5HMBGCS5HQF7WEQ4MWAC3JKFTJQAXVB&dn=Warhammer%2040%20000%20Rogue%20Trader&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/16-bPA8t0vbVqrKWbXZMTNwowspW745dj/view?usp=sharing",  //Link Drive
         },
 
 
@@ -26393,6 +26393,411 @@ let games = [
             mediafire: "https://www.mediafire.com/file/w715t88ybqh9kzp/Persona_5_Royal_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
             magnet:"magnet:?xt=urn:btih:YH2HBTGFSOE42GVS2QONGF3GFNGRNSV5&dn=Persona%205%20Royal%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce", //Link Magnet
             drive:"https://drive.google.com/file/d/1PYWK-45UDfxRtP0qQ5mqA8jtYA3xwElF/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "578", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "crime-scene-cleaner.png",  //imagem 500x500
+            Nome: "Crime Scene Cleaner", //nome do jogo
+            brevedesc: "Limpe cenas de crime antes que a polícia chegue.", //um pequeno texto (+/- este tamanho)
+            desc: "Crime Scene Cleaner é um jogo de simulação em que você assume o papel de um limpador de cenas de crime. Em meio a ambientes detalhados e realistas, você deve remover evidências, limpar manchas e restaurar locais após crimes violentos. Mas, enquanto executa suas tarefas, você começa a perceber pistas intrigantes e mistérios que aguardam para serem resolvidos, colocando suas habilidades de observação e dedução à prova.",  // Descrição do jogo
+            Dataupload: "08/23/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10/11"+  //Sistema Operacional
+            "<br>"+
+            "Processador: i5-7500 or similar"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 1060"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 35 GB de espaço disponíve"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10/11"+  //Sistema Operacional
+            "<br>"+
+            "Processador: i5-10600 or similar"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: RTX 2070 SUPER"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 35 GB de espaço disponíve"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/QiUmiZgL#XtfN3oAl74pzNhWw2L7CucC0SoAQeaSkq0ZvcvFxQ8g", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/rqq02ko40or70mi/Crime_Scene_Cleaner_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:I3CE72HMU7VTPDWSDTXYT557YJF6PFXI&dn=Crime%20Scene%20Cleaner%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1yzZOkGNN4cx-eNvNYxhZe62ilNP7tX7N/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "579", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-binding-of-isaac-rebirth.png",  //imagem 500x500
+            Nome: "The Binding of Isaac: Rebirth", //nome do jogo
+            brevedesc: "Explore masmorras e enfrente horrores.", //um pequeno texto (+/- este tamanho)
+            desc: "The Binding of Isaac: Rebirth é um jogo de ação roguelike em que você controla Isaac, um garoto que foge para o porão de sua casa após sua mãe ouvir uma 'voz divina'. Você deve explorar masmorras geradas aleatoriamente, enfrentar monstros grotescos, resolver quebra-cabeças, e descobrir itens poderosos. Com uma narrativa sombria e cheia de simbolismos, o jogo oferece uma experiência desafiadora e renovada a cada partida, combinando elementos de terror, humor e intensa ação.",  // Descrição do jogo
+            Dataupload: "08/24/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: XP"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core 2 Duo"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Discreet video card"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 449 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 8 / 7 / Vista / XP"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.4 GHz Quad Core 2.0 (or higher)"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD Graphics 4000 and higher, ATI Radeon HD-Series 4650 and higher, Nvidia GeForce 2xx-Series and up"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 449 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/djlk1TzK#-XD32Wgr-CCd_6Rix_Q7_Z1gWd8SWCBm7LuttxDD0vw", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/3sxnaper5f02v7o/The_Binding_of_Isaac_Rebirth_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:F3EZKM7UH7AC6A3DDNDRB4KGCQXXWCC5&dn=The%20Binding%20of%20Isaac%20Rebirth&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1Bz_5MWE3OAooCw5mSv_Nj2_eJA84qWP2/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "580", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-binding-of-isaac-repentance.png",  //imagem 500x500
+            Nome: "The Binding of Isaac: Repentance", //nome do jogo
+            brevedesc: "Mergulhe em um pesadelo renovado, enfrentando desafios e segredos.", //um pequeno texto (+/- este tamanho)
+            desc: "The Binding of Isaac: Repentance é uma expansão massiva para o aclamado jogo roguelike The Binding of Isaac. Esta versão inclui novos personagens, itens, inimigos e chefes, além de vastos novos níveis para explorar. Mergulhe mais fundo no mundo bizarro e perturbador de Isaac, enfrentando novos desafios e descobrindo segredos ocultos. Com gráficos aprimorados e uma jogabilidade ainda mais polida, Repentance oferece uma experiência definitiva e ampliada, elevando o clássico cult a novos patamares de complexidade e profundidade.",  // Descrição do jogo
+            Dataupload: "08/24/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: i7"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 900 Series"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 666 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: i9"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 900 Series"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 666 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/g3dnSTjI#yTQaDQhLCKZHx2wjNkkWzhDBJhNeTVU5dOXuBpVZwOs", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/td0g4cwtcgwa0qz/The_Binding_of_Isaac_Repentance_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:SLDQBJKAOR4Y77HKC3VZHMGWRZX2UARN&dn=The%20Binding%20of%20Isaac%20Rebirth&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1aPATtfM9oJDmSrsQPgpdNxQ7Lo6-PwrV/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "581", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "lake.png",  //imagem 500x500
+            Nome: "Lake", //nome do jogo
+            brevedesc: "Viva uma vida tranquila em uma cidade pitoresca entregando cartas.", //um pequeno texto (+/- este tamanho)
+            desc: "Lake é um jogo de aventura narrativa que o coloca na pele de Meredith Weiss, que troca sua agitada vida na cidade grande por duas semanas como entregadora de correspondências na pitoresca cidade de Providence Oaks. Explore belas paisagens, conheça os habitantes locais e tome decisões que moldarão seu futuro. À medida que você se conecta com a comunidade e enfrenta dilemas pessoais, o jogo oferece uma experiência tranquila e reflexiva sobre a vida, escolhas e a importância das relações humanas.",  // Descrição do jogo
+            Dataupload: "08/24/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 (64 bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-4570 / AMD FX-8350"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTX 760 / Radeon HD 7950 (2GB VRAM)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 (64 bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-7600 / Ryzen 5 1600"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTX 970 / Radeon R9 390 (4GB VRAM)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/02kzURKb#3bS5LdJ8gyQW3m835Am6qInCqSJ4iBvwe2ySEvZ3bH4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/sd1yfyuipwngnqh/Lake_%25E2%2580%2593_v1.2.0_%252B_Season%25E2%2580%2599s_Greetings_DLC_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:ZTF5CVERCFSUO4ZNLOHGTGIRELHKJHGW&dn=Lake%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1UXwfduKkMtmEO_Jsz8eLZ2w7-HyDFuAB/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "582", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "the-coffin-of-andy-and-leyley.png",  //imagem 500x500
+            Nome: "The Coffin of Andy and Leyley", //nome do jogo
+            brevedesc: "Explore um mundo sombrio e distorcido em busca de verdade e redenção.", //um pequeno texto (+/- este tamanho)
+            desc: "The Coffin of Andy and Leyley é um jogo de aventura que leva os jogadores a um universo macabro e surreal, onde duas almas, Andy e Leyley, embarcam em uma jornada perturbadora em busca de respostas sobre seu passado e a verdade que os une. Mergulhe em uma narrativa sombria repleta de mistérios, escolhas difíceis e personagens excêntricos, enquanto desvenda segredos e enfrenta desafios psicológicos e emocionais. Prepare-se para uma experiência intrigante e perturbadora que desafia a percepção da realidade.",  // Descrição do jogo
+            Dataupload: "08/24/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8/8.1/10 (32bit/64bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 9/OpenGL 4.1 capable GPU"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 300 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/pr0w2LIR#D68ZmNkcwhojm4McWjN8nHuQF5wrZ2u69CUehU78G6k", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/wfztlpz3a5accd8/The_Coffin_of_Andy_and_Leyley_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:FDHC347G45LHZM3ZRZHPWN5PA6NQRBL2&dn=The%20Coffin%20of%20Andy%20and%20Leyley&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/18hTBul5bnlH6NIvWMU3JuCUvKQJH3RvG/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "583", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "terraria.png",  //imagem 500x500
+            Nome: "Terraria", //nome do jogo
+            brevedesc: "Explore e construa em um mundo vasto cheio de aventuras e perigos.", //um pequeno texto (+/- este tamanho)
+            desc: "Terraria é um jogo de ação e aventura em que os jogadores exploram um mundo 2D vasto e gerado aleatoriamente. Nele, você pode cavar, construir e lutar contra inimigos variados enquanto coleta recursos e descobre segredos ocultos. Com mecânicas de crafting detalhadas e uma vasta gama de biomas e monstros, Terraria combina criatividade e sobrevivência, oferecendo uma experiência rica e dinâmica para jogadores que amam exploração e desafios constantes.",  // Descrição do jogo
+            Dataupload: "08/24/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/c6tAFYZB#Am1dYmsUrgFEA3u6B_ofF490Qx_5VDIOnGGhlHrcls8", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/0qyxj8ss9hlx2rx/Terraria_Mobile_1.4.4.9.5_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"https://drive.google.com/file/d/1aHqAN9SM_Jo1Ve0LtdOdZBCSto_jrpYY/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "584", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "five-nights-at-freddys-into-the-pit.png",  //imagem 500x500
+            Nome: "Five Nights at Freddy's: Into the Pit", //nome do jogo
+            brevedesc: "Enfrente terrores em uma pizzaria assombrada, onde brinquedos ganham vida.", //um pequeno texto (+/- este tamanho)
+            desc: "Five Nights at Freddy's: Into the Pit é um jogo de terror baseado na popular série Five Nights at Freddy's. Nele, você assume o papel de um jovem que descobre segredos sombrios em uma pizzaria antiga, onde animatrônicos ganham vida durante a noite. Com uma atmosfera inquietante e momentos de susto intensos, o jogo desafia você a sobreviver enquanto desvenda mistérios aterrorizantes escondidos nos cantos sombrios da pizzaria. Prepare-se para sustos inesperados e uma narrativa cheia de suspense.",  // Descrição do jogo
+            Dataupload: "08/24/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10/11"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5 750 or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 670 or equivalent"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/0y0WybTB#GShn3-G08_AtN7k4RO5dqbs-Lvba6PADqBB9a3oL9-s", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/fn30ufjwdgsehvf/Five_Nights_at_Freddy%2527s_Into_the_Pit_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:HZTN5XW45WG45JQIKACTB62OXRYL243H&dn=FNAF%20Into%20the%20Pit%20%5BKaOs%20Repack%5D&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1QL_kctTXQ8R7G7Mr-12ZAnqLlJPv9UdS/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "585", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "case-animatronics.png",  //imagem 500x500
+            Nome: "CASE: Animatronics", //nome do jogo
+            brevedesc: "Um terror de sobrevivência com animatronics assustadores.", //um pequeno texto (+/- este tamanho)
+            desc: "Case: Animatronics é um jogo de terror de sobrevivência em primeira pessoa onde você assume o papel de um detetive preso em uma delegacia dominada por animatronics ameaçadores. Armado apenas com sua astúcia e uma câmera de segurança, você deve explorar o local, resolver quebra-cabeças e evitar ser capturado por essas criaturas sinistras enquanto desvenda os mistérios que envolvem sua própria captura. A atmosfera tensa e a mecânica de jogo desafiadora criam uma experiência assustadora e imersiva.",  // Descrição do jogo
+            Dataupload: "08/24/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core2 Quad Q8400"+ //Processador
+            "<br>"+
+            "Memória RAM: 512 MB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 560 1GB / Radeon R7 250X 1GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5 3470"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 660 Ti 2GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Y2c1RI6K#G8FR0HVz1k0xBissY1DqDwhC0Tpel9upUy1KUba8Ggo", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/pq2le8i4o53rn8j/CASE_Animatronics_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:NP7Q7HARQ7GJRVXRJUO4JIYAZIOA6E2Q&dn=CASE%20Animatronics%20%5BOther%20s%5D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1vot5KqxBj9JL-3EIIrx9zg08WaqN1aSW/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "586", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "case-2-animatronics-survival.png",  //imagem 500x500
+            Nome: "CASE 2: Animatronics Survival", //nome do jogo
+            brevedesc: "Sobrevivência tensa com animatronics aterrorizantes.", //um pequeno texto (+/- este tamanho)
+            desc: "Case 2: Animatronics Survival leva a experiência de terror a um novo nível, desafiando os jogadores a sobreviver em um ambiente repleto de animatronics hostis. Como o protagonista, você deve explorar locais assustadores, resolver enigmas complexos e usar estratégias inteligentes para escapar da ameaça constante desses seres mecânicos. Com uma narrativa envolvente e uma atmosfera tensa, o jogo oferece uma experiência aterrorizante onde cada decisão pode ser crucial para a sua sobrevivência.",  // Descrição do jogo
+            Dataupload: "08/24/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 SP1, Windows 8.1, Windows 10 (64-bit versions only)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM with Shader Model 5.0 or better"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 SP1, Windows 8.1, Windows 10 (64-bit versions only)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-4770 @ 3.4 GHz or AMD Ryzen 5 1600 @ 3.2 GHz or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 970 or AMD R9 290X (4GB VRAM with Shader Model 5.0 or better)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/k7EXFLBS#vEWjba_liDWNFNlZCQfD9l89VMsn1QyamoJJ_rmfgm4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/bb0bcgd28ucxzyb/CASE_2_Animatronics_Survival_Build_26052019_%2528online_fix_incluso%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:3JR4AKQ7B2SS4MZXB3CHUKAQPIH3IW2U&dn=CASE%202%20Animatronics%20Survival&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1WSbkQfuFb_EiKD29HjE7VwYAYVGcVXFZ/view?usp=sharing",  //Link Drive
         },
 
 
