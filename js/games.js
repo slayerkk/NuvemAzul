@@ -13657,7 +13657,7 @@ let games = [
             Nome: "The Amazing Spider Man", //nome do jogo
             brevedesc: "Prepara-te para ação intensa a arremessar a tua teia", //um pequeno texto (+/- este tamanho)
             desc: "Prepara-te para ação intensa a arremessar a tua teia, com The Amazing Spider-Man 2 ! Junta-te a ele no jogo oficial deste êxito altamente antecipado de 2015! Joga o enredo do filme, enquanto o Spider-Man 2 enfrenta o Lizard e gangs em tumulto. Arremessa a tua teia e desloca-te por uma Nova Iorque aberta e totalmente em 3D, enquanto utilizas as tuas incríveis habilidades para salvar a cidade ",  // Descrição do jogo.
-            Dataupload: "12/20/2023", // nao mexes
+            Dataupload: "09/08/2024", // nao mexes
 
             // Minimos
             RequisitosMinimos:
@@ -13689,10 +13689,10 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "https://mega.nz/file/I3cB0AIa#83xxwpYoo-o71FxGi2iVgNqTan82Gz2qEcwytveldt8", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/azwxemqazjybi19/The_Amazing_Spider_Man.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:PF5SAJ63EUDU6WXELRXIHT7X3QBWFFTF&dn=%5BR.G.%20Mechanics%5D%20The%20Amazing%20Spider-Man&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969",
-            drive:"https://drive.google.com/file/d/10YVL-4wRktOzO4BUM6kqaxVMT1EIfYg0/view",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/5jMnmaia#Lun5oii9GkKUofVaT2t7n6s5keco5i3naDf-GmqxJZ0", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/ewaqi8rb4xw9dzc/The_Amazing_Spider-Man_%2528Update1_%252B_All_DLCs_%252B_Fixes_%252B_MULTi6%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:XF2RIPPVDGSGZCEL5HE4QJN5TTFPET36&dn=The%20Amazing%20Spider-Man%20-%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.me%3A2720%2Fannounce",
+            drive:"https://drive.google.com/file/d/1RA6MzqLkOjhr7h9QmmepJKqpIqDvnBaE/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
 
