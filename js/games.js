@@ -26800,6 +26800,186 @@ let games = [
             drive:"https://drive.google.com/file/d/1WSbkQfuFb_EiKD29HjE7VwYAYVGcVXFZ/view?usp=sharing",  //Link Drive
         },
 
+        {
+            id: "587", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "persona-3-portable.png",  //imagem 500x500
+            Nome: "Persona 3 Portable", //nome do jogo
+            brevedesc: "Domine o poder do coração, a Persona, e descubra a trágica verdade da Hora Sombria.", //um pequeno texto (+/- este tamanho)
+            desc: "Conheça Persona 3 Portable, o famoso RPG aclamado pela crítica, que reinventou a série Persona, agora remasterizado para as plataformas modernas.",  // Descrição do jogo
+            Dataupload: "09/12/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 or higher"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-540 or AMD Phenom II X4 940"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GT 730, 1 GB or AMD Radeon R7 240, 1 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 or higher"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-650 or AMD FX-4100"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 650, 1 GB or AMD Radeon HD 5770, 1 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/1rtgmDzZ#5l2mtGedEsJ7jyqC4HLBXd-r2Ztqs5b7WQ3aBzgfH8A", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/gmpp25v96dryhmx/Persona_3_Portable_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:GFADKHGLTPJMLYCNLNQFNSPHMQIV2DE6&dn=Persona%203%20Portable%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1pwVrBieGn3_TetRi4lI6kjy0caQ0cyRX/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "588", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "god-of-war-ragnarok.png",  //imagem 500x500
+            Nome: "God of War Ragnarök PC", //nome do jogo
+            brevedesc: "Kratos e Atreus embarcam numa viagem mítica em busca de respostas antes da chegada do Ragnarök.", //um pequeno texto (+/- este tamanho)
+            desc: "A sequência do aclamado God of War (2018), God of War Ragnarök retoma a história com o Fimbulwinter em curso. Kratos e Atreus devem viajar pelos Nove Reinos em busca de respostas enquanto as forças de Odin em Asgard se preparam para uma batalha profetizada que causará o fim do mundo. Nessa jornada, eles vão explorar paisagens míticas impressionantes e enfrentar inimigos aterradores: deuses nórdicos e monstros. À medida que a ameaça do Ragnarök se aproxima, Kratos e Atreus terão de escolher entre a segurança da própria família e a dos reinos.",  // Descrição do jogo
+            Dataupload: "09/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-4670k or AMD Ryzen 3 1200"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GTX 1060 (6GB) or AMD RX 5500 XT (8GB) or Intel Arc A750"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 190 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-8600 or AMD Ryzen 5 3600"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA RTX 2060 Super or AMD RX 5700 or Intel Arc A770"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 190 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Yr1ETDIQ#te5m-tbHLuKSjQwT1fv7mbmNC8MvbDM3WdevVaZKcwM", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/qhpp3611uerj8rz/God_of_War_Ragnarok_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:DUK32J5R2UCTI4LDIIC6O2GBXGWXHULW&dn=God%20of%20War%20Ragnarok%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1o2JH0UmwHc01QpI8-W-oXB7yc3e8NgzF/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "589", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "green-hell.png",  //imagem 500x500
+            Nome: "Green Hell", //nome do jogo
+            brevedesc: "Por quanto tempo você conseguirá sobreviver aos perigos do desconhecido?", //um pequeno texto (+/- este tamanho)
+            desc: "Você é jogado no meio da impenetrável e esverdeada floresta amazônica. O inferno verde. Seu objetivo é sobreviver nas profundezas de um ambiente aterrorizante usando métodos verdadeiramente intuitivos para escapar. Tendo apenas um rádio à sua disposição, você seguirá a voz familiar de uma pessoa amada através desta infindável e inóspita floresta, desvendando pouco a pouco como você foi parar lá para começo de conversa. O que você descobrirá será ainda pior do que os desafios que enfrentará para sobreviver.",  // Descrição do jogo
+            Dataupload: "09/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8/10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 3.2 GHz Dual Core Processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 660, Radeon RX 460 or equivalent with 2 GB of video RAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7/8/10 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 3.2 GHz Dual Core Processor"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 970, Radeon RX 580 or equivalent with 4GB of video RAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/J6chGQra#aN_PWSr8g4JMMIBZ6DqL3MgfngwmY5GFRamNKrwManw", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/yuiua7s0p68ge8i/Green.Hell.v2.8.0.%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:SS6QKYYTAQ62JSUWXIT3CO5CXNUX7RTI&dn=Green.Hell.v2.8.0.REPACK-KaOs&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1J2SDyzgHOt5okIk0P34xNmTU5LZdIXvG/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "590", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "mount-and-blade2.png",  //imagem 500x500
+            Nome: "Mount & Blade II: Bannerlord", //nome do jogo
+            brevedesc: "Crie um personagem, seja diplomata, fabrique, comercialize e conquiste terras num vasto mundo medieval.", //um pequeno texto (+/- este tamanho)
+            desc: "As trombetas soam, os corvos rondam. Uma guerra civil divide um império. Além de suas fronteiras, novos reinos se erguem. Ponha a espada na cinta, vista sua armadura, convoque seu séquito e cavalgue para a glória nos campos de batalha de Calrádia. Instaure sua hegemonia e, das cinzas do velho mundo, crie uma nova ordem.",  // Descrição do jogo
+            Dataupload: "09/12/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 (64-bit only)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core™ i3-8100/AMD Ryzen™ 3 1200"+ //Processador
+            "<br>"+
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel® UHD Graphics 630/NVIDIA® GeForce® GTX 660 2GB/AMD Radeon™ HD 7850 2GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 (64-bit only)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core™ i5-9600K/AMD Ryzen™ 5 3600X"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA® GeForce® GTX 1060 3GB/AMD Radeon™ RX 580"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/UiUw1TzQ#bO6V7E5PajhqfwypuVx7MTwybXZepzYn0Bzqf_Q0u8w", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/ueh32ukska9fl0v/Mount.and.Blade.II.Bannerlord.v1.2.9.36960.%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:2XUVBKJEFBZJIU3G7QHPJII4BLZT22K4&dn=Mount.and.Blade.II.Bannerlord.v1.2.9.36960.REPACK-KaOs&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
 
         
 
