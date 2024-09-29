@@ -26980,7 +26980,49 @@ let games = [
         },
 
 
+        {
+            id: "591", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "gears-of-war-ultimate-edition.png",  //imagem 500x500
+            Nome: "Gears of War: Ultimate Edition", //nome do jogo
+            brevedesc: " Mergulhe no universo de Sera e acompanhe a luta da humanidade contra a horda Locust. ", //um pequeno texto (+/- este tamanho)
+            desc: "Gears of War: Ultimate Edition é um videogame de tiro em terceira pessoa de 2015. É uma edição remasterizada do videogame Gears of War de 2006, a primeira parcela da série Gears of War, originalmente desenvolvida pela Epic Games.",  // Descrição do jogo
+            Dataupload: "09/29/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 (64 bits) versão 1511 ou superior"+  //Sistema Operacional
+            "<br>"+
+            "Processador:  Intel Core i5 de 2.7 GHz ou AMD FX 6-core"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 650 Ti ou Radeon R7 260x"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
 
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 (64 bits) versão 1511 ou superior"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5 de 3.5 GHz ou AMD FX 8-core."+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 970 ou Radeon R9 290X"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/2ybtqpjksq3k0ey/Gears_of_War_-_Ultimate_Edition_By_Nuvem_Azul.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:6XKWBVMYW6S5YULS5VYMRU346EACWIL5&dn=Gears%20of%20War%20-%20Ultimate%20Edition%20%5BFitGirl%20Repack%5D", //Link Magnet
+            drive:"https://drive.google.com/file/d/12W45GXgMEi32s7Jr5gkUD6fH-2M0__yM/view?usp=sharing",  //Link Drive
+        },
         
 
 
