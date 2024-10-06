@@ -26993,7 +26993,7 @@ let games = [
             "<br>"+
             "SO: Windows 10 (64 bits) versão 1511 ou superior"+  //Sistema Operacional
             "<br>"+
-            "Processador:  Intel Core i5 de 2.7 GHz ou AMD FX 6-core"+ //Processador
+            "Processador: Intel Core i5 de 2.7 GHz ou AMD FX 6-core"+ //Processador
             "<br>"+
             "Memória RAM: 8 GB de RAM"+ //Memória ram
             "<br>"+
@@ -27023,9 +27023,272 @@ let games = [
             magnet:"magnet:?xt=urn:btih:6XKWBVMYW6S5YULS5VYMRU346EACWIL5&dn=Gears%20of%20War%20-%20Ultimate%20Edition%20%5BFitGirl%20Repack%5D", //Link Magnet
             drive:"https://drive.google.com/file/d/12W45GXgMEi32s7Jr5gkUD6fH-2M0__yM/view?usp=sharing",  //Link Drive
         },
-        
 
 
+        {
+            id: "592", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Frostpunk-2.png",  //imagem 500x500
+            Nome: "Frostpunk 2", //nome do jogo
+            brevedesc: "O mundo é ultrapassado por um inverno sempre presente ", //um pequeno texto (+/- este tamanho)
+            desc: "  o que torna a expansão da cidade o único caminho para a sobrevivência da humanidade. Para crescer, a metrópole precisa de recursos como carvão e petróleo, assim como seus cidadãos precisam de comida e calor. Em Frostpunk 2, é seu trabalho enfrentar esse círculo interminável de oferta e demanda.",  // Descrição do jogo
+            Dataupload: "10/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10/11 (64 bits)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-2300 / AMD Ryzen 3 1200"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD RX 550 4 GB VRAM / NVIDIA GTX 1050Ti 4 GB VRAM / INTEL ARC A310 4GB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10/11 (64 bits)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Ryzen 7 / Intel Core i7 2,8 GHz."+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD RX 5700 8 GB VRAM / NVIDIA 2060 Super RTX 8 GB VRAM / INTEL ARC A770 8GB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 30 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/uimpn126hibu8yb/Frostpunk_2_By_Nuvem_Azul.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:CECOHXMXQI4RKKMQJBFXPP64SPJIASXR&dn=Frostpunk%202%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/18XZWZsOA6PdRwcoSQN8PFtGS1jAC5x7v/view?usp=sharing",  //Link Drive
+        },
+
+
+        {
+            id: "593", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Core-Keeper.png",  //imagem 500x500
+            Nome: "Core Keeper", //nome do jogo
+            brevedesc: "Mergulhe fundo para colher recursos preciosos e desenterrar gemas escondidas ", //um pequeno texto (+/- este tamanho)
+            desc: " Desperte como um explorador em uma caverna há muito esquecida repleta de segredos incontáveis. Nesta premiada aventura sandbox de mineração para 1-8 jogadores, suas escolhas moldam uma jornada épica. Colha relíquias e recursos, crie ferramentas avançadas, construa sua base e explore um mundo em evolução dinâmica esperando para ser descoberto.",  // Descrição do jogo
+            Dataupload: "10/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10/11 (64 bits)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-2300 / AMD Ryzen 3 1200"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 460 /Radeon HD 5850"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10/11 (64 bits)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-8400 / AMD Ryzen 7 2700X"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 1050 Ti / Radeon R9 280X"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/m957ph22zjudj2t/Core_Keeper_By_Nuvem_Azul.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:OEU7PXBUTQHN6WOOOGZBYVEPK3NCUP6A&dn=Core%20Keeper&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1BE9gc0-7sKW9s6m4nPGBqx1fp8J3jHG5/view?usp=drive_link",  //Link Drive
+        },
+
+        {
+            id: "594", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Streamer-Life-Simulator.png",  //imagem 500x500
+            Nome: "Streamer Life Simulator", //nome do jogo
+            brevedesc: "Torne-se uma das pessoas mais populares do mundo", //um pequeno texto (+/- este tamanho)
+            desc: "começando do zero. Melhore seu caráter e compre-se novos equipamentos. Saia do seu bairro ruim e se estabeleça em um novo bairro com uma infraestrutura de internet mais forte. Crie o computador com os recursos desejados e comece a transmitir. Você pode conversar com seus seguidores e coletar doações.",  // Descrição do jogo
+            Dataupload: "10/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador:  2 GHz Dual Core CPU"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD Graphics 4000"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.5 GHz Dual Core CPU"+ //Processador
+            "<br>"+
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Geforce GTX 970/Radeon RX470"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/uz2tw7fzmeqd56e/Streamer_Life_Simulator_By_Nuvem_Azul.torrent/file", //Link MediaFire
+            magnet:"https://www.mediafire.com/file/uz2tw7fzmeqd56e/Streamer_Life_Simulator_By_Nuvem_Azul.torrent/file", //Link Magnet
+            drive:"https://drive.google.com/file/d/18h1t8HzPN6w6fhJfbmT5t23F7HfGY7G9/view?usp=drive_link",  //Link Drive
+        },
+
+        {
+            id: "595", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Thief-Simulator-2.png",  //imagem 500x500
+            Nome: "Thief Simulator 2", //nome do jogo
+            brevedesc: "Torne-se o verdadeiro ladrão", //um pequeno texto (+/- este tamanho)
+            desc: "Roubar em bairros de sandbox de roam grátis. Observe seu alvo e colete informações que o ajudarão com o roubo. Aceite o desafio e roube as melhores casas seguras. Compre alguns equipamentos de alta tecnologia e aprenda novos truques de ladrão. Vender bens roubados aos transeuntes. Faça qualquer coisa que um ladrão de verdade faça!",  // Descrição do jogo
+            Dataupload: "10/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 750 NVidia"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVidia GeForce GTX 1050"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/zlxbawyuwgtynkr/Thief_Sumulator_2_By_Nuvem_Azul.torrent/file", //Link MediaFire
+            magnet:"https://drive.google.com/file/d/1yvDU_ub2kW42jsNfciTNdJXyHHEM0z5R/view?usp=drive_link", //Link Magnet
+            drive:"https://drive.google.com/file/d/1yvDU_ub2kW42jsNfciTNdJXyHHEM0z5R/view?usp=drive_link",  //Link Drive
+        },
+
+        {
+            id: "596", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Utrakill.png",  //imagem 500x500
+            Nome: "Utrakill", //nome do jogo
+            brevedesc: "ULTRAKILL é um FPS ultra-violento de old school", //um pequeno texto (+/- este tamanho)
+            desc: "A humanidade foi extinta e os únicos seres que restam na Terra são máquinas alimentadas por sangue. Mas agora esse sangue está começando a se esgotar na superfície As máquinas estão correndo para as profundezas da Inferno em busca de mais.",  // Descrição do jogo
+            Dataupload: "10/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.4GHZ Processador Dual Core"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce 9800GT"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Processador Quad Core de 2,4 GHZ"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Geforce GTX 460"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/8bn1zv9nndmil1a/ULTRAKILL_By_Nuvem_Azul.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:XZM6SRHNUXETV7VYPXL3CJDGNQX7KG45&dn=ULTRAKILL.v15d.rar&xl=1659436910", //Link Magnet
+            drive:"https://drive.google.com/file/d/1qSim2uCHB3TInTY3lWwcMPa_NYxN9q1P/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "597", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Worms-World-Party-Remastered.png",  //imagem 500x500
+            Nome: "Wormas World Party Remastered", //nome do jogo
+            brevedesc: "Imagine ter a experiência de jogo perfeita", //um pequeno texto (+/- este tamanho)
+            desc: "Com um único jogador e até 6 jogadores levando seus worms ao caos multiplayer maníaco, este jogo de combate único, maluco, ultrajante, viciante e mortal (para Worms de qualquer maneira) é remasterizado e pronto para a ação.",  // Descrição do jogo
+            Dataupload: "10/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows XP"+  //Sistema Operacional
+            "<br>"+
+            "Processador: CPU Dual Core 2.4 gHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Gráficos Intel HD 4000"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Processador Quad Core de 2,4 GHZ"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce 8000, ATI Radeon HD 4800 Series"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/tyc45yyz0msk72x/Worms_World_Party_Remastered_By_Nuvem_Azul.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:LSARXDZBCW7T5BIUMUYAKNNR6XECR3RV&dn=Worms%20World%20Party%20Remastered%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.org%3A2710", //Link Magnet
+            drive:"https://drive.google.com/file/d/1yvDU_ub2kW42jsNfciTNdJXyHHEM0z5R/view?usp=drive_link",  //Link Drive
+        },
 ];
 
 
