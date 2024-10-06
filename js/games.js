@@ -27204,50 +27204,6 @@ let games = [
 
         {
             id: "596", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "Utrakill.png",  //imagem 500x500
-            Nome: "Utrakill", //nome do jogo
-            brevedesc: "ULTRAKILL é um FPS ultra-violento de old school", //um pequeno texto (+/- este tamanho)
-            desc: "A humanidade foi extinta e os únicos seres que restam na Terra são máquinas alimentadas por sangue. Mas agora esse sangue está começando a se esgotar na superfície As máquinas estão correndo para as profundezas da Inferno em busca de mais.",  // Descrição do jogo
-            Dataupload: "10/05/2024", // Colocar data atual
-    
-            // Minimos
-            RequisitosMinimos:
-            "<br>"+
-            "SO: Windows 7 64 bits"+  //Sistema Operacional
-            "<br>"+
-            "Processador: 2.4GHZ Processador Dual Core"+ //Processador
-            "<br>"+
-            "Memória RAM: 2 GB de RAM"+ //Memória ram
-            "<br>"+
-            "Placa de vídeo: GeForce 9800GT"+ //Placa de Vídeo
-            "<br>"+
-            "Armazenamento: 2 GB de espaço disponível"+ //Armazenamento 
-            "<br>",
-
-            // Recomendados
-            RequisitosRecomendados: 
-            "<br>"+
-            "SO: Windows 10 64 bits"+  //Sistema Operacional
-            "<br>"+
-            "Processador: Processador Quad Core de 2,4 GHZ"+ //Processador
-            "<br>"+
-            "Memória RAM: 8 GB de RAM"+ //Memória ram
-            "<br>"+
-            "Placa de vídeo: Geforce GTX 460"+ //Placa de Vídeo
-            "<br>"+
-            "Armazenamento: 3 GB de espaço disponível"+ //Armazenamento 
-            "<br>",
-            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
-    
-            // LinksDownload
-            mega: "", //Link do Mega
-            mediafire: "https://www.mediafire.com/file/8bn1zv9nndmil1a/ULTRAKILL_By_Nuvem_Azul.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:XZM6SRHNUXETV7VYPXL3CJDGNQX7KG45&dn=ULTRAKILL.v15d.rar&xl=1659436910", //Link Magnet
-            drive:"https://drive.google.com/file/d/1qSim2uCHB3TInTY3lWwcMPa_NYxN9q1P/view?usp=sharing",  //Link Drive
-        },
-
-        {
-            id: "597", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
             Imag: "Worms-World-Party-Remastered.png",  //imagem 500x500
             Nome: "Wormas World Party Remastered", //nome do jogo
             brevedesc: "Imagine ter a experiência de jogo perfeita", //um pequeno texto (+/- este tamanho)
