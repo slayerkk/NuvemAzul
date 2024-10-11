@@ -27245,6 +27245,50 @@ let games = [
             magnet:"magnet:?xt=urn:btih:LSARXDZBCW7T5BIUMUYAKNNR6XECR3RV&dn=Worms%20World%20Party%20Remastered%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.org%3A2710", //Link Magnet
             drive:"https://drive.google.com/file/d/1yvDU_ub2kW42jsNfciTNdJXyHHEM0z5R/view?usp=drive_link",  //Link Drive
         },
+
+        {
+            id: "597", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Dragon-Ball-Sparking-Zero",  //imagem 500x500
+            Nome: "DRAGON BALL: Sparking! ZERO", //nome do jogo
+            brevedesc: "Liberte a força de mais de 180 lutadores de DRAGON BALL Z.", //um pequeno texto (+/- este tamanho)
+            desc: "DRAGON BALL: Sparking! ZERO leva a jogabilidade lendária do Série Budokai Tenkaichi e eleva-o a níveis totalmente novos. Torne-se um super guerreiro e experimente o poder de abalar a terra e quebrar limites das batalhas DRAGON BALL!",  // Descrição do jogo
+            Dataupload: "10/11/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-9600K / AMD Ryzen 5 2600"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 980 / AMD Radeon RX 590 / Intel Arc A750"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 29 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 /Windows 11"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-9700K / AMD Ryzen 5 3600"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce RTX 2060 / AMD Radeon RX Vega 64"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 29 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/34mk8tk6cci5ds9/DRAGON-BALL+Sparking+Zero+By+Nuvem+Azul.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:44SK5KLWJTZ2O6ZXAI6HKQF7HH7A6DFD&xl=29460586001&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1RyOLTz6WxoqJkQkcv7P2i95z3wt7G8Cf/view?usp=sharing",  //Link Drive
+        },
 ];
 
 
