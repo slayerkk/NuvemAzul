@@ -27248,7 +27248,7 @@ let games = [
 
         {
             id: "597", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "Dragon-Ball-Sparking-Zero",  //imagem 500x500
+            Imag: "Dragon-Ball-Sparking-Zero.png",  //imagem 500x500
             Nome: "DRAGON BALL: Sparking! ZERO", //nome do jogo
             brevedesc: "Liberte a força de mais de 180 lutadores de DRAGON BALL Z.", //um pequeno texto (+/- este tamanho)
             desc: "DRAGON BALL: Sparking! ZERO leva a jogabilidade lendária do Série Budokai Tenkaichi e eleva-o a níveis totalmente novos. Torne-se um super guerreiro e experimente o poder de abalar a terra e quebrar limites das batalhas DRAGON BALL!",  // Descrição do jogo
