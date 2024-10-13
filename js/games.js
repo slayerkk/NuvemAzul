@@ -27289,6 +27289,182 @@ let games = [
             magnet:"magnet:?xt=urn:btih:44SK5KLWJTZ2O6ZXAI6HKQF7HH7A6DFD&xl=29460586001&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
             drive:"https://drive.google.com/file/d/1RyOLTz6WxoqJkQkcv7P2i95z3wt7G8Cf/view?usp=sharing",  //Link Drive
         },
+        
+        {
+            id: "598", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Europa.png",  //imagem 500x500
+            Nome: "Europa", //nome do jogo
+            brevedesc: "Na lua Europa, um exuberante paraíso terraformado na sombra de Jupiteróis", //um pequeno texto (+/- este tamanho)
+            desc: "um andróide chamado Zee sai em busca de respostas. Corra, deslize e voe pela paisagem, resolva mistérios nas ruínas de uma utopia caída e descubra a história do último humano vivo.Europa é um jogo pacífico de aventura, exploração e meditação.",  // Descrição do jogo
+            Dataupload: "10/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: CPU Intel ou AMD Dual Core"+ //Processador
+            "<br>"+
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: AMD ou NVIDIA de Nível de Funcionalidade com 1 GB VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: "+  //Sistema Operacional
+            "<br>"+
+            "Processador: "+ //Processador
+            "<br>"+
+            "Memória RAM: "+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: "+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/1953bbltzbp4rvk/Europa+By+Nuvem+Azul.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:Q47V3RF2ZAOPXUXSW3KBECH6JPKJJLNW&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1bv1zN5DH9FHVNgyxYIAl7TD2xgXDVO5y/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "599", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Prototype-2.png",  //imagem 500x500
+            Nome: "Prototype 2", //nome do jogo
+            brevedesc: "A sequela do jogo de ação de mundo aberto mais vendido da Radical Entertainment", //um pequeno texto (+/- este tamanho)
+            desc: "Prototype® 2 leva a carnificina insuperável do protótipo original e continua a experiência de se tornar a arma definitiva de mudança de forma. Você é Sargento James Heller, marido de uma esposa falecida e filho e um soldado deixado simplesmente para morrer.",  // Descrição do jogo
+            Dataupload: "10/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO:  Windows® XP / Vista /7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Duo 2.6GHz, AMD Phenom X3 8750"+ //Processador
+            "<br>"+
+            "Memória RAM: 2 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce 8800 GT com 512 MB de RAM, ATI Radeon HD 4850 com 512 MB de RAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core 2 Quad 2.7 GHz ou melhor, AMD Phenom II X4 3 GHz ou melhor"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 460 (1GB) ou superior, ATI Radeon HD 5850 (1GB) ou superior"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 10 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/elkzuz73ucg6v80/Prototype+2+By+Nuvem+Azul.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:7OXE36JQOKFXR5OT3JM75SORSQSHEW66", //Link Magnet
+            drive:"https://drive.google.com/file/d/11s9H5PSvSraVGMVs4VTOtWKIJeXtY4rf/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "600", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Europa-Universali-IV.png",  //imagem 500x500
+            Nome: "Europa Universalis IV", //nome do jogo
+            brevedesc: " Este clássico grande jogo de estratégia", //um pequeno texto (+/- este tamanho)
+            desc: "O jogo dá-lhe o controle de uma nação através de quatro séculos dramáticos. Governar sua terra e dominar o mundo com liberdade incomparável, profundidade e precisão histórica. Escreva uma nova história do mundo e construa um império para as eras.",  // Descrição do jogo
+            Dataupload: "10/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows® 10 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core™ i3-2105 / AMD® FX 4300"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia® GeForce™ GTX 460 / AMD® Radeon™ HD 5850"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows® 10 64 bits"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core™ i3 3240 / AMD® FX 8120"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia® GeForce™ GTX 560 Ti"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/ba85liuyuqjly66/Europa+Universalis+4+By+Nuvem+Azul.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:JUSTVPVCGH7O3SS7YWPCWVMIJTPK6BAB&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1re9qX8gyvMUPTj0IKQ22UAd-4ykkamLA/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "601", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "Amedama.png",  //imagem 500x500
+            Nome: "AMEDAMA", //nome do jogo
+            brevedesc: "Confrontos de Mudança de Alma", //um pequeno texto (+/- este tamanho)
+            desc: "Na falta de uma forma física, você precisará mudar sua alma para outros corpos na busca para encontrar sua irmã. Possessão coloca você no controle completo de quem e o que você habita, dando-lhe acesso a uma variedade de armas e estilos de luta.",  // Descrição do jogo
+            Dataupload: "10/13/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core i5"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: DirectX 11 ou posterior"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: "+  //Sistema Operacional
+            "<br>"+
+            "Processador: "+ //Processador
+            "<br>"+
+            "Memória RAM: "+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: "+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/l5fpeergjnylmeu/AMEDAMA+By+Nuvem+Azul.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:FY6RQI4CJY7EDQT7OPKRGUTXVVFC7XD4&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1W_c0OHRjr_dGWf6KkNI8KM7lP6bMiOKO/view?usp=sharing",  //Link Drive
+        },
 ];
 
 
