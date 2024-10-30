@@ -9045,7 +9045,7 @@ let games = [
         {
             id: "201", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
             Imag: "red-dead-redemption-1.png",  //deixa vazio por agora
-            Nome: "Red Dead Redemption", //nome do jogo
+            Nome: "NEW ID: https://nuvemazul.org/gameinfo.html?gid=530", //nome do jogo
             brevedesc: "Viaje pelas vastas extensões do oeste americano e do México em Red Dead Redemption.", //um pequeno texto (+/- este tamanho)
             desc: "Quando agentes federais ameaçam sua família, o ex-bandido John Marston é forçado a caçar a gangue de criminosos que ele já chamou de amigos.",  // Descrição do jogo
             Dataupload: "12/20/2023", // nao mexes
