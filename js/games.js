@@ -24286,46 +24286,46 @@ let games = [
 
         {
             id: "530", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "god-of-war-ragnarok.png",  //imagem 500x500
-            Nome: "God of War Ragnarök", //nome do jogo
-            brevedesc: "Kratos e Atreus embarcam numa viagem mítica em busca de respostas antes da chegada do Ragnarök.", //um pequeno texto (+/- este tamanho)
-            desc: "A sequência do aclamado God of War (2018), God of War Ragnarök retoma a história com o Fimbulwinter em curso. Kratos e Atreus devem viajar pelos Nove Reinos em busca de respostas enquanto as forças de Odin em Asgard se preparam para uma batalha profetizada que causará o fim do mundo. Nessa jornada, eles vão explorar paisagens míticas impressionantes e enfrentar inimigos aterradores: deuses nórdicos e monstros. À medida que a ameaça do Ragnarök se aproxima, Kratos e Atreus terão de escolher entre a segurança da própria família e a dos reinos. ",  // Descrição do jogo
-            Dataupload: "06/19/2024", // Colocar data atual
+            Imag: "red-dead-1-pc.png",  //imagem 500x500
+            Nome: "Red Dead Redemption", //nome do jogo
+            brevedesc: "Red Dead Redemption é um jogo de ação em mundo aberto, ambientado no Velho Oeste americano.", //um pequeno texto (+/- este tamanho)
+            desc: "Conheça a história do ex-fora da lei John Marston e sua jornada para encontrar os últimos membros restantes da notória gangue Van der Linde na estreia para PC do aclamado predecessor de Red Dead Redemption 2.",  // Descrição do jogo
+            Dataupload: "10/30/2024", // Colocar data atual
     
             // Minimos
             RequisitosMinimos:
             "<br>"+
-            "Você precisará de um emulador de PS4 para conseguir jogar o jogo"+  //Sistema Operacional
+            "Windows 10 64-Bit"+  //Sistema Operacional
             "<br>"+
-            "Emuladores recomendados: PCSX4, PS4Emus"+ //Processador
+            "Intel Core i5-4670 / AMD FX-9590"+ //Processador
             "<br>"+
-            ""+ //Memória ram
+            "8 GB de RAM"+ //Memória ram
             "<br>"+
-            ""+ //Placa de Vídeo
+            "NVIDIA GeForce GTX 960 / AMD Radeon R7 360"+ //Placa de Vídeo
             "<br>"+
-            ""+ //Armazenamento 
+            "12 GB de espaço disponível"+ //Armazenamento 
             "<br>",
 
             // Recomendados
             RequisitosRecomendados: 
             "<br>"+
-            ""+  //Sistema Operacional
+            "Windows 10 64-Bit"+  //Sistema Operacional
             "<br>"+
-            ""+ //Processador
+            "Intel Core i5-8500 / AMD Ryzen 5 3500X"+ //Processador
             "<br>"+
-            ""+ //Memória ram
+            "8 GB de RAM"+ //Memória ram
             "<br>"+
-            ""+ //Placa de Vídeo
+            "NVIDIA RTX 2070 / AMD RX 5700 XT"+ //Placa de Vídeo
             "<br>"+
-            ""+ //Armazenamento 
+            "12 GB de espaço disponível"+ //Armazenamento 
             "<br>",
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
     
             // LinksDownload
-            mega: "https://mega.nz/file/x7tWQTwL#1l5zsQSsREjTo9Aaiu6yUvcxbQJiE3pwDZLF-o_n8DM", //Link do Mega
-            mediafire: "https://www.mediafire.com/file/ya7vn5w2eveijyu/God_of_War_Ragnarok_Deluxe_Edition_vers%25C3%25A3o_PS4_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:J3NF5JBFJHHGN3FNXR4BRASVFZKNBECJ&dn=God%20of%20War%20Ragnarok&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
-            drive:"https://drive.google.com/file/d/1ZOwQcDRzgG0BDbR9D4SscVkgICnd4DVy/view?usp=sharing",  //Link Drive
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/0krh0rbtcl7v8aj/Red+Dead+Redemtion+[By+Nuvem+Azul].torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:5FO7IXSTWM72MUUPNTKKTFZ5WTPUAXY5&dn=Red%20Dead%20Redemption.(v.1.0.40.57107).(2024)%20%5BDecepticon%5D%20RePack&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
         },
 
 
