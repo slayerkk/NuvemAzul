@@ -9044,24 +9044,24 @@ let games = [
 
         {
             id: "201", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
-            Imag: "red-dead-redemption-1.png",  //deixa vazio por agora
-            Nome: "Red Dead Redemption (Emulador)", //nome do jogo
-            brevedesc: "Viaje pelas vastas extensões do oeste americano e do México em Red Dead Redemption.", //um pequeno texto (+/- este tamanho)
-            desc: "Quando agentes federais ameaçam sua família, o ex-bandido John Marston é forçado a caçar a gangue de criminosos que ele já chamou de amigos.",  // Descrição do jogo
-            Dataupload: "12/20/2023", // nao mexes
+            Imag: "spotify.png",  //deixa vazio por agora
+            Nome: "Spotify", //nome do jogo
+            brevedesc: "MOBILE", //um pequeno texto (+/- este tamanho)
+            desc: "Spotify é um provedor sueco de serviços de mídia e streaming de áudio fundado em 23 de abril de 2006 por Daniel Ek e Martin Lorentzon",  // Descrição do jogo
+            Dataupload: "11/03/2024", // nao mexes
 
             // Minimos
             RequisitosMinimos:
             "<br>"+
-            "Sistema Operacional (SO): Windows 7 em versão Service Pack 1 (6.1.7601) ou superior"+  //Sistema Operacional
+            " "+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i7-4770K / AMD Ryzen 5 1500X"+ //Processador
+            " "+ //Processador
             "<br>"+
-            "Memória RAM: 12 GB"+ //Memória ram
+            " "+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB"+ //Placa de Vídeo
+            " "+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento:  150 GB de espaço livre"+ //Armazenamento 
+            " "+ //Armazenamento 
             "<br>",
 
             // Recomendados
@@ -9077,13 +9077,13 @@ let games = [
             "<br>"+
             " "+ //Armazenamento 
             "<br>",
-            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "https://mega.nz/file/Ez1AHRQA#Vz0_4PdPX8L1-SrxvA-BoLtyYsi63aB-NtEzp_FrnEE", //Link DO Mega
-            mediafire: "", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:5NT6NACXZ5VZXWQPISSN2TVGBQ6CGFXX&dn=Red%20Dead%20Redemption%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969",
-            drive:"https://drive.google.com/file/d/1FBfF5O3fD-JjK6YzKe18l7AgE-1fbBsc/view?usp=drive_link",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/6w21s8cj0i9hod8/Spotify_X_19.9.77.600_%5BBy_Nuvem_Azul%5D.apk/file", //Link MediaFire
+            magnet:"",
+            drive:"",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
 
@@ -27465,8 +27465,535 @@ let games = [
             magnet:"magnet:?xt=urn:btih:FY6RQI4CJY7EDQT7OPKRGUTXVVFC7XD4&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce", //Link Magnet
             drive:"https://drive.google.com/file/d/1W_c0OHRjr_dGWf6KkNI8KM7lP6bMiOKO/view?usp=sharing",  //Link Drive
         },
-];
 
+        {
+            id: "602", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "capcut.png",  //imagem 500x500
+            Nome: "CapCut", //nome do jogo
+            brevedesc: "MOBILE", //um pequeno texto (+/- este tamanho)
+            desc: "CapCut, anteriormente conhecido internacionalmente como ViaMaker, é um aplicativo chinês de edição de vídeo curto desenvolvido pela ByteDance.",  // Descrição do jogo
+            Dataupload: "11/03/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/4t9tvstak4ve19e/CapCut_13.0.0_%5BBy_Nuvem_Azul%5D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "603", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "YouTube.png",  //imagem 500x500
+            Nome: "YouTube", //nome do jogo
+            brevedesc: "MOBILE", //um pequeno texto (+/- este tamanho)
+            desc: "O  YouTube é uma plataforma de compartilhamento de vídeos lançada em 2005, onde usuários podem assistir, enviar e interagir com vídeos de diversos formatos e conteúdos, como tutoriais, vlogs, músicas, documentários e muito mais.",  // Descrição do jogo
+            Dataupload: "11/03/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/tn7rkdgcz58ez20/YouTube_19.09.37_%5BBy_Nuvem_Azul%5D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "604", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "APE.png",  //imagem 500x500
+            Nome: "Adobe Photoshop Express", //nome do jogo
+            brevedesc: "MOBILE", //um pequeno texto (+/- este tamanho)
+            desc: "O Adobe Photoshop Express é uma versão simplificada do popular software de edição de imagens Adobe Photoshop, projetada para dispositivos móveis e de fácil uso para iniciantes e entusiastas. Com recursos essenciais, ele permite que usuários ajustem brilho, contraste, apliquem filtros, removam imperfeições e realizem edições rápidas em fotos de maneira intuitiva.",  // Descrição do jogo
+            Dataupload: "11/03/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/d3bo7lyebhmau9u/Adobe_Photoshop_Express_16.3.250_%5BBy_Nuvem_Azul%5D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "605", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "AM.png",  //imagem 500x500
+            Nome: "Alight Motion", //nome do jogo
+            brevedesc: "MOBILE", //um pequeno texto (+/- este tamanho)
+            desc: "O Alight Motion é um aplicativo de edição de vídeo e animação para dispositivos móveis, conhecido por sua interface intuitiva e uma ampla gama de ferramentas avançadas.",  // Descrição do jogo
+            Dataupload: "11/03/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/fddm8ovzz9x0pwd/Alight_Motion_5.0.270.1002578_%5BBy_Nuvem_Azul%5D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "606", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "SnapTik.png",  //imagem 500x500
+            Nome: "SnapTik", //nome do jogo
+            brevedesc: "MOBILE", //um pequeno texto (+/- este tamanho)
+            desc: "O SnapTik é uma ferramenta online que permite baixar vídeos do TikTok sem a marca d'água. Muito usada por quem deseja salvar e compartilhar vídeos de maneira limpa, sem o logotipo do TikTok, a plataforma é acessível via navegador e também possui um aplicativo para dispositivos móveis.",  // Descrição do jogo
+            Dataupload: "11/03/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/9j3yc1nd37omlw6/SnapTik_4.12_%5BBy_Nuvem_Azul%5D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "607", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "mobizen.png",  //imagem 500x500
+            Nome: "Mobizen", //nome do jogo
+            brevedesc: "MOBILE", //um pequeno texto (+/- este tamanho)
+            desc: "O Mobizen é um aplicativo de gravação de tela e espelhamento para dispositivos móveis, especialmente popular entre gamers, criadores de conteúdo e profissionais que desejam capturar o que acontece na tela do smartphone ou tablet.",  // Descrição do jogo
+            Dataupload: "11/03/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/rm7clvv94do2uol/Mobizen_3.5.1.8_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "608", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "YTS.png",  //imagem 500x500
+            Nome: "Youtube Studio", //nome do jogo
+            brevedesc: "MOBILE", //um pequeno texto (+/- este tamanho)
+            desc: "O YouTube Studio é a plataforma de gerenciamento para criadores de conteúdo no YouTube, onde é possível administrar e otimizar canais e vídeos.",  // Descrição do jogo
+            Dataupload: "11/03/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/0h86jvcfqkq0h7d/YT_Studio_22.32.100_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "609", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "PS.png",  //imagem 500x500
+            Nome: "Adobe Photoshop", //nome do jogo
+            brevedesc: "PC", //um pequeno texto (+/- este tamanho)
+            desc: "O Adobe Photoshop é um software de edição de imagens bidimensionais do tipo raster integrante do pacote Adobe Creative Cloud, desenvolvido pela Adobe Systems.",  // Descrição do jogo
+            Dataupload: "11/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/7z7hv710uagdhv1/Adobe_Photoshop_2024_%28v25.9.1%29_Multilingual_%5BBy_Nuvem_Azul%5D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:T5DCGONQOI7SD5HHJXBSLY7PZA2AUK63&dn=Photoshop.2024&tr=http%3A%2F%2Frutracker.ru%2Fbt%2Fannounce.php%3Fuk%3Dt20aYurVqw", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "610", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "W-F.png",  //imagem 500x500
+            Nome: "Wondershare Filmora", //nome do jogo
+            brevedesc: "PC", //um pequeno texto (+/- este tamanho)
+            desc: "O Wondershare Filmora é um editor de vídeo voltado para usuários que buscam uma interface intuitiva com recursos avançados para criação e edição. Ele é amplamente usado para criar vídeos para redes sociais, projetos pessoais e até mesmo comerciais, graças à sua combinação de facilidade de uso e ferramentas robustas.",  // Descrição do jogo
+            Dataupload: "11/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/x1uxfpiy63jmmn4/Wondershare_Filmora_13.3.12.7152_%28x64%29_%5BBy_Nuvem_Azul%5D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:364JCRNU2ZPNQUSZV4J37ORBUFUCZGVI&dn=Wondershare%20Filmora%2013.3.12.7152%20(x64)&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "611", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "AI.png",  //imagem 500x500
+            Nome: "Adobe Illustrator", //nome do jogo
+            brevedesc: "PC", //um pequeno texto (+/- este tamanho)
+            desc: "O Adobe Illustrator 2024 é a mais recente versão do software líder em design gráfico vetorial, amplamente usado por designers, ilustradores e artistas para criar gráficos, logotipos, ilustrações e layouts para impressão e mídias digitais.",  // Descrição do jogo
+            Dataupload: "11/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/zcc8snca02wyoe2/Adobe_Illustrator_2024_v28.5.0.132_%2864x%29_%5BBy_Nuvem_Azul%5D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:RCHJUZWAWMKTBBZWMI7SZ57KNSY4K6N3&dn=Adobe%20Illustrator%202024%20v28.5.0.132%20(x64)&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "612", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "FL-STDO.png",  //imagem 500x500
+            Nome: "FL Studio", //nome do jogo
+            brevedesc: "PC", //um pequeno texto (+/- este tamanho)
+            desc: "O FL Studio (anteriormente conhecido como FruityLoops) é um dos softwares mais populares para produção musical, utilizado por produtores, DJs e compositores ao redor do mundo. Desenvolvido pela Image-Line, ele é uma Digital Audio Workstation (DAW) poderosa, conhecida por sua interface amigável e ferramentas versáteis que permitem criar, editar, mixar e masterizar músicas de alta qualidade.",  // Descrição do jogo
+            Dataupload: "11/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/s10sbru7zjpq7li/FL_Studio_Producer_Edition_%5BBy_Nuvem_Azul%5D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:OLPUSA6WF7EA5D4EQG56UNLEQMWK4IHQ&dn=Image-Line%20FL%20Studio%20Producer%20Edition%2021.2.3%20Build%204004%20(x64)&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "613", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "LossLess.png",  //imagem 500x500
+            Nome: "Lossless Scaling", //nome do jogo
+            brevedesc: "PC", //um pequeno texto (+/- este tamanho)
+            desc: "Lossless Scaling é uma ferramenta de software projetada para melhorar a qualidade visual de jogos e aplicativos ao redimensioná-los para uma resolução maior sem comprometer a nitidez e a qualidade original. Este software é muito útil especialmente para jogos que não oferecem suporte nativo a resoluções específicas, como 4K, permitindo que o jogo rode em uma resolução mais baixa (por exemplo, 1080p) e, então, seja ampliado para preencher a tela inteira, mantendo uma qualidade de imagem aprimorada.",  // Descrição do jogo
+            Dataupload: "11/05/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"https://drive.google.com/file/d/1OGu0rGWm4Hi7ZCm0YrSCBqRMhrIRFRuL/view",  //Link Drive
+        },
+];
 
 
 
