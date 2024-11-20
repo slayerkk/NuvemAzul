@@ -27993,6 +27993,589 @@ let games = [
             magnet:"", //Link Magnet
             drive:"https://drive.google.com/file/d/1OGu0rGWm4Hi7ZCm0YrSCBqRMhrIRFRuL/view",  //Link Drive
         },
+
+        {
+            id: "614", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "adobe-acrobat-pro.png",  //imagem 500x500
+            Nome: "Adobe Acrobat Pro", //nome do programa
+            brevedesc: "PC", //plataforma do programa
+            desc: "O Adobe Acrobat Pro é um software avançado para criação, edição, conversão e gerenciamento de arquivos PDF, ideal para uso profissional. Ele permite editar textos e imagens em PDFs, converter documentos para formatos como Word e Excel, adicionar assinaturas digitais, proteger arquivos com senhas, organizar páginas e criar formulários interativos. Também inclui ferramentas de OCR para transformar imagens em PDFs pesquisáveis. Disponível por assinatura, é compatível com Windows, macOS e dispositivos móveis, oferecendo uma solução completa para manipulação de PDFs com segurança e eficiência.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/0w2yu1l2so8jisc/Adobe_Acrobat_Pro_2024.004.20220_RePack_by_KpoJIuK_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "615", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "after-effects.png",  //imagem 500x500
+            Nome: "Adobe After Effects", //nome do programa
+            brevedesc: "PC", //plataforma do programa
+            desc: "O Adobe After Effects é um software profissional de composição digital, animação e efeitos visuais, amplamente utilizado na pós-produção de vídeos e filmes. Ele permite criar gráficos animados, adicionar efeitos visuais complexos, compor cenas tridimensionais e integrar elementos visuais com precisão. Com ferramentas poderosas para keyframes, tracking, máscaras e chroma key, o After Effects é ideal para criar transições dinâmicas, textos animados, efeitos especiais cinematográficos e composições avançadas. Compatível com outros programas da Adobe, como Premiere Pro e Photoshop, é uma ferramenta indispensável para editores de vídeo, designers e artistas de motion graphics.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/iwqa68eg1bq6gan/Adobe_After_Effects_2025_25.0.1.2_RePack_by_KpoJIuK.exe_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "616", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "photoshop-lightroom.png",  //imagem 500x500
+            Nome: "Adobe Photoshop Lightroom", //nome do programa
+            brevedesc: "PC", //plataforma do programa
+            desc: "O Adobe Photoshop Lightroom é um software voltado para edição e organização de fotos, amplamente utilizado por fotógrafos e entusiastas da imagem. Ele oferece ferramentas avançadas para ajustar iluminação, cores, nitidez e outros aspectos visuais das fotografias, mantendo a qualidade original dos arquivos. O Lightroom permite catalogar e organizar grandes coleções de imagens com eficiência, usando tags, metadados e álbuns. Também inclui recursos de edição não destrutiva, permitindo que os ajustes sejam revertidos a qualquer momento. Disponível para desktop, dispositivos móveis e na nuvem, o Lightroom é ideal para quem busca aprimorar fotos de forma criativa e profissional.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/awqz0k1kvsr3hyt/Adobe_Photoshop_Lightroom_Classic_2024_14.0.1.1_RePack_by_KpoJIuK.exe_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "617", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "coreldraw.png",  //imagem 500x500
+            Nome: "CorelDRAW Graphics Suite", //nome do programa
+            brevedesc: "PC", //plataforma do programa
+            desc: "O CorelDRAW Graphics Suite é um conjunto de softwares profissionais para design gráfico, amplamente utilizado em criação de logotipos, ilustrações vetoriais, layouts, edição de imagens e tipografia. Sua principal ferramenta permite criar gráficos vetoriais precisos, enquanto outros aplicativos da suíte, como o Corel PHOTO-PAINT, são voltados para edição de fotos. Ele inclui recursos avançados para desenho, manipulação de cores, efeitos criativos e integração com diferentes formatos de arquivo. Conhecido pela interface intuitiva e alta personalização, ele é uma solução completa para designers gráficos, ilustradores e profissionais de marketing.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/j7296ae0fwj6m6p/CorelDRAW_Graphics_Suite_2024_25.2.0.301_RePack_by_KpoJIuK_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "618", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "vmware-workstation-pro.png",  //imagem 500x500
+            Nome: "VMware Workstation Pro", //nome do programa
+            brevedesc: "PC", //plataforma do programa
+            desc: "O VMware Workstation Pro é um software de virtualização avançado que permite criar, executar e gerenciar várias máquinas virtuais (VMs) em um único computador físico. Ele é amplamente utilizado por desenvolvedores, administradores de TI e profissionais de software para testar sistemas operacionais, aplicativos e configurações em ambientes isolados. Com suporte a uma ampla gama de sistemas operacionais, o Workstation Pro oferece recursos como snapshots, clonagem de VMs, integração com redes virtuais e compatibilidade com nuvens e ambientes remotos. Sua interface intuitiva e desempenho robusto o tornam ideal para desenvolvimento, testes e demonstração de software em um ambiente seguro e controlado.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/7jv7l33zhi62aoa/VMware_Workstation_Pro_17.6.1_%252B_Key_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "619", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "pdfelement.png",  //imagem 500x500
+            Nome: "Wondershare PDFelement", //nome do programa
+            brevedesc: "PC", //plataforma do programa
+            desc: "O Wondershare PDFelement é um software multifuncional para edição, criação, conversão e gerenciamento de arquivos PDF, projetado para facilitar o trabalho com documentos. Ele oferece ferramentas para editar textos e imagens diretamente no PDF, converter arquivos para formatos como Word, Excel e PowerPoint, criar formulários interativos, adicionar anotações e aplicar assinaturas digitais. Também inclui recursos de OCR (Reconhecimento Óptico de Caracteres) para transformar PDFs escaneados em documentos pesquisáveis e editáveis. Com uma interface intuitiva e acessível, o PDFelement é uma solução econômica e eficaz para usuários que buscam controlar e personalizar seus PDFs de maneira profissional.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/qj30fqh4igmlcmm/Wondershare_PDFelement_11.0.7.3119_RePack_by_elchupacabra_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "6120", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "notion.png",  //imagem 500x500
+            Nome: "Notion", //nome do programa
+            brevedesc: "MOBILE", //plataforma do programa
+            desc: "O Notion é um aplicativo versátil de produtividade que combina ferramentas para organização, colaboração e gestão de informações em um único espaço. Ele permite criar e personalizar páginas para anotações, tarefas, calendários, wikis, bancos de dados e projetos, adaptando-se a diferentes fluxos de trabalho, desde pessoais até corporativos. Com suporte para colaboração em tempo real, o Notion é ideal para equipes que desejam centralizar documentos e projetos, além de oferecer integrações com outras ferramentas. Sua interface intuitiva e flexível possibilita a criação de sistemas totalmente personalizados para aumentar a eficiência e a organização. Disponível para dispositivos móveis, desktop e web, é amplamente utilizado por estudantes, profissionais e empresas.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/iv41qp1ojssu9u8/com-mod-download-notionpremium-unlocked-all-mod-apk-v0-6-374-for-android-0-6-374-6374_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "621", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "evernote.png",  //imagem 500x500
+            Nome: "Evernote", //nome do programa
+            brevedesc: "MOBILE", //plataforma do programa
+            desc: "O Evernote é um aplicativo de organização e produtividade projetado para capturar, armazenar e gerenciar informações em um só lugar. Ele permite criar notas em texto, adicionar imagens, listas de tarefas, gravações de áudio e arquivos anexados, organizando tudo em cadernos e com tags para facilitar a busca. Com sincronização em tempo real, o Evernote é acessível em dispositivos móveis, desktop e na web, permitindo que os usuários acessem suas informações de qualquer lugar. Amplamente usado por estudantes, profissionais e equipes, o Evernote oferece ferramentas para colaboração, lembretes e integrações com outros aplicativos, tornando-se um aliado para melhorar a organização pessoal e profissional.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/iv41qp1ojssu9u8/com-mod-download-notionpremium-unlocked-all-mod-apk-v0-6-374-for-android-0-6-374-6374_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "622", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "headspace.png",  //imagem 500x500
+            Nome: "HeadSpace", //nome do programa
+            brevedesc: "MOBILE", //plataforma do programa
+            desc: "O Headspace é um aplicativo de meditação e bem-estar projetado para ajudar os usuários a melhorar a saúde mental e emocional por meio de práticas guiadas. Ele oferece sessões de meditação para reduzir o estresse, melhorar o foco, promover o sono e aumentar a consciência emocional. Com uma interface intuitiva, o aplicativo inclui programas para iniciantes e usuários avançados, além de exercícios rápidos para momentos específicos do dia. Também apresenta conteúdo relacionado a mindfulness, respiração e desenvolvimento pessoal. Ideal para quem busca incorporar hábitos saudáveis à rotina, o Headspace é acessível em dispositivos móveis e plataformas digitais, promovendo uma vida mais equilibrada e tranquila.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/uwv92prkehoqqus/com-mod-headspace-mindful-meditation-mod-apk-4-128-1-264455_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "623", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "rave.png",  //imagem 500x500
+            Nome: "Rave", //nome do programa
+            brevedesc: "MOBILE", //plataforma do programa
+            desc: "O Rave é um aplicativo social que permite assistir a vídeos, filmes e programas em tempo real com amigos ou outras pessoas ao redor do mundo, sincronizando a reprodução em diferentes dispositivos. Ele suporta plataformas populares como YouTube, Netflix, Prime Video e mais, além de possibilitar o envio de arquivos pessoais para assistir em grupo. O aplicativo também inclui um chat ao vivo por texto e voz, facilitando a interação enquanto se compartilha conteúdo. Disponível para dispositivos móveis e desktops, o Rave é ideal para criar experiências de streaming compartilhadas, promovendo diversão e conexão social à distância.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/03et7hl89rlxrfr/com-mod-rave-mod-apk-unlocked-premium-6-1-32-1792_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "624", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "zoom.png",  //imagem 500x500
+            Nome: "Zoom", //nome do programa
+            brevedesc: "MOBILE", //plataforma do programa
+            desc: "O Zoom é um aplicativo de videoconferência e comunicação amplamente utilizado para reuniões virtuais, webinars, aulas online e chamadas de áudio e vídeo. Ele oferece suporte para alta qualidade de vídeo, compartilhamento de tela, gravação de reuniões e interatividade com ferramentas como enquetes, quadro branco e salas simultâneas (breakout rooms). Ideal para ambientes corporativos, educacionais e sociais, o Zoom é conhecido por sua facilidade de uso e confiabilidade, mesmo em conexões de internet mais lentas. Disponível para dispositivos móveis, desktops e navegadores, o Zoom permite conectar pessoas em qualquer lugar do mundo, promovendo colaboração e interação em tempo real.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/kajq11fdfp9u202/com-mod-zoom-cloud-meetings-mod-apk-v5-4-7-946-54007_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "625", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "shazam.png",  //imagem 500x500
+            Nome: "Shazam", //nome do programa
+            brevedesc: "MOBILE", //plataforma do programa
+            desc: "O Shazam é um aplicativo de reconhecimento de música que identifica canções em segundos com base em trechos capturados pelo microfone do dispositivo. Ele fornece informações como título da música, artista, álbum e links para ouvir em plataformas de streaming como Spotify e Apple Music. Além disso, o aplicativo salva o histórico das músicas identificadas e pode recomendar faixas relacionadas. Com uma interface simples e rápida, o Shazam é uma ferramenta popular para amantes da música que desejam descobrir ou relembrar canções instantaneamente. Disponível para dispositivos móveis, desktops e como recurso integrado em assistentes virtuais.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/pqyofas75su5ta5/up-mod-shazam-find-music-concerts-mod-apk-14-49-1-241028-1404910_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+
+        {
+            id: "626", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "terabox.png",  //imagem 500x500
+            Nome: "Terabox", //nome do programa
+            brevedesc: "MOBILE", //plataforma do programa
+            desc: "O TeraBox é um serviço de armazenamento em nuvem que oferece espaço gratuito e seguro para salvar, acessar e compartilhar arquivos online. Com suporte para upload e download de fotos, vídeos, documentos e outros tipos de mídia, ele permite gerenciar grandes volumes de dados com facilidade. Um dos destaques do TeraBox é o generoso espaço inicial gratuito, que pode ser expandido com assinaturas premium. Ele também oferece backup automático de fotos e vídeos do dispositivo, recursos de compartilhamento de links e proteção com senha para arquivos importantes. Compatível com dispositivos móveis, desktops e navegadores, o TeraBox é uma solução prática para armazenamento e sincronização de dados na nuvem.",  // Descrição do programa
+            Dataupload: "11/20/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            " "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "APP", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/n5d6978nib83c7w/up-mod-terabox-mod-apk-unlocked-premium-3-36-0-460_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
 ];
 
 
