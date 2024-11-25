@@ -5877,44 +5877,44 @@ let games = [
             id: "133", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
             Imag: "poppy-playtime.png",  //deixa vazio por agora
             Nome: "Poppy Playtime", //nome do jogo
-            brevedesc: "Explore as instalações misteriosas... e não seja pego.", //um pequeno texto (+/- este tamanho)
-            desc: "Tente sobreviver aos brinquedos vingativos que espreitam na fábrica de brinquedos abandonada. Use seu Grabpack para manipular circuitos elétricos ou pegar qualquer coisa à distância.",  // Descrição do jogo
-            Dataupload: "12/20/2023", // nao mexes
+            brevedesc: "Todos os três capítulos de Poppy Playtime.", //um pequeno texto (+/- este tamanho)
+            desc: "Tente sobreviver aos brinquedos vingativos que espreitam na fábrica de brinquedos abandonada.",  // Descrição do jogo
+            Dataupload: "11/23/2024", // nao mexes
 
             // Minimos
             RequisitosMinimos:
             "<br>"+
-            "SO: Windows 10"+  //Sistema Operacional
+            "SO: 64-bit Windows 10 or 64-bit Windows 11"+  //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5"+ //Processador
+            "Processador: Core i3-8100 or Ryzen 3 1200"+ //Processador
             "<br>"+
             "Memória: 8 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Nvidia GeForce GTX 1060 / Radeon RX 580"+ //Placa de Vídeo
+            "Placa de vídeo: GeForce GT 1030 2GB or RX 550 2GB"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
             "<br>",
 
             // Recomendados
             RequisitosRecomendados: 
             "<br>"+
-            "SO: Windows 10"+ //Sistema Operacional
+            "SO: 64-bit Windows 10 or 64-bit Windows 11"+ //Sistema Operacional
             "<br>"+
-            "Processador: Intel Core i5"+ //Processador
+            "Processador: Intel Core i5-10600 or Ryzen 5 2600"+ //Processador
             "<br>"+
-            "Memória: 8 GB de RAM"+ //Memória ram
+            "Memória: 16 GB de RAM"+ //Memória ram
             "<br>"+
-            "Placa de vídeo: Nvidia GeForce GTX 1060 / Radeon RX 580"+ //Placa de Vídeo
+            "Placa de vídeo: Geforce RTX 2060 8GB or Radeon RX 6600XT 8GB"+ //Placa de Vídeo
             "<br>"+
-            "Armazenamento: 20 GB de espaço disponível"+ //Armazenamento 
+            "Armazenamento: 60 GB de espaço disponível"+ //Armazenamento 
             "<br>",
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "https://mega.nz/file/Fq8Qhaob#mdODH-75TIIa4vQxxvrFIwJRvfo3hPsFeonSipU1K0s", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/rcqozcj5vlgy634/Poppy_Playtime_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:FFKLBDRU4PFOJWTVTUM4B6JH7Z2Y3O5B&dn=Poppy.Playtime-DARKSiDERS&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce",
-            drive:"https://drive.google.com/file/d/1TUDkrPRy4C9YEsV5M0phASXC282MlTRq/view",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/CugV1AqJ#WiraBecyBoI9ycN415mPBrT4va4kGQ1_HoIkt8ItZBI", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/eit2z1q34mjuxb0/Poppy_Playtime_v27.261_%252B_All_3_Chapters_%252B_Windows_7_Fix_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:JG3FJZ67ME4BC3PWR5BC4SYSPRVUEXKI&dn=Poppy%20Playtime%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969",
+            drive:"https://drive.google.com/file/d/107STB_xR31BAFmNdCaAICHLsvpZtfb8g/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
 
@@ -28575,6 +28575,226 @@ let games = [
             mediafire: "https://www.mediafire.com/file/n5d6978nib83c7w/up-mod-terabox-mod-apk-unlocked-premium-3-36-0-460_%255BBy_Nuvem_Azul%255D.apk/file", //Link MediaFire
             magnet:"", //Link Magnet
             drive:"",  //Link Drive
+        },
+
+        {
+            id: "627", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "luma-island.png",  //imagem 500x500
+            Nome: "Luma Island", //nome do jogo
+            brevedesc: "Aventure-se em uma ilha misteriosa, resolvendo desafios e explorando segredos.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Viaje para a Luma Island para embarcar em uma aventura épica sozinho ou com seus amigos e familiares. Construa a fazenda dos seus sonhos, domine profissões, colete Lumas mágicos, encontre tesouros e desvende os mistérios da ilha.",  // Descrição do jogo
+            Dataupload: "11/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GTX 1060"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 7 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i7"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GTX 1660Ti"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 12 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/X6JHTbxb#MpFDkqU-lArdNqg99lCTNZ-aZIi78aUldQhS-Q_1Bww", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/tp9paahrcr0vqmk/Luma_Island_%2528onlinefix_incluso%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:IXY4QZFQDHJJHCJNCROXAKF474KRJIXI&dn=Luma%20Island&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1XaXR0T4r0jQL6SHuMSQz2fPYZyMzrXPP/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "628", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "silent-hill-2-remake.png",  //imagem 500x500
+            Nome: "Silent Hill 2 Remake", //nome do jogo
+            brevedesc: "Explore um mundo sombrio e aterrorizante enquanto enfrenta seus próprios medos.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Silent Hill 2 Remake é uma recriação moderna do clássico jogo de terror psicológico, trazendo gráficos impressionantes, áudio imersivo e uma narrativa profundamente emocional. Os jogadores acompanham James Sunderland em sua jornada sombria pela cidade de Silent Hill, enquanto enfrenta criaturas macabras e explora locais misteriosos em busca de respostas sobre uma carta recebida de sua falecida esposa. Com novos elementos visuais e mecânicas aprimoradas, o remake preserva a essência do original, ao mesmo tempo que proporciona uma experiência renovada e aterrorizante para fãs antigos e novos.",  // Descrição do jogo
+            Dataupload: "11/22/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 x64"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-6700K | AMD Ryzen 5 3600"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA® GeForce® GTX 1070 Ti or AMD Radeon™ RX 5700 or Intel® Arc™ A750"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 x64"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-8700K | AMD Ryzen 5 3600X"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA® GeForce® 2080RTX or AMD Radeon™ 6800XT"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 50 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/an4mma4A#bDlgCizE2_Zut1VG25RAM9nvotH_djS1Ekv6Kwf0Wlc", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/dtvvwgfxldf4g55/Silent_Hill_2_Digital_Deluxe_Edition_%2528v1.1.236.114_4_DLCs-Bonuses%252C_MULTi14%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:7OEPE26WIDQMIOTVANAZK2HBFPRBVEEY&dn=Silent%20Hill%202%20-%20Remake%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1N_jqxdlGOTaSfHewVeZ9b7-5gF4eawMX/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "629", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "stalker-2.png",  //imagem 500x500
+            Nome: "S.T.A.L.K.E.R. 2: Heart of Chornobyl", //nome do jogo
+            brevedesc: "Sobreviva em uma zona radioativa mortal, explorando segredos e enfrentando perigos.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Explore a vasta Zona de Exclusão de Tchornóbil, repleta de inimigos perigosos, anomalias letais e artefatos poderosos. Viva a sua própria história épica enquanto tenta alcançar o Coração de Tchornóbil.",  // Descrição do jogo
+            Dataupload: "11/23/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 x64 / Windows 11 x64"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-7700K / AMD Ryzen 5 1600X"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB / Intel Arc A750"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 160 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 x64 / Windows 11 x64"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7-11700 / AMD Ryzen 7 5800X"+ //Processador
+            "<br>"+
+            "Memória RAM: 32 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce RTX 3070 Ti / Nvidia GeForce RTX 4070 / AMD Radeon RX 6800 XT"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 160 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/CuwwhagJ#vhGb1k1Axgnwk_gmD_41VveuHkRh2KWsiMPBgYDDon4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/zt2vmpybf3uxvfp/S.T.A.L.K.E.R._2_Heart_of_Chornobyl_%25E2%2580%2593_Ultimate_Edition_%2528Update_1_%252B_All_DLCs_%252B_Bonus_Content_%252B_MULTi18%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:4BTTNZVYXFERXA4GV347CB2DRDWSIIHB&dn=Stalker%202%20Heart%20of%20Chornobyl%20-%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce", //Link Magnet
+            drive:"https://drive.google.com/file/d/1dEAJZ_1I_IUhkBUShSrNS5NtmkcO3ESC/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "630", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "content-warning.png",  //imagem 500x500
+            Nome: "Content Warning", //nome do jogo
+            brevedesc: "Filme seus amigos fazendo coisas assustadoras para ganhar fama no SpöökTube!", //um pequeno texto (+/- 70 caracteres)
+            desc: "Fique famoso ou morra tentando! Content Warning é um jogo de terror cooperativo em que você deve filmar coisas assustadoras com seus amigos para tentar viralizar.",  // Descrição do jogo
+            Dataupload: "11/23/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Win 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5 @ 2.5 GHz or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1050 ti or AMD R9 380"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Win 11"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1060 or AMD RX 470 or equivalent"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/b6x2WZaQ#0ab2_NLiQOH0L1LGasOSFWjRok6vVP922Qi-e-eO9B4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/8z9mfovokcdvduo/Content_Warning_v1.17.b_%2528onlinefix_incluso%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:3XJN5YVINCCKSOUGXNKPT2B7QGVERIH6&dn=Content%20Warning&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"https://mega.nz/file/b6x2WZaQ#0ab2_NLiQOH0L1LGasOSFWjRok6vVP922Qi-e-eO9B4",  //Link Drive
+        },
+
+        {
+            id: "631", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "worldbox.png",  //imagem 500x500
+            Nome: "WorldBox - God Simulator", //nome do jogo
+            brevedesc: "Crie e molde um mundo vivo, controlando civilizações e desastres épicos.", //um pequeno texto (+/- 70 caracteres)
+            desc: "WorldBox - God Simulator é um jogo de simulação onde os jogadores assumem o papel de uma divindade, criando e moldando um mundo vivo e dinâmico. Com poderes divinos, é possível gerar terrenos, criar climas, dar vida a diferentes espécies e civilizações, ou até mesmo causar caos com desastres naturais e monstros. O jogo apresenta um estilo artístico pixelado e encantador, permitindo total liberdade para construir, observar e interagir com o ecossistema em constante evolução. Ideal para quem gosta de experimentar, criar histórias únicas ou simplesmente assistir ao desenrolar de um mundo que reage a cada escolha do jogador.",  // Descrição do jogo
+            Dataupload: "11/23/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 2.0 Ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 2.5 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 128mb Video Memory, capable of Shader Model 2.0+"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 300 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Dual Core 3.0 Ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 256mb Video Memory, capable of Shader Model 2.0+"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 300 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/T2phBaTa#vV6xWoAohQjOqkzKqiSNeDzXD71bKPgVCoHFLvGGxCY", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/cqomgsi1q9vwbar/WorldBox_-_God_Simulator_%255BP%255D_%255BRUS_%252B_ENG_%252B_25%255D__%2528v0.22.9%2529_%255BPortable%255D_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:7C7YQWIJ6HYJVCTG7LAFFCAXN2TMPGVN&dn=WorldBox_v0.22.9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1wjctn0bBSlCQI8U06eubrwIPZ5fc8Eru/view?usp=sharing",  //Link Drive
         },
 ];
 
