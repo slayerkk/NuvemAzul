@@ -8892,10 +8892,10 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "https://mega.nz/file/93MmRD5J#IBSzbt0IBAxA5_CyQ45h4vbn5mahWDOASQC9q_e15M8", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/ljihgo82u7cykuz/Palworld_%257Eonlinefix_incluso%257E_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:4KKNWBXHOUIJFOKZHPF7D542CEKTZ2OB&dn=Palworld&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
-            drive:"https://drive.google.com/file/d/1vd9Pzxs7LSa9tB2ea3geQHq35RuxzCwD/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/m3Z3kZjC#KFWJG9O_lfpvwTp3KGBH3NL7RqfhnYS8lj3WP-XCmNk", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/ndcu0q8cj640aa2/Palworld.v0.3.10.61184-online_fix_incluso.%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:NSZEPBA6USR7XF6L5YWOJ3YSBXL6WDVJ&dn=Palworld&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+            drive:"https://drive.google.com/file/d/1AFBrYObZWKGXE7TfM2JdfT2iMEZbSXxt/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
 
@@ -9048,7 +9048,7 @@ let games = [
             Nome: "Spotify", //nome do jogo
             brevedesc: "MOBILE", //um pequeno texto (+/- este tamanho)
             desc: "Spotify é um provedor sueco de serviços de mídia e streaming de áudio fundado em 23 de abril de 2006 por Daniel Ek e Martin Lorentzon",  // Descrição do jogo
-            Dataupload: "11/03/2024", // nao mexes
+            Dataupload: "12/08/2024", // nao mexes
 
             // Minimos
             RequisitosMinimos:
@@ -9081,7 +9081,7 @@ let games = [
 
             // LinksDownload
             mega: "", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/6w21s8cj0i9hod8/Spotify_X_19.9.77.600_%5BBy_Nuvem_Azul%5D.apk/file", //Link MediaFire
+            mediafire: "https://www.mediafire.com/file/mu1p4x5atv2jm69/Spotify_v8.9.98.488_%28Premium%29_Wrap_fix.apk/file", //Link MediaFire
             magnet:"",
             drive:"",  //Link Drive (podes deixar estes 3 eu faço)
         },
@@ -28795,6 +28795,534 @@ let games = [
             mediafire: "https://www.mediafire.com/file/cqomgsi1q9vwbar/WorldBox_-_God_Simulator_%255BP%255D_%255BRUS_%252B_ENG_%252B_25%255D__%2528v0.22.9%2529_%255BPortable%255D_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
             magnet:"magnet:?xt=urn:btih:7C7YQWIJ6HYJVCTG7LAFFCAXN2TMPGVN&dn=WorldBox_v0.22.9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
             drive:"https://drive.google.com/file/d/1wjctn0bBSlCQI8U06eubrwIPZ5fc8Eru/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "632", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "jojo-all-star-battle-r.png",  //imagem 500x500
+            Nome: "JoJo's Bizarre Adventure: All-Star Battle R", //nome do jogo
+            brevedesc: "A obra-prima de Hirohiko Araki ganha vida em forma de jogo de luta!", //um pequeno texto (+/- 70 caracteres)
+            desc: "A obra-prima de Hirohiko Araki ganha vida em forma de jogo de luta! Lute com 50 personagens do mundo de JoJo's Bizarre Adventure, com Stands, Hamon e mais! Veja como personagens que nunca se conheceram interagem quando se encontram cara a cara!",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD FX-4350 or Intel Core i3-6300"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 770 or AMD Radeon HD 7950"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD FX-9590 or Intel Core i5-5675C"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GeForce GTX 1060 or AMD Radeon R9 390"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/Ci5BkSQB#lEbACpdlO3_w9IiQWI7I38e80lVqylKAYV4ooESizgg", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/di0iivhymxcl2q5/JoJo%2527s_Bizarre_Adventure_All-Star_Battle_R_%255BP%255D_%255BENG_%252B_8_JPN%255D_%25282022%252C_Fighting%2529_%25282.3.3_%252B_14_DLC%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:YZKXYODNZJZ72KOM6J5ZSUCQJLIC7V63&dn=JoJos.Bizarre.Adventure.All-Star.Battle.R.v2.3.3-TENOKE&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1DF4SbAgB3xPXaACjwpyTsa_pBD1Zc0x0/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "633", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "pojav-launcher.png",  //imagem 500x500
+            Nome: "Pojav Launcher", //nome do jogo
+            brevedesc: "Minecraft Java para Android", //um pequeno texto (+/- 70 caracteres)
+            desc: "",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "Android 5.0"+  //Sistema Operacional
+            "<br>"+
+            "1 GB de RAM"+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Android 8.1"+  //Sistema Operacional
+            "<br>"+
+            "4 GB de RAM"+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "MOBILE", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/h7wk3yaz36jbt9l/Pojav_Launcher_%2528Minecraft_Java_para_Android%2529_%255BBy_Nuvem_Azul%255D.apkm/file", //Link MediaFire
+            magnet:"", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "634", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dont-scream.png",  //imagem 500x500
+            Nome: "DON'T SCREAM", //nome do jogo
+            brevedesc: "O desafio: andar pela floresta por 18 minutos sem gritar. Se gritar, comece novamente.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Uma curta experiência de terror criada no Unreal Engine por dois desenvolvedores. O desafio: andar pela floresta por 18 minutos sem gritar. Se gritar, comece novamente. O tempo avança somente ao se mover. Ideal para assustar amigos e família. Necessário microfone!",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10 (64 bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-9600K or AMD Ryzen 5 3600"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 1050 Ti, 4GB or AMD Radeon RX 470, 4GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 17 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10 (64 bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Ryzen 7 5800X ／ Intel Core i5-12600K"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce RTX 3060 12 GB / RX 6700 XT GAMING 12GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 17 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/XmoXRCbQ#qh1GTpWDc9nie0CJQnHzuiQ2jdGtmUVeGOYxlIAONmw", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/yxhqvefdkikhd15/DON%2527T_SCREAM_%2528v1.0_Release_MULTi17%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:DDYQWEO3VSC3TJKNLGEDWAUT4FM4G3NL&dn=DON'T%20SCREAM%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1pSCmKdlqRe25LCNx3zk7JnJIbG80qDrM/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "635", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "death-road-to-canada.png",  //imagem 500x500
+            Nome: "Death Road to Canada", //nome do jogo
+            brevedesc: "Caos, zumbis e humor enquanto você tenta sobreviver até o Canadá!", //um pequeno texto (+/- 70 caracteres)
+            desc: "Death Road to Canada é um jogo rogue-like repleto de humor, onde você guia um grupo de sobreviventes por uma jornada caótica e imprevisível até o Canadá, o último refúgio seguro do apocalipse zumbi. Com gráficos retrô, decisões difíceis, e combates intensos, o jogo combina ação, elementos de RPG e um toque cômico único. A experiência é ainda mais envolvente com personagens gerados aleatoriamente e eventos cheios de surpresas, tornando cada partida única e desafiadora.",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7, XP, Vista, 8, and newer"+  //Sistema Operacional
+            "<br>"+
+            "Processador: 1.3 ghz"+ //Processador
+            "<br>"+
+            "Memória RAM: 128 MB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Minimum Supported Texture Size 2048x2048"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 60 MB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/nnhUgYRC#8zGvpFRLemOIv_lpcHHgC53VF6ZOBtRjimz6Z9k6Lm0", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/tsezafaok4fep3j/Death_Road_to_Canada_%255BL%255D_%255BENG%255D_%25282016%252C_RPG%2529_%2528mandible-nerve_Update%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:4CVPCQOK6BGOPIC5TKYCZE5WKYXKXYJZ&dn=setup_death_road_to_canada_mandible-nerve_update_(59778).exe&xl=116251824&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1qex3reM3wcHd1xPrnQUixrsqDjmb0I60/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "636", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "liars-bar.png",  //imagem 500x500
+            Nome: "Liar's Bar", //nome do jogo
+            brevedesc: "Mergulhe nesta experiência multijogador online em um bar suspeito, onde os jogos são tão perigosos quanto os clientes.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Entre no Liar's Bar, o ponto de encontro mais sombrio e emocionante da cidade. Este não é um pub comum – é um covil de mentiras, enganações e jogos mentais. Sente-se em uma mesa com quatro jogadores e mergulhe na experiência multijogador online em primeira pessoa, onde astúcia e truques são a chave para vencer.",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows® 10 (64-bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core™ i5-4670 (quad-core) / AMD® FX-Series™ FX-4350 (quad-core)"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA® GeForce® GTX 1050 (2 GB) / AMD® Radeon™ RX-460 (4 GB) / Intel® Arc™ A380 (6 GB)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows® 10 (64-bit)"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core™ i5-7600 (quad-core) / AMD® Ryzen™ 3 2200G (quad-core)"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA® GeForce® RTX 2060 (6 GB) / AMD® Radeon™ RX 580 (8 GB) / Intel® Arc™ A580 (8 GB)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/bnp0iagR#lIilQoZjSo-4QQCBf3zHXVwY4xGU4ds4SLn_ur83M1E", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/y5otamr8vbd15kc/Liar%2527s_Bar_%255BP%255D_%255BENG_%252B_1_ENG%255D_%25282024%252C_Simulation%2529_%2528Build_16556981%2529_%255BPortable%255D_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:AASKV6TVO54QFM3C2KRLPREYLR6HPYHP&dn=Liar's%20Bar%2027.11.24.7z&xl=1695874654&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1fdBjYnzFClKFPl_27J6LCGEX6GnluQxv/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "637", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "gunsmith-simulator.png",  //imagem 500x500
+            Nome: "Gunsmith Simulator", //nome do jogo
+            brevedesc: "Torne-se um armeiro e desvende o grande prazer de trabalhar na sua própria oficina!", //um pequeno texto (+/- 70 caracteres)
+            desc: "Torne-se um armeiro e desvende o grande prazer de trabalhar na sua própria oficina! Conserte, restaure e personalize armas para fazer peças únicas que todos os colecionadores de armas de fogo irão apreciar.",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-4590"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 960 4GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel i5-9400F"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 1070 8GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/XyI2hB6B#SyzOKnJxvxR3lY8EXF0y_3o8355DE4zSi2Tao4C5fgs", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/a36mbi69f6e8bt1/Gunsmith_Simulator_%2528v1.0.5%252C_MULTi16%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:SHPQZE3ZMSWQGKCFDCNJ6OF5BMRCAMSL&dn=Gunsmith%20Simulator%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1D6vnGwiMdyaMiSuXur5_n9AJDGhdZCW9/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "638", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "dying-light.png",  //imagem 500x500
+            Nome: "Dying Light", //nome do jogo
+            brevedesc: "Dying Light é um jogo de ação e sobrevivência em mundo aberto, com zumbis.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Um jogo de ação e sobrevivência em primeira pessoa em um mundo aberto pós-apocalíptico tomado por zumbis comedores de carne humana. Atravesse uma cidade devastada por um vírus misterioso. Procure por suprimentos, crie armas e enfrente os infectados.",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 64-bit / Windows 8 64-bit / Windows 8.1 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core™ i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 560"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 40 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 64-bit / Windows 8 64-bit / Windows 8.1 64-bit"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core™ i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 780"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 40 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/xuda0h4zg9j3vmv/Dying+Light+-+The+Following+EE+[Nuvem+Azul].torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:5NEZNIIHWJVOWD2PDZ62Y5GB6Z67PQ23&dn=Dying%20Light%20-%20The%20Following%20EE%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "639", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "teardown.png",  //imagem 500x500
+            Nome: "Teardown", //nome do jogo
+            brevedesc: "Teardown é um jogo de destruição e quebra-cabeça em ambiente sandbox.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Prepare o assalto perfeito neste mundo voxel simulado e totalmente destrutível. Derrube paredes com veículos ou explosivos para criar atalhos. Empilhe objetos para chegar mais alto. Use o ambiente a seu favor da maneira mais criativa que você puder imaginar.",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Quad Core CPU"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 1060"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i7 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 1080"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 4 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/2o6y9jb919xcel4/Teardown+[Nuvem+Azul].torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:XK3CTC5ILWDSMS3MKDXQRXYLK4PKJI6J&dn=Teardown%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "640", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "SubnauticaBZ.png",  //imagem 500x500
+            Nome: "Subnautica: Below zero", //nome do jogo
+            brevedesc: "Subnautica: Below Zero é um jogo de sobrevivência subaquática em mundo aberto.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Mergulhe em uma aventura submarina congelante em um planeta alienígena. Below Zero se passa dois anos depois do Subnautica original. Sobreviva às condições difíceis construindo habitats, fabricando ferramentas e mergulhando mais fundo no mundo de Subnautica.",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3 4XXX Series"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Intel HD 530 or better"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia 1050 Ti"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 15 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/2qmw704lxk9uvq9/Subnautica+-+Below+Zero+[Nuvem+Azul].torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:RT7AAWRQNAE6GEAD54XJFCNIDSLUQZHU&dn=Subnautica%20-%20Below%20Zero%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "641", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "blazblue-entropy-effect.png",  //imagem 500x500
+            Nome: "BlazBlue Entropy Effect", //nome do jogo
+            brevedesc: "BlazBlue: Entropy Effect é um jogo de luta com mecânicas complexas e história profunda.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Ação de combate artística e magnífica, combos incrivelmente satisfatórios! Numerosos personagens, centenas de movimentos! Este jogo roguelite de ação único proporcionará uma experiência que supera as expectativas.",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 950"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia 1060+"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 8 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/guioq0wzj8mmt2f/BlazBlue+Entropy+Effect+[Nuvem+Azul].torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:5U5CFJ5CVO33BXHYXTJJPORWEZD5CPMF&dn=BlazBlue%20Entropy%20Effect%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "642", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "shadow-warrior-2.png",  //imagem 500x500
+            Nome: "Shadow Warrior 2", //nome do jogo
+            brevedesc: "Shadow Warrior 2 é um jogo de ação em primeira pessoa com combate intenso e humor irreverente.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Shadow Warrior 2 é a estonteante evolução do original shooter em primeira pessoa da Flying Wild Hog, dando continuidade às desventuras do ex-shogun corporativo, Lo Wang.",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8/8.1/10 x64"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-6300 (2 * 3800) or AMD A10-5800K APU (4 * 3800) or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GT 560Ti (1024 MB) or Radeon HD 6850 (1024 MB) or better"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 14 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7/8/8.1/10 x64"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-5675C (4 * 3100) or AMD A10-7850K APU (4 * 3700) or equivalent"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX NVIDIA GeForce GTX 970 / ATI Radeon R9 290 with 4 GB of Video Memory (4096 MB) or Radeon HD 7970 (3072 MB)"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 14 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/r41q74ufza3v93i/Shadow+Warrior+2+[Nuvem+Azul].torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:Y7VXIGRDMMXJZUOPBFOT2Q6ROOB4YXR2&dn=Shadow%20Warrior%202%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710", //Link Magnet
+            drive:"",  //Link Drive
+        },
+
+        {
+            id: "643", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "balatro.png",  //imagem 500x500
+            Nome: "Balatro", //nome do jogo
+            brevedesc: "Balatro é um jogo roguelike de construção de deck com poker e jokers.", //um pequeno texto (+/- 70 caracteres)
+            desc: "O pôquer roguelike. Balatro é um jogo de criação de baralho hipnoticamente satisfatório em que você joga mãos de pôquer ilegais, descobre curingas que mudam o jogo e aciona combos escandalosos e cheios de adrenalina.",  // Descrição do jogo
+            Dataupload: "12/08/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7, 8, 10, 11 x64"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3"+ //Processador
+            "<br>"+
+            "Memória RAM: 1 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: OpenGL 2.1 compatible graphics card, integrated graphics"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: "+  //Sistema Operacional
+            "<br>"+
+            "Processador: "+ //Processador
+            "<br>"+
+            "Memória RAM: "+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: "+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/hyr0at96vgeeb6b/Balatro+[Nuvem+Azul].torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:F3JM43MGDICAZBALW5HZQCAD4VVTK3OM&dn=Balatro%20(2024)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
+            drive:"",  //Link Drive
         },
 ];
 
