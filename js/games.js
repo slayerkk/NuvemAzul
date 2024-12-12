@@ -9,7 +9,7 @@ let games = [
                 Nome: "Forza Horizon 5", //nome do jogo
                 brevedesc: "Explora as vibrantes paisagens do México num mundo aberto.", //um pequeno texto (+/- este tamanho)
                 desc: "Explora as vibrantes paisagens do México num mundo aberto com condução ilimitada e divertida nos melhores carros do mundo. Conquista a acidentada região de Sierra Nueva na derradeira experiência de Rally do Horizon. Requer o jogo Forza Horizon 5.",  // Descrição do jogo
-                Dataupload: "12/20/2023", // nao mexes
+                Dataupload: "12/12/2024", // nao mexes
 
                 // Minimos
                 RequisitosMinimos:
@@ -41,10 +41,10 @@ let games = [
                 plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
                 // LinksDownload
-                mega: "https://mega.nz/file/l6cTDQqY#Xy9psPoh5B6n3arHuP888p4lqCGTqMdtdRaBtAfUiHc", //Link DO Mega
-                mediafire: "", //Link MediaFire
-                magnet:"magnet:?xt=urn:btih:A6MOS6SH6SDG4AQSNT4HEK3D2VFER373&dn=Forza%20Horizon%205%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969",
-                drive:"https://drive.google.com/file/d/1w3CcD1n9z4VzhIhuzUbno4wqcUnWRlnh/view?usp=drive_link",  //Link Drive
+                mega: "https://mega.nz/file/Hn4wHIyI#XHFAWGPBAZLdHtCR4coiymyB8fw5RvGd9LVfw_cgSjs", //Link DO Mega
+                mediafire: "https://www.mediafire.com/file/hqqgckjrmvra19f/Forza.Horizon.5.v1.656.386.0_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+                magnet:"magnet:?xt=urn:btih:NETDU2TG353X47LAA354FBR22UXLOOL3&dn=Forza%20Horizon%205&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+                drive:"https://drive.google.com/file/d/1U-sCnM0fFYCKIwFG0myft_q3nF71xlaf/view?usp=sharing",  //Link Drive
 
         },
 
@@ -3848,7 +3848,7 @@ let games = [
             Nome: "Hollow Knight", //nome do jogo
             brevedesc: "Uma aventura de ação épica em um vasto reino arruinado de insetos e heróis.", //um pequeno texto (+/- este tamanho)
             desc: "Forje seu caminho em Hollow Knight! Uma aventura de ação épica em um vasto reino arruinado de insetos e heróis. Explore cavernas serpenteantes, lute contra criaturas malignas e alie-se a insetos bizarros num estilo clássico 2D desenhado à mão.",  // Descrição do jogo
-            Dataupload: "12/20/2023", // nao mexes
+            Dataupload: "12/12/2024", // nao mexes
 
             // Minimos
             RequisitosMinimos:
@@ -3880,10 +3880,10 @@ let games = [
             plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
 
             // LinksDownload
-            mega: "https://mega.nz/file/NrUgXYbC#bTZoa7JHW7DJpF1wRpVf_Euym5IGHLMVEuGRupvaFTg", //Link DO Mega
-            mediafire: "https://www.mediafire.com/file/v8qv8afe9y358mo/Hollow_Knight_Deluxe_Edition_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
-            magnet:"magnet:?xt=urn:btih:ITW2SMJB3J6NWIVYEKI3CYKLAY3TQXV7&dn=Hollow%20Knight%201.4.3.2%20ElAmigos",
-            drive:"https://drive.google.com/file/d/1OsHJ9ykWOpps-7lFVklQqeyNw9t4X-Tl/view?usp=drive_link",  //Link Drive (podes deixar estes 3 eu faço)
+            mega: "https://mega.nz/file/G7RUGRQA#AL_x-6s8ZIWcDxrXFwk-aJqf8Q1tESUppzdS211xPKE", //Link DO Mega
+            mediafire: "https://www.mediafire.com/file/u0dun086ajzuvq9/Hollow_Knight_%2528v1.5.68.11808_%252B_2_Bonus_OSTs%252C_MULTi10%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:244PGICENLVVATEASBHWOCYGCXIE2XDM&dn=Hollow%20Knight%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710",
+            drive:"https://drive.google.com/file/d/1vXQnYQmqVFOubAbIh-WR2HgPp-uI9I8P/view?usp=sharing",  //Link Drive (podes deixar estes 3 eu faço)
         },
 
         {
@@ -29323,6 +29323,270 @@ let games = [
             mediafire: "https://www.mediafire.com/file/hyr0at96vgeeb6b/Balatro+[Nuvem+Azul].torrent/file", //Link MediaFire
             magnet:"magnet:?xt=urn:btih:F3JM43MGDICAZBALW5HZQCAD4VVTK3OM&dn=Balatro%20(2024)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce", //Link Magnet
             drive:"",  //Link Drive
+        },
+
+        {
+            id: "644", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "life-is-strange-btf.png",  //imagem 500x500
+            Nome: "Life is Strange: Before the Storm Remastered", //nome do jogo
+            brevedesc: "Life is Strange: Before the Storm está de volta, com gráficos de personagens e ambientes remasterizados.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Ambientado três anos antes de Life is Strange, você joga como Chloe Price nos seus 16 anos, quando ela faz uma amizade inesperada com Rachel Amber, uma popular garota destinada ao sucesso. Quando Rachel descobre um segredo sobre sua família que ameaça destruir o mundo, é a sua recente amizade com Chloe que lhe dá forças para seguir em frente. Unidas, as garotas precisam enfrentar seus demônios internos e descobrir como derrotá-los.",  // Descrição do jogo
+            Dataupload: "12/12/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD Phenom II X4 965, 3.2 GHz / Intel Core i3-2100, 3.1 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Radeon R7 250x, 1 GB / GeForce GTX 460, 1 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 23 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: AMD FX-4350, 4.2 GHz / Intel Core i3-4130, 3.4 GHz"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Radeon RX 560, 2 GB / GeForce GTX 1050, 2 GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 23 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/nzQ3QTxa#cW9x16SUYkozXvzBfkQ6b6XX-xo4a8HiQfCGnBpptVE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/574zsacoj17j18b/Life_is_Strange_-_Before_the_Storm_Remastered_%2528%252B_DLC%252C_MULTi9%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:2L56OJ2LYCY57TR54YW5XWZPBF66MPYZ&dn=Life%20is%20Strange%20-%20BtS%20Remastered%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1Cqmdswe2OHphHbH10NLoBDZi5mRZ8uk3/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "645", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "rustler.png",  //imagem 500x500
+            Nome: "Rustler", //nome do jogo
+            brevedesc: "Torne-se um fanfarrão medieval em um jogo maluco de ação em mundo aberto, cheio de referências à cultura pop.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Rustler é um jogo de ação em mundo aberto de visão isométrica que homenageia o estilo de jogo clássico de GTA, em um contexto medieval historicamente impreciso. Jogue no papel de Guy, cujos pais aparentemente foram preguiçosos demais para lhe dar um nome adequado. Vivencie a injustiça feudal, a inquisição, a caça às bruxas e participe do Grande Torneio. Conheça cavaleiros valentes, embora incrivelmente estúpidos. Cumpra uma ampla variedade de missões insanas, ou simplesmente ignore o enredo e instaure o caos entre as cidades e os camponeses. Você pode ir a pé ou montando um cavalo roubado. Lute com uma espada ou escolha uma besta automática sofisticada. Tudo isso somado a um estilo humorístico inapropriado inspirado em Monty Python.",  // Descrição do jogo
+            Dataupload: "12/12/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-3570K"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 780"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Core i7-4790"+ //Processador
+            "<br>"+
+            "Memória RAM: 12 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 1060"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/X3Z2RKYK#bDEiW7hmI19cf4-hn109MAViL3BNhKWmuHwQ9xQjntc", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/8cnkv1uy0t2yhvl/Rustler_%2528v1.03.24_%252B_2_DLCs%252C_MULTi13%2529_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:E6OUGOLAQQHXVX5TKCA7BQLWYKVULDMN&dn=Rustler%20%5BFitGirl%20Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969", //Link Magnet
+            drive:"https://drive.google.com/file/d/1B-df8jFpL-EbBK0xNoxc46QZklsWnyyU/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "646", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "mon-bazou.png",  //imagem 500x500
+            Nome: "Mon Bazou", //nome do jogo
+            brevedesc: "Simulador de mecânica e sobrevivência no Canadá com carros e hambúrgueres.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Mon Bazou é um jogo único que mistura simulação de mecânica automotiva e elementos de sobrevivência no interior do Canadá. Você começa com poucos recursos e deve trabalhar duro, consertando carros, plantando sua própria comida e vendendo hambúrgueres para ganhar dinheiro e montar o veículo dos seus sonhos. Com uma abordagem humorística e relaxante, o jogo oferece uma experiência envolvente para fãs de simulação e customização automotiva.",  // Descrição do jogo
+            Dataupload: "12/12/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7 (SP1+) and Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: x86, x64 architecture with SSE2 instruction set support."+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 500 series or better"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: Windows 7 (SP1+) and Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: x86, x64 architecture with SSE2 instruction set support."+ //Processador
+            "<br>"+
+            "Memória RAM: 6 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GeForce GTX 900 series or better"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/miITXYDI#dn3rJmlBw-8dpzAJOplvfBGXvZMrDFl16WCnI2tjrec", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/p3h33qy9kp9nqe0/Mon_Bazou_%255BP%255D_%255BRUS_%252B_ENG_%252B_18_ENG%255D_%25280.358%2529_%255BPortable%255D_%255BBy_Nuvem_Azul%255D%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:52VDJEOVLB4MF6QRAAKDP7VELP2HJT2G&dn=MonBazou&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1TiVyZYgGFh1oI1KsYSfKlrLhR0O_yOSO/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "647", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "im-on-observation-duty.png",  //imagem 500x500
+            Nome: "I'm on Observation Duty Collection", //nome do jogo
+            brevedesc: "Todos os jogos da franquia I'm on Observation Duty.", //um pequeno texto (+/- 70 caracteres)
+            desc: "",  // Descrição do jogo
+            Dataupload: "12/12/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel® Core™ i5-4690 CPU @ 3.50GHz x 4 or better"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: GTX 970 or better"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 6 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Nâo possui requisitos recomendados"+  //Sistema Operacional
+            "<br>"+
+            ""+ //Processador
+            "<br>"+
+            ""+ //Memória ram
+            "<br>"+
+            ""+ //Placa de Vídeo
+            "<br>"+
+            " "+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/6iJzkLJI#_4toUXDBxj2MDKfgFuIy0e5kCRVpmweCc8PwQMPVqY4", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/vcpxy3djiwdocnf/I%2527m_on_Observation_Duty_1_%252B_2_%252B_3_%252B_4_%252B_5_%252B_6_%252B_7_%255BP%255D_%255BENG%255D_%25282019_-_2024%252C_Horror%2529_%255BPortable%255D_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:7TAMLASDR4P5ENBXYLUPOZJCZJGRF4U7&dn=%5BAnthology%5D%20I'm%20on%20Observation%20Duty&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1zi2zNzR3qjw4KgvxPE2g4OFH0AIQOMc1/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "648", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "fpv-kamikaze-drone.png",  //imagem 500x500
+            Nome: "FPV Kamikaze Drone", //nome do jogo
+            brevedesc: "Pilote drones FPV e complete missões desafiadoras de precisão.", //um pequeno texto (+/- 70 caracteres)
+            desc: "FPV Kamikaze Drone é um jogo que coloca você no controle de drones de alta velocidade em missões de precisão e destruição. Você enfrentará desafios que exigem reflexos rápidos e estratégia para atingir alvos em ambientes dinâmicos. Com gráficos imersivos e física realista, o jogo oferece uma experiência autêntica para entusiastas de drones e pilotos em busca de adrenalina.",  // Descrição do jogo
+            Dataupload: "12/12/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: 64-bit Windows 8.1, Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i3-4340 / AMD FX-6300"+ //Processador
+            "<br>"+
+            "Memória RAM: 8 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: NVIDIA GeForce GTX 960 2GB orAMD Radeon R7 370 2GB"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "SO: 64-bit Windows 10"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Intel Core i5-6600K / AMD Ryzen 5 1600"+ //Processador
+            "<br>"+
+            "Memória RAM: 16 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: Nvidia GTX 1060 or AMD Radeon 570 with at least 6GB of VRAM"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 5 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/a2xTTBaa#huphX9CPd3vRXqbhd8tJGRSrDvnA3WTV7PY6cS2r7WE", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/q0ct77dntt6uj0v/FPV_Kamikaze_Drone_%255BP%255D_%255BRUS_%252B_ENG%255D_%25280.3.1222%2529_%255BPortable%255D_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:YWDKICXHMAPVJAP4TUNV3MWPZWCGXXGT&dn=FPVKamikazeDrone.rar&xl=4587496922&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1B9FqKXwEfIOc9xBz6jyx-NuUJQa1HNDX/view?usp=sharing",  //Link Drive
+        },
+
+        {
+            id: "649", //sempre que fores adicionar 1 jogo muda o id 2 3 4 5 6...
+            Imag: "swords-souls-neverseen.png",  //imagem 500x500
+            Nome: "Swords & Souls: Neverseen", //nome do jogo
+            brevedesc: "Treine, lute e explore em um RPG único e cheio de humor e ação.", //um pequeno texto (+/- 70 caracteres)
+            desc: "Swords & Souls: Neverseen é um RPG inovador que combina batalhas emocionantes, treinamento estratégico e uma boa dose de humor. Você cria e evolui seu herói através de mini-jogos de treino e enfrenta inimigos em combates intensos, tudo enquanto explora uma ilha misteriosa cheia de segredos e desafios. Com gráficos encantadores e jogabilidade viciante, o jogo é uma mistura perfeita de ação e diversão casual.",  // Descrição do jogo
+            Dataupload: "12/12/2024", // Colocar data atual
+    
+            // Minimos
+            RequisitosMinimos:
+            "<br>"+
+            "SO: Windows 7/8"+  //Sistema Operacional
+            "<br>"+
+            "Processador: Quad Core 2.6 GHZ"+ //Processador
+            "<br>"+
+            "Memória RAM: 4 GB de RAM"+ //Memória ram
+            "<br>"+
+            "Placa de vídeo: 2GB VRAM min"+ //Placa de Vídeo
+            "<br>"+
+            "Armazenamento: 1 GB de espaço disponível"+ //Armazenamento 
+            "<br>",
+
+            // Recomendados
+            RequisitosRecomendados: 
+            "<br>"+
+            "Não possui requisitos recomendados "+  //Sistema Operacional
+            "<br>"+
+            " "+ //Processador
+            "<br>"+
+            " "+ //Memória ram
+            "<br>"+
+            " "+ //Placa de Vídeo
+            "<br>"+
+            ""+ //Armazenamento 
+            "<br>",
+            plataforma: "PC", //PC ou MOBILE (sempre em letras grandes
+    
+            // LinksDownload
+            mega: "https://mega.nz/file/nmAQRIQT#FWmAzdZL-7heOW3FEsHOGGal85wvKUwKhyNP1DqKaDQ", //Link do Mega
+            mediafire: "https://www.mediafire.com/file/koxhinqdp95e2rd/Swords_%2526_Souls_Neverseen_%255BL%255D_%255BRUS_%252B_ENG_%252B_4%255D_%255BBy_Nuvem_Azul%255D.torrent/file", //Link MediaFire
+            magnet:"magnet:?xt=urn:btih:7QXHLXRE6FZYK6R5J3G6A27U26RWA6JL&dn=setup_swords__souls_neverseen_1.15_64_(33734).exe&xl=151238424&tr=http%3A%2F%2Fbt.t-ru.org%2Fann", //Link Magnet
+            drive:"https://drive.google.com/file/d/1CdTshkJhB-Ah4d_gn5jEHB4h9RWJcV1_/view?usp=sharing",  //Link Drive
         },
 ];
 
