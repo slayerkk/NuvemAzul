@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Obrigado!</title>
     <style>
-        /* Corpo da página */
         body {
             background: linear-gradient(to bottom, #000000, #00020f);
             font-family: 'Arial', Helvetica, sans-serif;
@@ -20,14 +19,12 @@
             height: 100vh;
         }
 
-        /* Imagem */
         img {
             max-width: 80%;
             height: auto;
             margin-bottom: 20px;
         }
 
-        /* Títulos e textos */
         h1 {
             font-size: 2.5rem;
             color: #ff0000;
@@ -43,7 +40,6 @@
             text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
         }
 
-        /* Responsividade */
         @media (max-width: 768px) {
             h1 {
                 font-size: 2rem;
@@ -69,18 +65,12 @@
         }
     </style>
     <script>
-        // URL de redirecionamento
-        const redirectUrl = "https://slayerkk.github.io/NuvemAzul/index2.html"; // Substitua pela URL desejada
-
-        // Função de redirecionamento
+        const redirectUrl = "https://slayerkk.github.io/NuvemAzul/index2.html";
         function redirectToSite() {
             window.location.href = redirectUrl;
         }
 
-        // Configurar o temporizador de 15 segundos
         setTimeout(redirectToSite, 30000);
-
-        // Adicionar evento de clique para redirecionar imediatamente
         document.addEventListener("click", redirectToSite);
     </script>
 </head>
